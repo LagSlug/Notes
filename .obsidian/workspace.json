@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bfb5a54ef6143259",
+            "id": "6f862b8a4a12c87d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Organic Chemistry/Organic Chemistry 220A.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -65,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 494.5
   },
   "right": {
     "id": "0c28b1b800fb7e5b",
@@ -81,8 +85,9 @@
             "state": {
               "type": "backlink",
               "state": {
-                "collapseAll": false,
-                "extraContext": false,
+                "file": "Organic Chemistry/Organic Chemistry 220A.md",
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Organic Chemistry/Organic Chemistry 220A.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,10 +124,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Organic Chemistry/Organic Chemistry 220A.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -138,6 +147,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bfb5a54ef6143259",
-  "lastOpenFiles": []
+  "active": "a977797b125a22cb",
+  "lastOpenFiles": [
+    "Organic Chemistry/images/chapter 1/Pasted image 20230130044403.png",
+    "Organic Chemistry/Organic Chemistry 220A.md",
+    "Organic Chemistry/images/chapter 1/Pasted image 20230130044704.png"
+  ]
 }
