@@ -4,22 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "03248114d7f80efd",
+        "id": "cb7eae832a3421b2",
         "type": "tabs",
         "children": [
           {
-            "id": "6f862b8a4a12c87d",
+            "id": "c746be0dc9d39998",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Organic Chemistry/Organic Chemistry 220A.md",
+                "file": "Organic Chemistry/Notes/Note 1.md",
                 "mode": "source",
-                "source": true
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "488da6adae3b2938",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Organic Chemistry/Summary/Chp. 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "372362148a5ee4f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Organic Chemistry/Summary/Chp. 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f070bc6d1fadf9be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Organic Chemistry/Summary.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -69,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 494.5
+    "width": 200
   },
   "right": {
     "id": "0c28b1b800fb7e5b",
@@ -85,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Organic Chemistry/Organic Chemistry 220A.md",
+                "file": "Organic Chemistry/Summary.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Organic Chemistry/Organic Chemistry 220A.md",
+                "file": "Organic Chemistry/Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,16 +162,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Organic Chemistry/Organic Chemistry 220A.md"
+                "file": "Organic Chemistry/Summary.md"
               }
+            }
+          },
+          {
+            "id": "344975cfee559308",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -144,13 +189,21 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a977797b125a22cb",
+  "active": "f070bc6d1fadf9be",
   "lastOpenFiles": [
-    "Organic Chemistry/images/chapter 1/Pasted image 20230130044403.png",
-    "Organic Chemistry/Organic Chemistry 220A.md",
-    "Organic Chemistry/images/chapter 1/Pasted image 20230130044704.png"
+    "Organic Chemistry/Summary/Chp. 2.md",
+    "Organic Chemistry/Summary.md",
+    "Organic Chemistry/Summary/Chp. 1.md",
+    "Organic Chemistry/Notes/Note 1.md",
+    "Discrete Structures - CECS228/Homework/Homework 1.md",
+    "Software/Windows/Settings.md",
+    "Organic Chemistry/images/Homework 1 - Molecular Orbitals - O2.png",
+    "Organic Chemistry/images/HW 1 - Lewis Structure - O2.png",
+    "Software/images/turn-off-touchpad.jpg",
+    "Inorganic Chemistry/Homework 1/HW 1.md"
   ]
 }

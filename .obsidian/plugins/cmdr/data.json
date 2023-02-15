@@ -1,0 +1,42 @@
+{
+  "confirmDeletion": true,
+  "showAddCommand": false,
+  "debug": false,
+  "editorMenu": [
+    {
+      "id": "obsidian-wrap-with-shortcuts:wrap-with-shortcut-w1676021636181",
+      "icon": "box-select",
+      "name": "Wrap with shortcuts: Toggle NoWrap",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-hotkeys-for-templates:MathJax.md",
+      "icon": "layout-template",
+      "name": "Hotkeys for templates: Insert: MathJax",
+      "mode": "any"
+    }
+  ],
+  "fileMenu": [],
+  "leftRibbon": [],
+  "rightRibbon": [],
+  "titleBar": [],
+  "statusBar": [],
+  "pageHeader": [],
+  "macros": [],
+  "explorer": [],
+  "hide": {
+    "statusbar": [],
+    "leftRibbon": []
+  },
+  "spacing": "8",
+  "advancedToolbar": {
+    "rowHeight": 48,
+    "rowCount": 1,
+    "spacing": 0,
+    "buttonWidth": 48,
+    "columnLayout": false,
+    "mappedIcons": [],
+    "tooltips": false,
+    "heightOffset": 0
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "wrapperTags": [
+    {
+      "id": "w1676021636181",
+      "name": "NoWrap",
+      "startTag": "<span style=\"white-space: nowrap;\">",
+      "endTag": "</span>"
+    },
+    {
+      "id": "underline",
+      "name": "Underline",
+      "startTag": "<u>",
+      "endTag": "</u>"
+    }
+  ]
+}
