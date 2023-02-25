@@ -4,34 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "cb7eae832a3421b2",
+        "id": "b596b855cf28e9e4",
         "type": "tabs",
         "children": [
           {
-            "id": "c746be0dc9d39998",
+            "id": "01ad6ea85ebb60f3",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inorganic Chemistry/Homework 1/HW 1.md",
+                "file": "Discrete Structures - CECS228/1. Laws of propositional logic.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           },
           {
-            "id": "f070bc6d1fadf9be",
+            "id": "bc2f98f16a731c69",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Organic Chemistry/Notes/Dr..md",
+                "file": "Discrete Structures - CECS228/Laws.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inorganic Chemistry/Homework 1/HW 1.md",
+                "file": "Discrete Structures - CECS228/Laws.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -114,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inorganic Chemistry/Homework 1/HW 1.md",
+                "file": "Discrete Structures - CECS228/Laws.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inorganic Chemistry/Homework 1/HW 1.md"
+                "file": "Discrete Structures - CECS228/Laws.md"
               }
             }
           },
@@ -154,8 +159,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,17 +172,26 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c746be0dc9d39998",
+  "active": "bc2f98f16a731c69",
   "lastOpenFiles": [
-    "Inorganic Chemistry/Homework 1/HW 1 - Molecular Orbitals.md",
-    "Inorganic Chemistry/Homework 1/HW1 - Drawings.md",
-    "Inorganic Chemistry/Homework 1/HW 1.md",
-    "Organic Chemistry/Notes/Dr..md",
-    "Organic Chemistry/Summary/Chp. 2.md",
-    "Organic Chemistry/Summary/Chp. 1.md",
-    "Organic Chemistry/Summary.md",
-    "Discrete Structures - CECS228/Homework/Homework 1.md",
+    "Discrete Structures - CECS228/1. Laws of propositional logic.md",
+    "Untitled.md",
+    "Discrete Structures - CECS228/Laws.md",
     "Software/Windows/Settings.md",
-    "Organic Chemistry/images/Homework 1 - Molecular Orbitals - O2.png"
+    "Discrete Structures - CECS228/Homework/Homework 1.md",
+    "Discrete Structures - CECS228/Operators.md",
+    "Software/Windows/PDF.md",
+    "Software/Windows/Obsidian.md",
+    "Software/Windows/TTS.md",
+    "Organic Chemistry/Notes/Dr. Michael Schramm.md",
+    "Inorganic Chemistry/Homework 1/HW 1.md",
+    "Organic Chemistry/images/ethyl fluoride.png",
+    "Organic Chemistry/images/ethyl amine.png",
+    "propyl group.png",
+    "Organic Chemistry/images/methyl chloride.png",
+    "Organic Chemistry/images/methyl alcohol.png",
+    "Organic Chemistry/images/CNX_Chem_08_01_Morse 1.jpg",
+    "Organic Chemistry/images/methyl amines.jpg",
+    "Organic Chemistry/images/energy diagram - H2 anion.png"
   ]
 }

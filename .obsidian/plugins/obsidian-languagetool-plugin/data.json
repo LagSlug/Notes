@@ -3,7 +3,7 @@
   "urlMode": "standard",
   "glassBg": false,
   "shouldAutoCheck": false,
-  "pickyMode": false,
-  "staticLanguage": "auto",
+  "pickyMode": true,
+  "staticLanguage": "en-US",
   "englishVeriety": "en-US"
 }

@@ -113,8 +113,8 @@ Answer: C
 	- The metallic radius in Ag metal, the covalent radius for I in I2 solid, and the ionic radius of Na+ in NaCl can be determined by analyzing the diffraction pattern produced by X-rays shining onto the corresponding samples.
 	- However, the van der Waals radius is a measure of the size of an atom or molecule taking into account the non-bonded electron cloud, which is not directly obtained from X-ray diffraction data.
 
-Answer: D
-	The van der Waals radius of I in I<sup>2</sup> solid cannot be measured through X-ray diffraction.
+~~Answer: D~~ [ Answer was C]
+	~~The van der Waals radius of I in I<sup>2</sup> solid cannot be measured through X-ray diffraction.~~
 
 8. Which of the following is True?
         (a) The ionic radius increases with an increase in the coordination number.
@@ -151,14 +151,7 @@ Answer: C
         (c) An element with higher First ionization energy has higher electronegativity
         (d) Electronegativity can be used to assign oxidation states of elements in a compound
 
-Answer: C
-	- First electron affinity is the amount of energy required to add an electron to a neutral atom to form an anion, it can be exothermic or endothermic (negative or positive).
-	- First ionization energy is the amount of energy required to remove an electron from a neutral atom to form a cation, and is always a positive value.
-	- High electronegativity is the ability a nucleous has to attract an electron, and is always a positive value.
-	- Adding an electron becomes energetically more favorable with increased electronegativity, which would reduce the amount of energy needed to add an electron. 
-	- First electron affinity decreases (becomes more exothermic) as electronegativity increases.
-	- Removing an electron becomes energetically less favorable with increased electronegativity, which would increase the amount of energy needed to remove an electron.
-	- First ionization energy increases (becomes more endothermic) as electronegativity increases.
+Answer: D
 
 11. Among the following molecules and ions, how many are linear? CO<sub>2</sub>, O<sub>3</sub>, N<sub>3</sub><sup>-</sup>, NO<sub>2</sub><sup>+</sup>
 		(a) 1	
@@ -238,7 +231,8 @@ Answer: D
 		(c) Ni<sup>2+</sup>	
 		(d) Pt<sup>2+</sup>
 
-Answer:
+~~Answer: B?~~ [Answer was D]
+
 
 19. According to hard-soft acid-base theory, which pair below would preferentially bind to PbS surface?
         (a) AsH<sub>3</sub> and (CH<sub>3</sub>)<sub>2</sub>Hg
@@ -246,7 +240,7 @@ Answer:
         (c) NH<sub>3</sub> and (CH<sub>3</sub>)<sub>2</sub>Hg
         (d) NH<sub>3</sub> and (CH<sub>3</sub>)<sub>2</sub>Zn
 
-Answer:
+~~Answer: C?~~ [Answer was A]
 
 20. According to hard-soft acid-base theory, which reaction has the largest equilibrium constant in water?
         (a) Ag<sup>+</sup>(aq) + F<sup>-</sup> (aq)	> AgF(s)
@@ -254,4 +248,4 @@ Answer:
         (c) Ag<sup>+</sup>(aq) + Br<sup>-</sup> (aq)	> AgBr(s)
         (d) Ag<sup>+</sup>(aq) + I<sup>-</sup> (aq)	> AgI(s)
 
-Answer: 
+Answer: D

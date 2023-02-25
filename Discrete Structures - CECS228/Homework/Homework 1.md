@@ -19,17 +19,17 @@ Indicate whether each statement is true or false, assuming that the "or" in the 
 B) The number π is an integer or the sun revolves around the earth.
 
 	F v F -> F
-	F xor F -> F
+	F ⊕ F -> F
 
 C) 20 nickels are worth one dollar or whales are mammals.
 	
 	T v T -> T
-	T xor T -> F
+	T ⊕ T -> F
 
 E) January has exactly 31 days or April has exactly 30 days.
 
 	T v T -> T
-	T xor T -> F
+	T ⊕ T -> F
 
 #### 1.2.3 - Truth values for compound propositions 
 
@@ -119,7 +119,7 @@ For example, given p ∨ q and p ⊕ q, the correct answer would be p = q = T, b
    | row # |  p  |  q  | ¬p ∧ q | ¬(p ∧ q) | Δ   |
    |:-----:|:---:|:---:|:------:|:--------:| --- |
    |   0   |  T  |  T  |   F    |    F     | -   |
-   |   1   |  T  |  F  |   F    |    T     | T   |
+   |   1   |  T  |  F  |   T    |    T     | T   |
    |   2   |  F  |  T  |   T    |    T     | -   |
    |   3   |  F  |  F  |   F    |    T     | T   |
 
@@ -322,18 +322,18 @@ Prove that the following pairs of expressions are not logically equivalent.
 |:-----:|:---:|:---:|:---:|:-------:|:-------:|:-----------------:|
 |   0   |  T  |  T  |  T  |    T    |    T    |         T         |
 |   1   |  T  |  T  |  F  |    T    |    T    |         T         |
-|   2   |  T  |  F  |  T  |    F    |    T    |         F         |
+|   2   |  T  |  F  |  T  |    F    |    F    |         F         |
 |   3   |  T  |  F  |  F  |    F    |    T    |         F         |
 |   4   |  F  |  T  |  T  |    T    |    T    |         T         |
 |   5   |  F  |  T  |  F  |    T    |    T    |         T         |
-|   6   |  F  |  F  |  T  |    T    |    T    |         T         |
+|   6   |  F  |  F  |  T  |    T    |    F    |         F         |
 |   7   |  F  |  F  |  F  |    T    |    T    |         T         |
 
-| Row # |  p  |  r  |  q  | (p ∧ r) → q |
+| Row # |  p  |  q  |  r  | (p ∧ r) → q |
 |:-----:|:---:|:---:|:---:|:-----------:|
 |   0   |  T  |  T  |  T  |      T      |
-|   1   |  T  |  T  |  F  |      F      |
-|   2   |  T  |  F  |  T  |      T      |
+|   1   |  T  |  T  |  F  |      T      |
+|   2   |  T  |  F  |  T  |      F      |
 |   3   |  T  |  F  |  F  |      T      |
 |   4   |  F  |  T  |  T  |      T      |
 |   5   |  F  |  T  |  F  |      T      |
@@ -368,7 +368,7 @@ If Sally updated her resume and did not get the job, then she was late for her i
 |   3   |  T  |  F  |  F  |   T    |        T        |
 |   4   |  F  |  T  |  T  |   T    |        T        |
 |   5   |  F  |  T  |  F  |   T    |        T        |
-|   6   |  F  |  F  |  T  |   F    |        T        |
+|   6   |  F  |  F  |  T  |   F    |        F        |
 |   7   |  F  |  F  |  F  |   T    |        T        |
 
 
@@ -383,7 +383,7 @@ If Sally updated her resume and did not get the job, then she was late for her i
 |   6   |  F  |  F  |  T  |   T    |       F       |
 |   7   |  F  |  F  |  F  |   F    |       T       |
 
-- The two expressions are not logically equivalent because row 6 differs between both truth tables.
+- The two expressions are logically equivalent since both expression have the same set of truth values.
 
 
 
@@ -391,15 +391,15 @@ If Sally updated her resume and did not get the job, then she was late for her i
 Below are several proofs showing that two logical expressions are logically equivalent. Label the steps in each proof with the law used to obtain each proposition from the previous proposition. The first line in the proof does not have a label.
 
 (A)
-| Expression         | Law |
-|:------------------ |:---:|
-| (p → q) ∧ (q ∨ p)  | Conditional Identity   |
-| (¬p ∨ q) ∧ (q ∨ p) | Commutative    |
-| (q ∨ ¬p) ∧ (q ∨ p) | Distributive    |
-| q ∨ (¬p ∧ p)       | Commutative    |
-| q ∨ (p ∧ ¬p)       | Domination    |
-| q ∨ F              | Identity    |
-| q                  |     |
+| Expression         |          Law         |
+|--------------------|:--------------------:|
+| (p → q) ∧ (q ∨ p)  |                      |
+| (¬p ∨ q) ∧ (q ∨ p) | Conditional Identity |
+| (q ∨ ¬p) ∧ (q ∨ p) | Commutative          |
+| q ∨ (¬p ∧ p)       | Distributive         |
+| q ∨ (p ∧ ¬p)       | Commutative          |
+| q ∨ F              | Domination           |
+| q                  | Identity             |
 
 #### 1.5.2 - Using the laws of logic to prove logical equivalence.
 
@@ -407,21 +407,21 @@ Use the laws of propositional logic to prove the following:
 
 (H)            p ↔ (p ∧ r) ≡ ¬p ∨ r
 
-| Expression                                   | Law            |
-|:-------------------------------------------- |:-------------- |
-| p ↔ ( p ∧ r )                                | Bi-Conditional |
-| ( p → ( p ∧ r ) ) ∧ (( p ∧ r ) → p )        | Conditional    |
-| ( ¬p ∨ ( p ∧ r ) ) ∧ (( p ∧ r ) → p )       | Distributive   |
-| (( ¬p ∨ p ) ∧ (¬p ∨ r )) ∧ (( p ∧ r ) → p ) | Tautology      |
-| ( T ∧ (¬p ∨ r )) ∧ (( p ∧ r ) → p )        | Identity       |
-| (¬p ∨ r ) ∧ (( p ∧ r ) → p )                | Conditional    |
-| (¬p ∨ r ) ∧ (¬( p ∧ r ) ∨ p )                | De Morgans     |
-| (¬p ∨ r ) ∧ (( ¬p ∨ ¬r ) ∨ p )               | Commutative    |
-| (¬p ∨ r ) ∧ ((p ∨ ( ¬p ∨ ¬r ))               | Associative    |
-| (¬p ∨ r ) ∧ ((p ∨ ¬p) ∨ ¬r )                 | Tautology      |
-| (¬p ∨ r ) ∧ ( T ∨ ¬r )                       | Domination     |
-| (¬p ∨ r ) ∧ T                                | Identity       |
-| ¬p ∨ r                                             |                |
+| Expression                                  | Law            |
+|---------------------------------------------|----------------|
+| p ↔ ( p ∧ r )                               |                |
+| ( p → ( p ∧ r ) ) ∧ (( p ∧ r ) → p )        | Bi-Conditional |
+| ( ¬p ∨ ( p ∧ r ) ) ∧ (( p ∧ r ) → p )       | Conditional    |
+| (( ¬p ∨ p ) ∧ (¬p ∨ r )) ∧ (( p ∧ r ) → p ) | Distributive   |
+| ( T ∧ (¬p ∨ r )) ∧ (( p ∧ r ) → p )         | Tautology      |
+| (¬p ∨ r ) ∧ (( p ∧ r ) → p )                | Identity       |
+| (¬p ∨ r ) ∧ (¬( p ∧ r ) ∨ p )               | Conditional    |
+| (¬p ∨ r ) ∧ (( ¬p ∨ ¬r ) ∨ p )              | De Morgans     |
+| (¬p ∨ r ) ∧ ((p ∨ ( ¬p ∨ ¬r ))              | Commutative    |
+| (¬p ∨ r ) ∧ ((p ∨ ¬p) ∨ ¬r )                | Associative    |
+| (¬p ∨ r ) ∧ ( T ∨ ¬r )                      | Tautology      |
+| (¬p ∨ r ) ∧ T                               | Domination     |
+| ¬p ∨ r                                      | Identity       |
 
 #### 1.5.4 - Logical relationships between the inverse, converse, and contrapositive.
 Use the laws of propositional logic to prove each of the following assertions. Start by defining a generic conditional statement p → q, and then restate the assertion as the equivalence or non-equivalence of two propositions using p and q. Finally prove that the two propositions are equivalent or non-equivalent.
@@ -436,7 +436,7 @@ p → q is not logically equivalent to  q → p. This is proven by the Converse 
 | --- | --- | --- | ----- | ----- |
 |  0   | T   | T   | T     | T     |
 |  1   | T   | F   | F     | T     |
-|  2   | F   | T   | T     | T     |
+|  2   | F   | T   | T     | F     |
 |  3   | F   | F   | T     | T     |
 
 When p = True and q = False, p → q is not logically equivalent to q → p.
@@ -488,11 +488,10 @@ This can be proven using a truth table:
 And through a series of transformations:
 | Expression | Rule        |
 | ---------- | ----------- |
-| q → p      | Conditional |
-| ¬q ∨ p     | Commutative |
-| p ∨ ¬q     | Conditional |
-| ¬p → ¬q    |             |
-
+| q → p      |             | 
+| ¬q ∨ p     | Conditional |
+| p ∨ ¬q     | Commutative |
+| ¬p → ¬q    | Conditional |
 
 
 #### 1.6.1 - Which expressions with predicates are propositions?
@@ -538,16 +537,16 @@ Example: when x = -1 the expression is true.
 
 (c)     ∀x (x<sup>2</sup> − x ≠ 1)
 
-False
+True
 $$
 \displaylines{
 
-	x^2 - 1 ≠ 1 \\	
-	x^2 ≠ 2 \\
-	\sqrt{x} ≠ \sqrt{2}
+	x^2 - x ≠ 1 \\	
+	x(x - 1) ≠ 1 \\
+	x ≠ \frac{1}{(x - 1)} \\
+	
 }
 $$
-Counter-example: when x = 2, the expression is false.
 
 (d)     ∀x (x<sup>2</sup> − x ≠ 0)
 
@@ -570,7 +569,7 @@ Counter-example: When x = 0 the expression evaluates to false.
 
 True
 
-Example: X = 1
+Example: x = 1
 
 #### 1.6.3 Translating mathematical statements in English into logical expressions.
 
@@ -625,9 +624,9 @@ Is a proposition, and is true.
 
 | Expression  | Rule                     |
 | ----------- |:------------------------ |
-| Q(x) ∨ P(3) | Evaluate P(3)            |
-| Q(x) ∨ T    | Domination (Disjunction) |
-| T           |                          |
+| Q(x) ∨ P(3) |                          | 
+| Q(x) ∨ T    | Evaluate P(3)            |
+| T           | Domination (Disjunction) |
 
 (e)     ∀x (¬Q(x) ∨ P(x))
 Is a proposition, and is false.
@@ -701,9 +700,9 @@ D(x): x has paid their club dues.
 English translation:
 "For all x, it is not the case that being an officer of the club is logically equivalent to having paid club dues."
 
-True
+False
 
-Reason: Hillary has paid their dues, but is not an officer.
+Reason: Jeb has paid their dues, and is an officer.
 
 (b) ∀x ((x ≠ Jeb) → ¬(O(x) ↔ D(x)))
 English translation:
@@ -745,11 +744,11 @@ Sample question: Some patient was given the placebo and the medication.
 
 | Expression          | Operation       |
 | ------------------- | --------------- |
-| ¬∀x (P(x) → M(x))   | De Morgans      |
-| ∃x ¬(P(x) → M(x))   | Conditional     |
-| ∃x ¬(¬P(x) ∨ M(x))  | De Morgans      |
-| ∃x (¬¬P(x) ∧ ¬M(x)) | Double Negation |
-| ∃x (P(x) ∧ ¬M(x))   |                 |
+| ¬∀x (P(x) → M(x))   |                 | 
+| ∃x ¬(P(x) → M(x))   | De Morgans      |
+| ∃x ¬(¬P(x) ∨ M(x))  | Conditional     |
+| ∃x (¬¬P(x) ∧ ¬M(x)) | De Morgans      |
+| ∃x (P(x) ∧ ¬M(x))   | Double Negation |
 
 - There exists a patient who took the placebo and did not have migraines.
 
@@ -760,9 +759,9 @@ Sample question: Some patient was given the placebo and the medication.
 
 | Expression         | Operation  |
 | ------------------ | ---------- |
-| ¬∃x (P(x) ∧ M(x))  | De Morgans |
+| ¬∃x (P(x) ∧ M(x))  |            | 
 | ∀x ¬(P(x) ∧ M(x))  | De Morgans |
-| ∀x (¬P(x) ∨ ¬M(x)) |            |
+| ∀x (¬P(x) ∨ ¬M(x)) | De Morgans |
 
 - Every patient was not given a placebo or did not have migraines.
 
@@ -774,23 +773,23 @@ Use De Morgan's law for quantified statements and the laws of propositional logi
 
 | Expression          | Operation       |
 | ------------------- | --------------- |
-| ¬∀x (¬P(x) → Q(x))  | De Morgan's     |
-| ∃x ¬(¬P(x) → Q(x))  | Conditional     |
-| ∃x ¬(¬¬P(x) ∨ Q(x)) | Double Negation |
-| ∃x ¬(P(x) ∨ Q(x))   | De Morgan's     |
-| ∃x (¬P(x) ∧ ¬Q(x))  |                 |
+| ¬∀x (¬P(x) → Q(x))  |                 | 
+| ∃x ¬(¬P(x) → Q(x))  | De Morgan's     |
+| ∃x ¬(¬¬P(x) ∨ Q(x)) | Conditional     |
+| ∃x ¬(P(x) ∨ Q(x))   | Double Negation |
+| ∃x (¬P(x) ∧ ¬Q(x))  | De Morgan's     |
 
 
 (c) ¬∃x (¬P(x) ∨ (Q(x) ∧ ¬R(x))) ≡ ∀x (P(x) ∧ (¬Q(x) ∨ R(x)))
 
 | Expression                    | Operation       |
 | ----------------------------- | --------------- |
-| ¬∃x (¬P(x) ∨ (Q(x) ∧ ¬R(x)))  | De Morgan's     |
+| ¬∃x (¬P(x) ∨ (Q(x) ∧ ¬R(x)))  |                 | 
 | ∀x ¬(¬P(x) ∨ (Q(x) ∧ ¬R(x)))  | De Morgan's     |
-| ∀x (¬¬P(x) ∧ ¬(Q(x) ∧ ¬R(x))) | Double Negation |
-| ∀x (P(x) ∧ ¬(Q(x) ∧ ¬R(x)))   | De Morgan's     |
-| ∀x (P(x) ∧ (¬Q(x) ∨ ¬¬R(x)))  | Double Negation |
-| ∀x (P(x) ∧ (¬Q(x) ∨ R(x)))    |                 |
+| ∀x (¬¬P(x) ∧ ¬(Q(x) ∧ ¬R(x))) | De Morgan's     |
+| ∀x (P(x) ∧ ¬(Q(x) ∧ ¬R(x)))   | Double Negation |
+| ∀x (P(x) ∧ (¬Q(x) ∨ ¬¬R(x)))  | De Morgan's     |
+| ∀x (P(x) ∧ (¬Q(x) ∨ R(x)))    | Double Negation |
 
 #### 1.9.3 Truth values for mathematical expressions with nested quantifiers.
 
@@ -818,25 +817,25 @@ Write the negation of each of the following logical expressions so that all nega
 
 | Expression                  | Operation       |
 | --------------------------- | --------------- |
-| ∃x ∀y (P(x, y) → Q(x, y))   | Negation        |
-| ¬∃x ∀y (P(x, y) → Q(x, y))  | De Morgan's     |
-| ∀x∃y ¬(P(x, y) → Q(x, y))   | Conditional     |
-| ∀x∃y ¬(¬P(x, y) ∨ Q(x, y))  | De Morgan's     |
-| ∀x∃y (¬¬P(x, y) ∧ ¬Q(x, y)) | Double Negation |
-| ∀x∃y (P(x, y) ∧ ¬Q(x, y))   |                 |
+| ∃x ∀y (P(x, y) → Q(x, y))   |         |
+| ¬∃x ∀y (P(x, y) → Q(x, y))  | Negation     |
+| ∀x∃y ¬(P(x, y) → Q(x, y))   | De Morgan's     |
+| ∀x∃y ¬(¬P(x, y) ∨ Q(x, y))  | Conditional     |
+| ∀x∃y (¬¬P(x, y) ∧ ¬Q(x, y)) | De Morgan's  |
+| ∀x∃y (P(x, y) ∧ ¬Q(x, y))   | Double Negation                |
 
 (d) ∃x ∀y (P(x, y) ↔ P(y, x))
 
 | Expression                     | Operation       |
-| ------------------------------ | --------------- |
-| ∃x∀y (P(x, y) ↔ P(y, x))       | Negation        |
-| ¬∃x∀y (P(x, y) ↔ P(y, x))      | De Morgan's     |
-| ∀x∃y ¬(P(x, y) ↔ P(y, x))      | Bi-conditional  |
-| ∀x∃y ¬((p → q) ∧ (q → p))      | De Morgan's     |
-| ∀x∃y (¬(p → q) ∨ ¬(q → p))     | Conditional     |
-| ∀x∃y (¬(¬p ∨ q) ∨ ¬(¬q ∨ p))   | De Morgan's     |
-| ∀x∃y ((¬¬p ∧ ¬q) ∨ (¬¬q ∧ ¬p)) | Double Negation |
-| ∀x∃y ((p ∧ ¬q) ∨ (q ∧ ¬p))     |                 |
+|--------------------------------|-----------------|
+| ∃x∀y (P(x, y) ↔ P(y, x))       |                 |
+| ¬∃x∀y (P(x, y) ↔ P(y, x))      | Negation        |
+| ∀x∃y ¬(P(x, y) ↔ P(y, x))      | De Morgan's     |
+| ∀x∃y ¬((p → q) ∧ (q → p))      | Bi-conditional  |
+| ∀x∃y (¬(p → q) ∨ ¬(q → p))     | De Morgan's     |
+| ∀x∃y (¬(¬p ∨ q) ∨ ¬(¬q ∨ p))   | Conditional     |
+| ∀x∃y ((¬¬p ∧ ¬q) ∨ (¬¬q ∧ ¬p)) | De Morgan's     |
+| ∀x∃y ((p ∧ ¬q) ∨ (q ∧ ¬p))     | Double Negation |
 
 #### 1.10.2 Truth values for mathematical statements with nested quantifiers.
 
@@ -859,7 +858,7 @@ $$
 		y = 2z - x
 	}
 $$
-	Let y = 2z - x, and for any value x and z, a y can be found that stasfies the expression.
+	Let y = 2z - x, and for any value x and z, a y can be found that satisfies the expression.
 	True
 
 
@@ -901,7 +900,7 @@ The domain for the first input variable to predicate T is a set of students at a
 
 T(x, y): student x has taken class y
 
-(d There is a student who has taken every math class other than Math 101.
+(d) There is a student who has taken every math class other than Math 101.
 
 ∃x∀y ( T(x, y) ∧ y ≠ Math 101 )
 
