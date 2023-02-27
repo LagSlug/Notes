@@ -16,7 +16,7 @@
 ![[Organic Chemistry/images/main-qimg-13cf8564979f7edb67d7c385d08ffac3 1.webp]]
 
 - Covalent bonding - NOCl
-![[th.jpg]]
+![[Organic Chemistry/images/th.jpg]]
 
 
 
@@ -150,11 +150,6 @@ Isobutane
 ![[Organic Chemistry/images/methyl alcohol.png]]
 
 
-
-
-
-
-
 ##### Ethyl group
 ![[Organic Chemistry/images/ethyl group.jpg]]
 
@@ -171,10 +166,10 @@ Isobutane
 
 
 ##### Propyl Group
-![[propyl group.png]]
+![[Organic Chemistry/images/propyl group.png]]
 
 ##### Butyl Group
-![[butyl group.png]]
+![[Organic Chemistry/images/butyl group.png]]
 
 
 

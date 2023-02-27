@@ -1,16 +1,19 @@
 Discrete Structures - CECS228
 
-Exercises:
--  1.1.4 (B, C, E)
--  1.2.3 (E , F)  ,  1.2.4 (D)  ,  1.2.8
--  1.3.3 (C)  ,  1.3.4 (C , D)  ,  1.3.6 ,  1.3.7 (D , E) ,  1.3.10 (C, F)  
--  1.4.2 (A)  ,  1.4.3 (C)  ,  1.4.5 (A)
--  1.5.1 (A)   ,   1.5.2 (H)   ,   1.5.4
--  1.6.1 (F)   ,   1.6.2   ,   1.6.3  
--  1.7.1 (B, C, E),   1.7.5 (D, E, F) ,   1.7.6 (E, F) ,   1.7.10 ( A, B, I )  
--  1.8.2 (D, E)  ,   1.8.4 (B, C)
--  1.9.3 (B,  D,  H)  ,   1.9.4 (C, D)
--  1.10.2 (B, E, F)  ,   1.10.4 (D, H) ,   1.10.8 (A, F) ,   1.10.10 (D, E)
+#### Exercises
+
+Chapter 1
+
+-   **1.1.4 (B, C, E)**
+-   **1.2.3 (E, F), 1.2.4 (D), 1.2.8**
+-   **1.3.3 (C), 1.3.4 (C, D), 1.3.6, 1.3.7 (D, E), 1.3.10 (C, F)**
+-   **1.4.2 (A), 1.4.3 (C), 1.4.5 (A)**
+-   **1.5.1 (A), 1.5.2 (H), 1.5.4**
+-   **1.6.1 (F), 1.6.2, 1.6.3**
+-   **1.7.1 (B, C, E), 1.7.5 (D, E, F), 1.7.6 (E, F), 1.7.10 (A, B, I)**
+-   **1.8.2 (D, E), 1.8.4 (B, C)**
+-   **1.9.3 (B, D, H), 1.9.4 (C, D)**
+-   **1.10.2 (B, E, F), 1.10.4 (D, H), 1.10.8 (A, F), 1.10.10 (D, E)**
 
 #### 1.1.4 - Truth values for statements with inclusive and exclusive or.
 
@@ -571,7 +574,7 @@ True
 
 Example: x = 1
 
-#### 1.6.3 Translating mathematical statements in English into logical expressions.
+#### 1.6.3 - Translating mathematical statements in English into logical expressions.
 
 Consider the following statements in English. Write a logical expression with the same meaning. The domain is the set of all real numbers.
 
@@ -600,7 +603,7 @@ $$
 }
 $$
 
-#### 1.7.1 Determining whether a quantified statement about the integers is true.
+#### 1.7.1 - Determining whether a quantified statement about the integers is true.
 
 Predicates P and Q are defined below. The domain is the set of all positive integers.
 
@@ -637,7 +640,7 @@ Is a proposition, and is false.
 | 3   | T    | T     | T            |
 | 4   | F    | F     | F             |
 
-#### 1.7.5 Translating quantified statements from English to logic, part 4.
+#### 1.7.5 - Translating quantified statements from English to logic, part 4.
 
 A student club holds a meeting. The predicate M(x) denotes whether person x came to the meeting on time. The predicate O(x) refers to whether person x is an officer of the club. The predicate D(x) indicates whether person x has paid his or her club dues. The domain is the set of all members of the club. Give a logical expression that is equivalent to each English statement.
 
@@ -664,7 +667,7 @@ $$
 }
 $$
 
-#### 1.7.6 Translating quantified statements from logic to English.
+#### 1.7.6 - Translating quantified statements from logic to English.
 
 In the following question, the domain is the set of employees of a company. Define the following predicates:
 
@@ -680,7 +683,7 @@ Every employee that earns more than $100,000 is on the board of directors or wor
 (f) ∃x (A(x) ∧ ¬E(x) ∧ W(x))
 There exists an employee that is on the board of directors and does not earn more than $100,000 and works more than 60 hours per week.
 
-#### 1.7.10 Determining whether a quantified logical statement is true, part 2.
+#### 1.7.10 - Determining whether a quantified logical statement is true, part 2.
 
 A student club holds a meeting. The predicate M(x) denotes whether person x came to the meeting on time. The predicate O(x) refers to whether person x is an officer of the club. The predicate D(x) indicates whether person x has paid his or her club dues. The domain is the set of all members of the club. The names of the members and their truth values for each of the predicates is given in the following table. Indicate whether each expression is true or false. If a universal statement is not true, give a counterexample. If an existential statement is true, give an example.
 
@@ -720,7 +723,7 @@ False.
 
 Reason: No officer came on time.
 
-#### 1.8.2 Applying De Morgan's law for quantified statements to English statements.
+#### 1.8.2 - Applying De Morgan's law for quantified statements to English statements.
 
 In the following question, the domain is a set of male patients in a clinical study. Define the following predicates:
 
@@ -765,7 +768,7 @@ Sample question: Some patient was given the placebo and the medication.
 
 - Every patient was not given a placebo or did not have migraines.
 
-#### 1.8.4 Using De Morgan's law for quantified statements to prove logical equivalence.
+#### 1.8.4 - Using De Morgan's law for quantified statements to prove logical equivalence.
 
 Use De Morgan's law for quantified statements and the laws of propositional logic to show the following equivalences:
 
@@ -791,7 +794,7 @@ Use De Morgan's law for quantified statements and the laws of propositional logi
 | ∀x (P(x) ∧ (¬Q(x) ∨ ¬¬R(x)))  | De Morgan's     |
 | ∀x (P(x) ∧ (¬Q(x) ∨ R(x)))    | Double Negation |
 
-#### 1.9.3 Truth values for mathematical expressions with nested quantifiers.
+#### 1.9.3 - Truth values for mathematical expressions with nested quantifiers.
 
 Determine the truth value of each expression below. The domain is the set of all real numbers
 
@@ -809,7 +812,7 @@ Determine the truth value of each expression below. The domain is the set of all
 	Let y = x<sup>1/2</sup>
 	True
 	
-#### 1.9.4 De Morgan's law and nested quantifiers.
+#### 1.9.4 - De Morgan's law and nested quantifiers.
 
 Write the negation of each of the following logical expressions so that all negations immediately precede predicates. In some cases, it may be necessary to apply one or more laws of propositional logic.
 
@@ -837,7 +840,7 @@ Write the negation of each of the following logical expressions so that all nega
 | ∀x∃y ((¬¬p ∧ ¬q) ∨ (¬¬q ∧ ¬p)) | De Morgan's     |
 | ∀x∃y ((p ∧ ¬q) ∨ (q ∧ ¬p))     | Double Negation |
 
-#### 1.10.2 Truth values for mathematical statements with nested quantifiers.
+#### 1.10.2 - Truth values for mathematical statements with nested quantifiers.
 
 The domain for all variables in the expressions below is the set of real numbers. Determine whether each statement is true or false. Justify your answer.
 
@@ -862,7 +865,7 @@ $$
 	True
 
 
-#### 1.10.4 Mathematical statements into logical statements with nested quantifiers.
+#### 1.10.4 - Mathematical statements into logical statements with nested quantifiers.
 
 Translate each of the following English statements into logical expressions. The domain is the set of all real numbers.
 
@@ -874,7 +877,7 @@ Translate each of the following English statements into logical expressions. The
 	∀x∃y ( xy = 1 ∧ x ≠ 0)
 	- The multiplicative inverse of a non-zero number a is a number a<sup>-1</sup> such that a * a<sup>-1</sup> = 1.
 	
-#### 1.10.8 Statements with nested quantifiers: English to logic, part 4.
+#### 1.10.8 - Statements with nested quantifiers: English to logic, part 4.
 
 A student club holds an election for officers. Before the voting, members can nominate each other. It is also possible for a member to nominate himself or herself. Some of the members are new members. Some of the members are currently officers. The domain is the set of members of the club. One of the members of the club is named Sam. Define the following predicates.
 
@@ -894,7 +897,7 @@ Give a quantified expression that is logically equivalent to each of the followi
 
 ∃x ∀y ( N(x, Sam) ∧ (x=y) )
 
-#### 1.10.10 Statements with nested quantifiers: variables with different domains.
+#### 1.10.10 - Statements with nested quantifiers: variables with different domains.
 
 The domain for the first input variable to predicate T is a set of students at a university. The domain for the second input variable to predicate T is the set of Math classes offered at that university. The predicate T(x, y) indicates that student x has taken class y. Sam is a student at the university and Math 101 is one of the courses offered at the university. Give a logical expression for each sentence.
 

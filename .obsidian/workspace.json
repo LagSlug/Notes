@@ -4,35 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "b596b855cf28e9e4",
+        "id": "ceb828eaa2651816",
         "type": "tabs",
         "children": [
           {
-            "id": "01ad6ea85ebb60f3",
+            "id": "0d944d3d069dcd07",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Discrete Structures - CECS228/1. Laws of propositional logic.md",
+                "file": "Software/Windows/Obsidian.md",
                 "mode": "source",
                 "source": false
-              },
-              "pinned": true
+              }
             }
           },
           {
-            "id": "bc2f98f16a731c69",
+            "id": "f4c009acfb3963d6",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Discrete Structures - CECS228/Laws.md",
+                "file": "Organic Chemistry/1. New Start.md",
                 "mode": "source",
                 "source": false
-              },
-              "pinned": true
+              }
             }
           }
         ],
@@ -86,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 315.5
   },
   "right": {
     "id": "0c28b1b800fb7e5b",
@@ -102,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Discrete Structures - CECS228/Laws.md",
+                "file": "Organic Chemistry/1. New Start.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -119,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Discrete Structures - CECS228/Laws.md",
+                "file": "Organic Chemistry/1. New Start.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Discrete Structures - CECS228/Laws.md"
+                "file": "Organic Chemistry/1. New Start.md"
               }
             }
           },
@@ -172,22 +168,38 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bc2f98f16a731c69",
+  "active": "f4c009acfb3963d6",
   "lastOpenFiles": [
-    "Discrete Structures - CECS228/1. Laws of propositional logic.md",
-    "Untitled.md",
-    "Discrete Structures - CECS228/Laws.md",
-    "Software/Windows/Settings.md",
-    "Discrete Structures - CECS228/Homework/Homework 1.md",
-    "Discrete Structures - CECS228/Operators.md",
-    "Software/Windows/PDF.md",
     "Software/Windows/Obsidian.md",
-    "Software/Windows/TTS.md",
+    "Organic Chemistry/1. New Start.md",
+    "Organic Chemistry/1. Bonds and Structure.md",
     "Organic Chemistry/Notes/Dr. Michael Schramm.md",
+    "Discrete Structures - CECS228/Laws.md",
+    "Discrete Structures - CECS228/Homework/HW 2.md",
+    "Discrete Structures - CECS228/2. Proofs.md",
+    "Geoscience/Atmospheric Science/Atmospheric Science.md",
+    "Geoscience/Atmospheric Science",
+    "Geoscience",
+    "Software/Windows/Browser Addons.md",
+    "README.md",
+    "Templates/Box.md",
+    "Discrete Structures - CECS228/1. Laws of propositional logic.md",
+    "Templates/MathJax.md",
+    "Discrete Structures - CECS228/Homework/HW 1.md",
+    "Discrete Structures - CECS228/Operators.md",
+    "Discrete Structures - CECS228/3. Sets.md",
+    "Organic Chemistry/images/propyl group.png",
+    "mkdocs.yml",
+    "New Text Document.txt",
+    "Untitled.md",
+    "Organic Chemistry/images/th 1.jpg",
+    "Organic Chemistry/images/th.jpg",
+    "Software/Windows/Settings.md",
+    "Software/Windows/PDF.md",
+    "Software/Windows/TTS.md",
     "Inorganic Chemistry/Homework 1/HW 1.md",
     "Organic Chemistry/images/ethyl fluoride.png",
     "Organic Chemistry/images/ethyl amine.png",
-    "propyl group.png",
     "Organic Chemistry/images/methyl chloride.png",
     "Organic Chemistry/images/methyl alcohol.png",
     "Organic Chemistry/images/CNX_Chem_08_01_Morse 1.jpg",

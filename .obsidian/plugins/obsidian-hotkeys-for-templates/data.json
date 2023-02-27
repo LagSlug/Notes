@@ -1,6 +1,7 @@
 {
   "files": [
-    "MathJax.md"
+    "MathJax.md",
+    "Box.md"
   ],
   "templaterFiles": [],
   "newFileTemplates": [],

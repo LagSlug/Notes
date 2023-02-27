@@ -14,6 +14,12 @@
       "icon": "layout-template",
       "name": "Hotkeys for templates: Insert: MathJax",
       "mode": "any"
+    },
+    {
+      "id": "obsidian-hotkeys-for-templates:Box.md",
+      "icon": "box",
+      "name": "Hotkeys for templates: Insert: Box",
+      "mode": "any"
     }
   ],
   "fileMenu": [],
