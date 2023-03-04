@@ -4,30 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ceb828eaa2651816",
+        "id": "53bc056ece3fc07d",
         "type": "tabs",
         "children": [
           {
-            "id": "f4c009acfb3963d6",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Organic Chemistry/1. New Start.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "f39804e461eacbf8",
+            "id": "77a6f42a9d216b25",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software/Windows/Settings.md",
+                "file": "Organic Chemistry/Resonance.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Organic Chemistry/1. New Start.md",
+                "file": "Organic Chemistry/Resonance.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -116,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Organic Chemistry/1. New Start.md",
+                "file": "Organic Chemistry/Resonance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Organic Chemistry/1. New Start.md"
+                "file": "Organic Chemistry/Resonance.md"
               }
             }
           },
@@ -156,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,40 +153,51 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "f4c009acfb3963d6",
+  "active": "77a6f42a9d216b25",
   "lastOpenFiles": [
+    "Organic Chemistry/1. Bonds and Structure.md",
+    "Inorganic Chemistry/Weller (2018)/Chapter 5.md",
+    "Inorganic Chemistry/Weller (2018)/Book info.md",
+    "Discrete Structures - CECS228/2. Proofs.md",
+    "Discrete Structures - CECS228/3. Sets.md",
+    "Discrete Structures - CECS228/Homework/HW 2.md",
+    "Inorganic Chemistry/Group Theory - The Exploitation of Symmetry.md",
+    "Programming/Obsidian/Plugin Development.md",
+    "Programming/Obsidian/Chem Lab.md",
+    "Programming/Obsidian/Templater.md",
+    "Programming/Obsidian",
+    "Organic Chemistry/1. New Start.md",
+    "Templater/Templates/Typescript Code Block.md",
+    "Programming/Typescript/Cheatsheet.md",
+    "Inorganic Chemistry/Homework 1/HW 1 - Molecular Orbitals.md",
+    "Untitled.md",
+    "Inorganic Chemistry/Homework 1/HW 1.md",
+    "Templater/Scripts/pretty_print_ts.js",
+    "Templater/Scripts/New Text Document.txt",
+    "Templater/Scripts/pretty_print_js.js.md",
+    "Templater/Scripts/pretty_print_js.js",
+    "README.md",
+    "Templater/Templates",
+    "Templater",
+    "Templater/Scripts",
+    "Programming/Typescript/Test.md",
+    "Programming/NodeJS & Typescript.md",
+    "Programming/Typescript",
     "Software/Windows/Settings.md",
     "Software/Windows/Utility.md",
-    "Organic Chemistry/1. New Start.md",
     "Software/Windows/Obsidian.md",
-    "Organic Chemistry/1. Bonds and Structure.md",
     "Organic Chemistry/Notes/Dr. Michael Schramm.md",
     "Discrete Structures - CECS228/Laws.md",
-    "Discrete Structures - CECS228/Homework/HW 2.md",
-    "Discrete Structures - CECS228/2. Proofs.md",
     "Geoscience/Atmospheric Science/Atmospheric Science.md",
     "Geoscience/Atmospheric Science",
     "Geoscience",
-    "Software/Windows/Browser Addons.md",
-    "README.md",
-    "Templates/Box.md",
-    "Discrete Structures - CECS228/1. Laws of propositional logic.md",
-    "Templates/MathJax.md",
-    "Discrete Structures - CECS228/Homework/HW 1.md",
-    "Discrete Structures - CECS228/Operators.md",
-    "Discrete Structures - CECS228/3. Sets.md",
     "Organic Chemistry/images/propyl group.png",
-    "mkdocs.yml",
-    "New Text Document.txt",
-    "Untitled.md",
     "Organic Chemistry/images/th 1.jpg",
     "Organic Chemistry/images/th.jpg",
-    "Software/Windows/PDF.md",
-    "Software/Windows/TTS.md",
-    "Inorganic Chemistry/Homework 1/HW 1.md",
     "Organic Chemistry/images/ethyl fluoride.png",
     "Organic Chemistry/images/ethyl amine.png",
     "Organic Chemistry/images/methyl chloride.png",

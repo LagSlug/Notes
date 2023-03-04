@@ -7,6 +7,12 @@
       "endTag": "</span>"
     },
     {
+      "id": "w1677565320203",
+      "name": "Typescript Code Block",
+      "startTag": "```typescript\\n",
+      "endTag": "\\n```"
+    },
+    {
       "id": "underline",
       "name": "Underline",
       "startTag": "<u>",
