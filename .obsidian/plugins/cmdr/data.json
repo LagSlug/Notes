@@ -20,6 +20,12 @@
       "icon": "box",
       "name": "Hotkeys for templates: Insert: Box",
       "mode": "any"
+    },
+    {
+      "id": "obsidian-hotkeys-for-templates:MathJax-Theorem.md",
+      "icon": "calculator",
+      "name": "Hotkeys for templates: Insert: MathJax-Theorem",
+      "mode": "any"
     }
   ],
   "fileMenu": [],

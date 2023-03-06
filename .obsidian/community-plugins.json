@@ -8,5 +8,6 @@
   "obsidian-wrap-with-shortcuts",
   "obsidian-hotkeys-for-templates",
   "obsidian-pandoc",
-  "templater-obsidian"
+  "templater-obsidian",
+  "obsidian-regex-replace"
 ]

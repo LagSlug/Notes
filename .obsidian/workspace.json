@@ -10,16 +10,59 @@
           {
             "id": "77a6f42a9d216b25",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Organic Chemistry/Resonance.md",
+                "file": "Discrete Structures - CECS228/Homework/HW 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "792c6844ef75c105",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/MathJax-Theorem.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "f29a31bab30bcf58",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Discrete Structures - CECS228/2. Proofs.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "40e920f575ba385e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -69,7 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 315.5
+    "width": 291.5
   },
   "right": {
     "id": "0c28b1b800fb7e5b",
@@ -85,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Organic Chemistry/Resonance.md",
+                "file": "Discrete Structures - CECS228/2. Proofs.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Organic Chemistry/Resonance.md",
+                "file": "Discrete Structures - CECS228/2. Proofs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Organic Chemistry/Resonance.md"
+                "file": "Discrete Structures - CECS228/2. Proofs.md"
               }
             }
           },
@@ -157,44 +200,81 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "77a6f42a9d216b25",
+  "floating": {
+    "id": "25545b74372f4020",
+    "type": "floating",
+    "children": [
+      {
+        "id": "55976951dbd62d1c",
+        "type": "window",
+        "children": [
+          {
+            "id": "22ba4794c8e39edb",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a4b64d7137d8c2b4",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Discrete Structures - CECS228/2. Proofs.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1536,
+        "y": -191,
+        "width": 1476,
+        "height": 784,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "f29a31bab30bcf58",
   "lastOpenFiles": [
+    "Untitled 1.md",
+    "Discrete Structures - CECS228/2. Proofs.md",
+    "Untitled.md",
+    "Templates/MathJax-Theorem.md",
+    "Private (do not peek)/Super Secret.md",
+    "Private (do not peek)",
+    "Discrete Structures - CECS228/1. Laws of propositional logic.md",
+    "Poems and Quotes/Lewis F. Richardson.md",
+    "Poems and Quotes/Augustus De Morgan.md",
+    "Discrete Structures - CECS228/Untitled.md",
+    "Discrete Structures - CECS228/Homework/HW 2.md",
+    "Poems and Quotes",
+    "Templates/Box.md",
+    "Templates/MathJax.md",
+    "Organic Chemistry/Summary.md",
+    "Organic Chemistry/Resonance.md",
+    "Organic Chemistry/1. New Start.md",
     "Organic Chemistry/1. Bonds and Structure.md",
+    "Organic Chemistry/Notes/Dr. Michael Schramm.md",
+    "Organic Chemistry/Homework/Homework 1.md",
+    "Inorganic Chemistry/Class notes/Chapter 5 Acids and Bases.md",
+    "Inorganic Chemistry/Homework 1/HW 1.md",
     "Inorganic Chemistry/Weller (2018)/Chapter 5.md",
     "Inorganic Chemistry/Weller (2018)/Book info.md",
-    "Discrete Structures - CECS228/2. Proofs.md",
     "Discrete Structures - CECS228/3. Sets.md",
-    "Discrete Structures - CECS228/Homework/HW 2.md",
+    "Censorship/Snowflake.md",
+    "Censorship",
+    "Software/Untitled",
     "Inorganic Chemistry/Group Theory - The Exploitation of Symmetry.md",
     "Programming/Obsidian/Plugin Development.md",
-    "Programming/Obsidian/Chem Lab.md",
-    "Programming/Obsidian/Templater.md",
     "Programming/Obsidian",
-    "Organic Chemistry/1. New Start.md",
-    "Templater/Templates/Typescript Code Block.md",
-    "Programming/Typescript/Cheatsheet.md",
-    "Inorganic Chemistry/Homework 1/HW 1 - Molecular Orbitals.md",
-    "Untitled.md",
-    "Inorganic Chemistry/Homework 1/HW 1.md",
     "Templater/Scripts/pretty_print_ts.js",
     "Templater/Scripts/New Text Document.txt",
-    "Templater/Scripts/pretty_print_js.js.md",
     "Templater/Scripts/pretty_print_js.js",
-    "README.md",
     "Templater/Templates",
     "Templater",
-    "Templater/Scripts",
-    "Programming/Typescript/Test.md",
-    "Programming/NodeJS & Typescript.md",
-    "Programming/Typescript",
-    "Software/Windows/Settings.md",
-    "Software/Windows/Utility.md",
-    "Software/Windows/Obsidian.md",
-    "Organic Chemistry/Notes/Dr. Michael Schramm.md",
-    "Discrete Structures - CECS228/Laws.md",
-    "Geoscience/Atmospheric Science/Atmospheric Science.md",
-    "Geoscience/Atmospheric Science",
-    "Geoscience",
     "Organic Chemistry/images/propyl group.png",
     "Organic Chemistry/images/th 1.jpg",
     "Organic Chemistry/images/th.jpg",
