@@ -110,7 +110,7 @@ $$
 	\displaylines {
 		n = 2k+1 \\
 		n^2 - 1 \\ \\
-		\class{mathjaxhr}{} \\
+		\class{mathjax--hr}{} \\
 		\begin{align}
 			&= (2k+1)^2-1 \\ 
 			&= (4k^2 + 4k + 1) - 1 \\ 
