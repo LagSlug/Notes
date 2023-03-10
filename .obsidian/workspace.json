@@ -8,35 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "77a6f42a9d216b25",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Discrete Structures - CECS228/Homework/HW 2.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "792c6844ef75c105",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/MathJax-Theorem.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "f29a31bab30bcf58",
+            "id": "9e631e4ffb3c927b",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -50,12 +22,40 @@
             }
           },
           {
-            "id": "40e920f575ba385e",
+            "id": "cbbeb3b7d5bf29f5",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Discrete Structures - CECS228/3. Sets and Subsets.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "a70473ba220ef82f",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Discrete Structures - CECS228/Homework/HW 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "6757679659e29c97",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "Discrete Structures - CECS228/Laws.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Discrete Structures - CECS228/2. Proofs.md",
+                "file": "Discrete Structures - CECS228/Homework/HW 2.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Discrete Structures - CECS228/2. Proofs.md",
+                "file": "Discrete Structures - CECS228/Homework/HW 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Discrete Structures - CECS228/2. Proofs.md"
+                "file": "Discrete Structures - CECS228/Homework/HW 2.md"
               }
             }
           },
@@ -185,8 +185,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,25 +200,72 @@
     }
   },
   "floating": {
-    "id": "25545b74372f4020",
+    "id": "4a0c6ffb7ab41327",
     "type": "floating",
     "children": [
       {
-        "id": "55976951dbd62d1c",
+        "id": "0c7087b8b8642664",
         "type": "window",
         "children": [
           {
-            "id": "22ba4794c8e39edb",
+            "id": "de21d5e34b0d4215",
             "type": "tabs",
+            "dimension": 55.208333333333336,
             "children": [
               {
-                "id": "a4b64d7137d8c2b4",
+                "id": "77a6f42a9d216b25",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Discrete Structures - CECS228/Homework/HW 2.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "b1f29d2e16dd535a",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Discrete Structures - CECS228/2. Proofs.md",
-                    "mode": "preview",
+                    "file": "Discrete Structures - CECS228/Proofs/Proofs - Contrapositive.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "8b0aa4f273857f43",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Discrete Structures - CECS228/Proofs/Proofs - By Cases.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 2
+          },
+          {
+            "id": "c43fa20ee14ed62a",
+            "type": "tabs",
+            "dimension": 44.79166666666667,
+            "children": [
+              {
+                "id": "7c7fac340dc1199b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Untitled 1.md",
+                    "mode": "source",
                     "source": false
                   }
                 }
@@ -228,53 +274,53 @@
           }
         ],
         "direction": "vertical",
-        "x": 1536,
-        "y": -191,
-        "width": 1476,
-        "height": 784,
+        "x": 1887,
+        "y": -60,
+        "width": 800,
+        "height": 627,
         "maximize": true,
         "zoom": 0
       }
     ]
   },
-  "active": "f29a31bab30bcf58",
+  "active": "a70473ba220ef82f",
   "lastOpenFiles": [
+    "Discrete Structures - CECS228/Laws.md",
     "Untitled 1.md",
+    "Discrete Structures - CECS228/Homework/HW 2.md",
+    "Discrete Structures - CECS228/1. Laws of propositional logic.md",
     "Discrete Structures - CECS228/2. Proofs.md",
+    "Discrete Structures - CECS228/Proofs/Proofs - By Cases.md",
+    "Inorganic Chemistry/Homework 1/HW 1.md",
+    "Discrete Structures - CECS228/3. Sets and Subsets.md",
+    "Discrete Structures - CECS228/Proofs/Proofs - By Contradiction.md",
+    "Discrete Structures - CECS228/Proofs/Proofs - Contrapositive.md",
+    "Discrete Structures - CECS228/Proofs/Proofs - Direct.md",
+    "Templater/Templates/Wrap Mathjax - Align Left.md",
+    "Discrete Structures - CECS228/Proofs",
     "Untitled.md",
+    "README.md",
+    "Discrete Structures - CECS228/Proofs/Proofs - Algebraic.md",
+    "Untitled",
+    "Software/Windows/Obsidian.md",
+    "Templater/Templates/Wrap With Div Table.md",
+    "Templates/Box - Example.md",
+    "Templater/Templates/Escape HTML.md",
+    "Templater/Scripts/escape_html.js",
+    "Templater/Scripts/New Text Document.txt",
+    "Templates/Box.md",
+    "Templater/Templates/Typescript Code Block.md",
     "Templates/MathJax-Theorem.md",
+    "Templater/Templates/Wrap Numbers With Sub.md",
+    "Templater/Scripts/wrap_suffix_numbers_with_tag.js",
+    "Templater/Scripts/wrap_numbers_with_tag.js",
+    "Templater/Scripts/wrap-numbers-with-tag.js",
+    "Templater/Scripts/subscript-numbers.js",
+    "Templates/MathJax-Proof.md",
+    "Discrete Structures - CECS228/Emergent Phenomenon.md",
+    "Philosophy",
     "Private (do not peek)/Super Secret.md",
     "Private (do not peek)",
-    "Discrete Structures - CECS228/1. Laws of propositional logic.md",
-    "Poems and Quotes/Lewis F. Richardson.md",
-    "Poems and Quotes/Augustus De Morgan.md",
-    "Discrete Structures - CECS228/Untitled.md",
-    "Discrete Structures - CECS228/Homework/HW 2.md",
-    "Poems and Quotes",
-    "Templates/Box.md",
-    "Templates/MathJax.md",
-    "Organic Chemistry/Summary.md",
-    "Organic Chemistry/Resonance.md",
-    "Organic Chemistry/1. New Start.md",
-    "Organic Chemistry/1. Bonds and Structure.md",
-    "Organic Chemistry/Notes/Dr. Michael Schramm.md",
-    "Organic Chemistry/Homework/Homework 1.md",
-    "Inorganic Chemistry/Class notes/Chapter 5 Acids and Bases.md",
-    "Inorganic Chemistry/Homework 1/HW 1.md",
-    "Inorganic Chemistry/Weller (2018)/Chapter 5.md",
-    "Inorganic Chemistry/Weller (2018)/Book info.md",
-    "Discrete Structures - CECS228/3. Sets.md",
-    "Censorship/Snowflake.md",
-    "Censorship",
-    "Software/Untitled",
-    "Inorganic Chemistry/Group Theory - The Exploitation of Symmetry.md",
-    "Programming/Obsidian/Plugin Development.md",
-    "Programming/Obsidian",
-    "Templater/Scripts/pretty_print_ts.js",
-    "Templater/Scripts/New Text Document.txt",
-    "Templater/Scripts/pretty_print_js.js",
-    "Templater/Templates",
-    "Templater",
     "Organic Chemistry/images/propyl group.png",
     "Organic Chemistry/images/th 1.jpg",
     "Organic Chemistry/images/th.jpg",

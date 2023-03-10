@@ -2,9 +2,17 @@
   "files": [
     "MathJax.md",
     "Box.md",
-    "MathJax-Theorem.md"
+    "MathJax-Theorem.md",
+    "MathJax-Proof.md",
+    "Box - Example.md"
   ],
-  "templaterFiles": [],
+  "templaterFiles": [
+    "Wrap Numbers With Sub.md",
+    "Typescript Code Block.md",
+    "Wrap With Div Table.md",
+    "Escape HTML.md",
+    "Wrap Mathjax - Align Left.md"
+  ],
   "newFileTemplates": [],
   "openNewFileTemplateInNewPane": true,
   "useNewFileTemplateOnFileCreation": false

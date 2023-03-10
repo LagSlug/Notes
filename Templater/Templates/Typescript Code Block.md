@@ -14,6 +14,6 @@
 		s = s.substring(0, s.length - 1);
 	}
 
-	var pretty = tp.user.pretty_print_ts(s);
+	var pretty = tp.user.pretty_print_js(s);
 	return ('```typescript\n' + pretty + '\n```');
 %>

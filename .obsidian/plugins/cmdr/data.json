@@ -4,15 +4,33 @@
   "debug": false,
   "editorMenu": [
     {
-      "id": "obsidian-wrap-with-shortcuts:wrap-with-shortcut-w1676021636181",
-      "icon": "box-select",
-      "name": "Wrap with shortcuts: Toggle NoWrap",
-      "mode": "any"
-    },
-    {
       "id": "obsidian-hotkeys-for-templates:MathJax.md",
       "icon": "layout-template",
       "name": "Hotkeys for templates: Insert: MathJax",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-hotkeys-for-templates:MathJax-Proof.md",
+      "icon": "equal",
+      "name": "Hotkeys for templates: Insert: MathJax-Proof",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-hotkeys-for-templates:MathJax-Theorem.md",
+      "icon": "calculator",
+      "name": "Hotkeys for templates: Insert: MathJax-Theorem",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-hotkeys-for-templates:templater:Wrap Mathjax - Align Left.md",
+      "icon": "text-cursor-input",
+      "name": "Hotkeys for templates: Insert: Wrap Mathjax - Align Left",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-wrap-with-shortcuts:wrap-with-shortcut-w1676021636181",
+      "icon": "box-select",
+      "name": "Wrap with shortcuts: Toggle NoWrap",
       "mode": "any"
     },
     {
@@ -22,9 +40,15 @@
       "mode": "any"
     },
     {
-      "id": "obsidian-hotkeys-for-templates:MathJax-Theorem.md",
-      "icon": "calculator",
-      "name": "Hotkeys for templates: Insert: MathJax-Theorem",
+      "id": "obsidian-hotkeys-for-templates:templater:Wrap With Div Table.md",
+      "icon": "table",
+      "name": "Templater: Wrap With Div Table",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-hotkeys-for-templates:Box - Example.md",
+      "icon": "box",
+      "name": "Hotkeys for templates: Insert: Box - Example",
       "mode": "any"
     }
   ],

@@ -1,0 +1,23 @@
+.mathjax--left-align {
+  position: absolute;
+  left: 0px;
+}
+
+.mathjax--center-align {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.mathjax--right-align {
+  position: absolute;
+  right: 0px;
+}
+
+.mathjax--hr {
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  border-top: 1px solid gray;
+  height: 1px;
+}
