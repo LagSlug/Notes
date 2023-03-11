@@ -4,65 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "53bc056ece3fc07d",
+        "id": "fd4ce8ab9958c7f8",
         "type": "tabs",
         "children": [
           {
-            "id": "9e631e4ffb3c927b",
+            "id": "db81ebc2c79bce3a",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Discrete Structures - CECS228/2. Proofs.md",
+                "file": "Programming/Esoteric Languages/Piet/Piet.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true
-            }
-          },
-          {
-            "id": "cbbeb3b7d5bf29f5",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Discrete Structures - CECS228/3. Sets and Subsets.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "a70473ba220ef82f",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Discrete Structures - CECS228/Homework/HW 2.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "6757679659e29c97",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Discrete Structures - CECS228/Laws.md",
-                "mode": "source",
-                "source": false
-              }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Discrete Structures - CECS228/Homework/HW 2.md",
+                "file": "Programming/Esoteric Languages/Piet/Piet.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -145,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Discrete Structures - CECS228/Homework/HW 2.md",
+                "file": "Programming/Esoteric Languages/Piet/Piet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Discrete Structures - CECS228/Homework/HW 2.md"
+                "file": "Programming/Esoteric Languages/Piet/Piet.md"
               }
             }
           },
@@ -199,16 +158,36 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a70473ba220ef82f",
+  "active": "db81ebc2c79bce3a",
   "lastOpenFiles": [
-    "Discrete Structures - CECS228/Laws.md",
-    "Untitled 1.md",
-    "Discrete Structures - CECS228/Homework/HW 2.md",
-    "Discrete Structures - CECS228/1. Laws of propositional logic.md",
+    "Programming/Esoteric Languages/Piet/Piet_Hello_World.gif",
+    "Programming/Esoteric Languages/Piet/Piet.md",
+    "Programming/Obsidian Development/Plugin Development FAQ.md",
+    "Programming/Esoteric Languages/Piet/Piet_Hello_World_Visualization.gif",
+    "Programming/Obsidian Development/Chem Lab.md",
+    "Programming/Projects",
+    "BH2m.bmp",
+    "Programming/Esoteric Languages",
+    "Programming/Esoteric Languages/Piet",
+    "Inorganic Chemistry/Class notes/Symmetry and Group Points/Symmetry and Group Points.md",
+    "Inorganic Chemistry/Class notes/Symmetry and Group Points/images/Symmetry and Group Points 2.png",
+    "Inorganic Chemistry/Class notes/Symmetry and Group Points/images/Symmetry and Group Points 2.png",
+    "Inorganic Chemistry/Class notes/Symmetry and Group Points/images/Symmetry and Group Points.png",
+    "Inorganic Chemistry/Class notes/Symmetry and Group Points/images/Symmetry and Group Points 2.png",
+    "Inorganic Chemistry/Class notes/Chapter 5 Acids and Bases.md",
+    "Inorganic Chemistry/Class notes/Symmetry and Group Points",
+    "Inorganic Chemistry/Class notes/Symmetry and Group Points/images",
+    "Private (do not peek)/Super Secret.md",
     "Discrete Structures - CECS228/2. Proofs.md",
+    "Discrete Structures - CECS228/3. Sets and Subsets.md",
+    "Discrete Structures - CECS228/Homework/HW 2.md",
+    "Discrete Structures - CECS228/Laws.md",
+    "Programming/Conway's Game of Life/The Art of Code - Dylan Beattie.md",
+    "Programming/Conway's Game of Life",
+    "Untitled 1.md",
+    "Discrete Structures - CECS228/1. Laws of propositional logic.md",
     "Discrete Structures - CECS228/Proofs/Proofs - By Cases.md",
     "Inorganic Chemistry/Homework 1/HW 1.md",
-    "Discrete Structures - CECS228/3. Sets and Subsets.md",
     "Discrete Structures - CECS228/Proofs/Proofs - By Contradiction.md",
     "Discrete Structures - CECS228/Proofs/Proofs - Contrapositive.md",
     "Discrete Structures - CECS228/Proofs/Proofs - Direct.md",
@@ -221,31 +200,9 @@
     "Software/Windows/Obsidian.md",
     "Templater/Templates/Wrap With Div Table.md",
     "Templates/Box - Example.md",
-    "Templater/Templates/Escape HTML.md",
     "Templater/Scripts/escape_html.js",
     "Templater/Scripts/New Text Document.txt",
-    "Templates/Box.md",
-    "Templater/Templates/Typescript Code Block.md",
-    "Templates/MathJax-Theorem.md",
-    "Templater/Templates/Wrap Numbers With Sub.md",
-    "Templater/Scripts/wrap_suffix_numbers_with_tag.js",
-    "Templater/Scripts/wrap_numbers_with_tag.js",
-    "Templater/Scripts/wrap-numbers-with-tag.js",
-    "Templater/Scripts/subscript-numbers.js",
-    "Templates/MathJax-Proof.md",
-    "Discrete Structures - CECS228/Emergent Phenomenon.md",
-    "Philosophy",
-    "Private (do not peek)/Super Secret.md",
-    "Private (do not peek)",
     "Organic Chemistry/images/propyl group.png",
-    "Organic Chemistry/images/th 1.jpg",
-    "Organic Chemistry/images/th.jpg",
-    "Organic Chemistry/images/ethyl fluoride.png",
-    "Organic Chemistry/images/ethyl amine.png",
-    "Organic Chemistry/images/methyl chloride.png",
-    "Organic Chemistry/images/methyl alcohol.png",
-    "Organic Chemistry/images/CNX_Chem_08_01_Morse 1.jpg",
-    "Organic Chemistry/images/methyl amines.jpg",
-    "Organic Chemistry/images/energy diagram - H2 anion.png"
+    "Organic Chemistry/images/th 1.jpg"
   ]
 }
