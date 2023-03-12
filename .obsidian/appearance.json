@@ -3,6 +3,7 @@
   "baseFontSize": 19,
   "enabledCssSnippets": [
     "mathjax",
-    "tables"
+    "tables",
+    "flex"
   ]
 }

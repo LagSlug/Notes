@@ -2,7 +2,7 @@
 - Common examples of symmetry exist in nature, art, and architecture.
 - Molecules exhibit symmetry.
 
-### Examples of symmetrical and Non-Symmetrical Molecules
+### Examples of Symmetrical and Non-Symmetrical Molecules
 
 ![[Chemistry/Inorganic Chemistry/Symmetry and Group Points/images/Symmetry and Group Points.png]]
 
@@ -48,10 +48,47 @@
 #### Symmetry Analysis
 
 - An <u>symmetry operation</u> is a way of changing the orientation of a molecule so that it looks exactly the same as before.
-- A <u>symmetry element</u> is a geometric feature, such as a point, line, or plane, around which a symmetry operation is performed.
 
-<div style="background-color:white; padding: 10px; display: inline-block;">
-	<img src="./images/BH3.svg">
+| Symbol        | Operation Name     | Symmetry Element                 | Description                                            |
+| ------------- | ------------------ | -------------------------------- | ------------------------------------------------------ |
+| E             | Identity           | "Whole of space"                 | No observable change                                   |
+| C<sub>n</sub> | Rotation by 360°/n | n-fold symmetry axis             | Rotates by 360°/n                                      |
+| σ             | Reflection         | mirror plane                     | Reflects across a plane                                |
+| *i*           | Inversion          | center of inversion              |                                                        |
+| S<sub>n</sub> | Improper Rotation  | n-fold axis of improper rotation | Rotates by 360°/n followed by perpendicular reflection |
+ 
+- A <u>symmetry element</u> is a geometric feature, such as a point, line, or plane, around which a symmetry operation is performed.
+- A <u>point group</u> defines a set of symmetry operations that leave the molecule in the same spacial orientation.
+
+
+<div class="flex">
+	<div style="background-color:white; padding: 10px; display: inline-block;">
+		<img src="./images/Borane.png" width=300>
+	</div>
+	<div>
+		<h4 style="padding-left: 20px;">Borane:</h4>
+		<ul>
+			<li />trigonal planar molecular geometry
+			<li />two rotational axes
+			<li />D<sub>3h</sub> point group
+		</ul>
+	</div>
+</div>
+<div>
+</div>
+
+<div class="flex">
+	<div style="background-color:white; padding: 10px; display: inline-block;">
+		<img src="./images/Borane_with_rotation_axis.png" width=300>
+	</div>
+	<div>	
+		<h4 style="padding-left: 20px;">Symmetry Diagram</h4>
+		<ul>
+			<li />the triangle labels the C<sub>3</sub> axis
+			<li />the ovals label the three C<sub>2</sub> axes
+			<li />the highest rotation axis (principal axis)
+		</ul>
+	</div>
 </div>
 
 
