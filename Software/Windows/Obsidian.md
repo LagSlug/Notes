@@ -11,3 +11,5 @@ Pandoc
 https://pandoc.org/installing.html
 
 
+Mermaid
+- https://mermaid.js.org/intro/

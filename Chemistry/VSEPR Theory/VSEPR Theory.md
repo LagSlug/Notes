@@ -1,0 +1,76 @@
+
+<table class="grayscale lined center-text word-break" style="margin: auto; ">
+  <tbody>
+    <tr>
+      <th>Steric <br> number
+      </th>
+      <th>Molecular geometry<br> 0 lone pairs
+      </th>
+      <th>Molecular geometry<br> 1 lone pair
+      </th>
+      <th>Molecular geometry<br> 2 lone pairs
+      </th>
+      <th>Molecular geometry<br> 3 lone pairs
+      </th>
+    </tr>
+    <tr>
+      <th>2
+      </th>
+      <td>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/AX2E0-2D.png/192px-AX2E0-2D.png" width="128" height="27">
+        <br>
+        Linear
+      </td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td><img alt="AX3E0-side-2D.png" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/AX3E0-side-2D.png/192px-AX3E0-side-2D.png" width="128" height="82"> <br>Trigonal planar</td>
+      <td><img alt="AX2E1-2D.png" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/AX2E1-2D.png/192px-AX2E1-2D.png" width="128" height="116"> <br>Bent</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td><img alt="AX4E0-2D.png" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/AX4E0-2D.png/192px-AX4E0-2D.png" width="128" height="131"> <br>Tetrahedral</td>
+      <td><img alt="AX3E1-2D.png" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/AX3E1-2D.png/192px-AX3E1-2D.png" width="128" height="131"> <br>Trigonal pyramidal</td>
+      <td><img alt="AX2E2-2D.png" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/AX2E2-2D.png/192px-AX2E2-2D.png" width="128" height="108">  <br>Bent</td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <th>5</th>
+      <td><img alt="AX5E0-2D.png" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/AX5E0-2D.png/192px-AX5E0-2D.png" width="128" height="131"> <br>Trigonal bipyramidal</td>
+      <td><img alt="AX4E1-2D.png" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/AX4E1-2D.png/192px-AX4E1-2D.png" width="128" height="122"> <br>Seesaw</td>
+      <td><img alt="AX3E2-2D.png" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/AX3E2-2D.png/192px-AX3E2-2D.png" width="128" height="122"> <br>T-shaped</td>
+      <td><img alt="AX2E3-2D.png" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/AX2E3-2D.png/192px-AX2E3-2D.png" width="128" height="122"> <br>Linear
+      </td>
+    </tr>
+    <tr>
+      <th>6</th>
+      <td><img alt="AX6E0-2D.png" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/AX6E0-2D.png/192px-AX6E0-2D.png" width="128" height="133">  <br>Octahedral</td>
+      <td><img alt="AX5E1-2D.png" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/AX5E1-2D.png/192px-AX5E1-2D.png" width="128" height="133">  <br>Square pyramidal</td>
+      <td><img alt="AX4E2-2D.png" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/AX4E2-2D.png/192px-AX4E2-2D.png" width="128" height="133"> <br>Square planar</td>
+      <td>&nbsp;</td>
+    </tr>
+    <th>7
+    </th>
+      <td><img alt="AX7E0-2D.png" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/AX7E0-2D.png/192px-AX7E0-2D.png" width="128" height="144"> <br>Pentagonal bipyramidal</td>
+      <td><img alt="AX6E1-2D.png" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/AX6E1-2D.png/192px-AX6E1-2D.png" width="128" height="144"> <br>Pentagonal pyramidal</td>
+      <td><img alt="AX5E2-2D.png" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/AX5E2-2D.png/192px-AX5E2-2D.png" width="128" height="144"> <br>Pentagonal planar</td>
+      <td>&nbsp;
+    </td>
+    <tr>
+      <th>8</th>
+      <td>
+        Square antiprismatic
+        <br />
+      </td>
+      <td><br> &nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;
+      </td>
+    </tr>
+  </tbody>
+</table>

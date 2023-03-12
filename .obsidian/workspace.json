@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "fd4ce8ab9958c7f8",
+        "id": "847056b121c6d4b1",
         "type": "tabs",
         "children": [
           {
-            "id": "db81ebc2c79bce3a",
+            "id": "5dba020b77d5c86e",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Esoteric Languages/Piet/Piet.md",
+                "file": "Chemistry/Inorganic Chemistry/Symmetry and Group Points/Symmetry and Group Points.md",
                 "mode": "source",
                 "source": false
-              },
-              "pinned": true
+              }
             }
           }
         ]
@@ -87,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Esoteric Languages/Piet/Piet.md",
+                "file": "Chemistry/Inorganic Chemistry/Symmetry and Group Points/Symmetry and Group Points.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -104,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Esoteric Languages/Piet/Piet.md",
+                "file": "Chemistry/Inorganic Chemistry/Symmetry and Group Points/Symmetry and Group Points.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Esoteric Languages/Piet/Piet.md"
+                "file": "Chemistry/Inorganic Chemistry/Symmetry and Group Points/Symmetry and Group Points.md"
               }
             }
           },
@@ -158,51 +156,52 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "db81ebc2c79bce3a",
+  "active": "5dba020b77d5c86e",
   "lastOpenFiles": [
-    "Programming/Esoteric Languages/Piet/Piet_Hello_World.gif",
+    "Chemistry/VSEPR Theory/VSEPR Theory.md",
+    "Chemistry/Inorganic Chemistry/Symmetry and Group Points/images/BH3.svg",
+    "Chemistry/Inorganic Chemistry/Symmetry and Group Points/Symmetry and Group Points.md",
+    "Software/Git/Cheatsheet.md",
+    "Software/SSH/SSH Cheatsheet.md",
+    "Software/SSH",
+    "Software/Git",
+    "Chemistry/VSEPR Theory/images",
+    "BH3 1.svg",
+    "BH3_DZV_vib.jpg",
+    "Discrete Structures - CECS228/4. Functions.md",
+    "Programming/Conway's Game of Life/The Art of Code - Dylan Beattie.md",
+    "Discrete Structures - CECS228/2. Proofs.md",
+    "Discrete Structures - CECS228/1. Laws of propositional logic.md",
+    "Discrete Structures - CECS228/Homework/HW 2.md",
+    "Chemistry",
+    "Chemistry/VSEPR Theory",
+    "Chemistry/Inorganic Chemistry/Symmetry and Group Points/Table of Chemicals.md",
+    "Chemistry/Inorganic Chemistry/Homework 1/images/Homework 1 - Drawings - Ozone.png",
+    "Chemistry/Inorganic Chemistry/Homework 1/images/Homework 1 - Drawings - Phosphorus tetrachloryl ion.png",
+    "Chemistry/Inorganic Chemistry/Homework 1/images/Homework 1 - Drawings - Sulfite ion.png",
     "Programming/Esoteric Languages/Piet/Piet.md",
+    "Software/Windows/Obsidian.md",
+    "Software/Windows/PDF.md",
     "Programming/Obsidian Development/Plugin Development FAQ.md",
+    "Programming/Esoteric Languages/Piet/Piet_Hello_World.gif",
     "Programming/Esoteric Languages/Piet/Piet_Hello_World_Visualization.gif",
     "Programming/Obsidian Development/Chem Lab.md",
     "Programming/Projects",
     "BH2m.bmp",
     "Programming/Esoteric Languages",
     "Programming/Esoteric Languages/Piet",
-    "Inorganic Chemistry/Class notes/Symmetry and Group Points/Symmetry and Group Points.md",
-    "Inorganic Chemistry/Class notes/Symmetry and Group Points/images/Symmetry and Group Points 2.png",
-    "Inorganic Chemistry/Class notes/Symmetry and Group Points/images/Symmetry and Group Points 2.png",
-    "Inorganic Chemistry/Class notes/Symmetry and Group Points/images/Symmetry and Group Points.png",
-    "Inorganic Chemistry/Class notes/Symmetry and Group Points/images/Symmetry and Group Points 2.png",
-    "Inorganic Chemistry/Class notes/Chapter 5 Acids and Bases.md",
-    "Inorganic Chemistry/Class notes/Symmetry and Group Points",
-    "Inorganic Chemistry/Class notes/Symmetry and Group Points/images",
+    "Chemistry/Inorganic Chemistry/Symmetry and Group Points/images/Symmetry and Group Points 2.png",
+    "Chemistry/Inorganic Chemistry/Class notes/Chapter 5 Acids and Bases.md",
+    "Chemistry/Inorganic Chemistry/Symmetry and Group Points",
+    "Chemistry/Inorganic Chemistry/Symmetry and Group Points/images",
     "Private (do not peek)/Super Secret.md",
-    "Discrete Structures - CECS228/2. Proofs.md",
     "Discrete Structures - CECS228/3. Sets and Subsets.md",
-    "Discrete Structures - CECS228/Homework/HW 2.md",
     "Discrete Structures - CECS228/Laws.md",
-    "Programming/Conway's Game of Life/The Art of Code - Dylan Beattie.md",
-    "Programming/Conway's Game of Life",
     "Untitled 1.md",
-    "Discrete Structures - CECS228/1. Laws of propositional logic.md",
     "Discrete Structures - CECS228/Proofs/Proofs - By Cases.md",
-    "Inorganic Chemistry/Homework 1/HW 1.md",
+    "Chemistry/Inorganic Chemistry/Homework 1/HW 1.md",
     "Discrete Structures - CECS228/Proofs/Proofs - By Contradiction.md",
     "Discrete Structures - CECS228/Proofs/Proofs - Contrapositive.md",
-    "Discrete Structures - CECS228/Proofs/Proofs - Direct.md",
-    "Templater/Templates/Wrap Mathjax - Align Left.md",
-    "Discrete Structures - CECS228/Proofs",
-    "Untitled.md",
-    "README.md",
-    "Discrete Structures - CECS228/Proofs/Proofs - Algebraic.md",
-    "Untitled",
-    "Software/Windows/Obsidian.md",
-    "Templater/Templates/Wrap With Div Table.md",
-    "Templates/Box - Example.md",
-    "Templater/Scripts/escape_html.js",
-    "Templater/Scripts/New Text Document.txt",
-    "Organic Chemistry/images/propyl group.png",
-    "Organic Chemistry/images/th 1.jpg"
+    "Discrete Structures - CECS228/Proofs/Proofs - Direct.md"
   ]
 }

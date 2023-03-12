@@ -9,5 +9,6 @@
   "obsidian-hotkeys-for-templates",
   "obsidian-pandoc",
   "templater-obsidian",
-  "obsidian-regex-replace"
+  "obsidian-regex-replace",
+  "obsidian-html-local-image-plugin"
 ]

@@ -2,6 +2,7 @@
   "accentColor": "",
   "baseFontSize": 19,
   "enabledCssSnippets": [
-    "mathjax"
+    "mathjax",
+    "tables"
   ]
 }
