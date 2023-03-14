@@ -1,7 +1,7 @@
 
-<table class="grayscale lined center-text word-break" style="margin: auto; ">
-  <tbody>
-    <tr>
+<table class="grayscale lined center-text word-break" style="margin: auto;">
+  <thead>
+	  <tr>
       <th>Steric <br> number
       </th>
       <th>Molecular geometry<br> 0 lone pairs
@@ -13,6 +13,8 @@
       <th>Molecular geometry<br> 3 lone pairs
       </th>
     </tr>
+  </thead>
+  <tbody>
     <tr>
       <th>2
       </th>
@@ -74,3 +76,5 @@
     </tr>
   </tbody>
 </table>
+
+[Credit: VSEPR Theory - Wikipedia](https://en.wikipedia.org/wiki/VSEPR_theory#Main-group_elements)

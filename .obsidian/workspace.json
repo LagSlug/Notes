@@ -10,6 +10,20 @@
           {
             "id": "5dba020b77d5c86e",
             "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chemistry/Inorganic Chemistry/Symmetry and Group Points/Symmetry and Group Points.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "17348f1ee2e7d95d",
+            "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
@@ -18,8 +32,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6cc07fdad80c9983",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chemistry/Inorganic Chemistry/Symmetry and Group Points/Examples of Symmetric Molecules.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -69,7 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.5
+    "width": 554.5
   },
   "right": {
     "id": "0c28b1b800fb7e5b",
@@ -85,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chemistry/Inorganic Chemistry/Symmetry and Group Points/Symmetry and Group Points.md",
+                "file": "Chemistry/Inorganic Chemistry/Symmetry and Group Points/Examples of Symmetric Molecules.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chemistry/Inorganic Chemistry/Symmetry and Group Points/Symmetry and Group Points.md",
+                "file": "Chemistry/Inorganic Chemistry/Symmetry and Group Points/Examples of Symmetric Molecules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chemistry/Inorganic Chemistry/Symmetry and Group Points/Symmetry and Group Points.md"
+                "file": "Chemistry/Inorganic Chemistry/Symmetry and Group Points/Examples of Symmetric Molecules.md"
               }
             }
           },
@@ -142,7 +169,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,53 +184,53 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5dba020b77d5c86e",
+  "active": "6cc07fdad80c9983",
   "lastOpenFiles": [
-    "Chemistry/Inorganic Chemistry/Symmetry and Group Points/images/Borane_with_rotation_axis.png",
-    "Chemistry/Inorganic Chemistry/Symmetry and Group Points/images/Borane.png",
-    "Chemistry/VSEPR Theory/VSEPR Theory.md",
-    "Chemistry/Inorganic Chemistry/Symmetry and Group Points/images/BH3.svg",
     "Chemistry/Inorganic Chemistry/Symmetry and Group Points/Symmetry and Group Points.md",
-    "Software/Git/Cheatsheet.md",
-    "Software/SSH/SSH Cheatsheet.md",
+    "Chemistry/Inorganic Chemistry/Symmetry and Group Points/Examples of Symmetric Molecules.md",
+    "Chemistry/Inorganic Chemistry/Symmetry and Group Points/Point Groups/Table of Examples.md",
+    "Chemistry/Inorganic Chemistry/Symmetry and Group Points/Credits.md",
+    "Chemistry/Inorganic Chemistry/Symmetry and Group Points/Symmetry Operations.md",
+    "Chemistry/VSEPR Theory/Electrons.md",
+    "Chemistry/Inorganic Chemistry/Symmetry and Group Points/Symmetry in Flowers.md",
+    "Chemistry/Inorganic Chemistry/Group Theory - The Exploitation of Symmetry.md",
+    "Chemistry/Inorganic Chemistry/Symmetry and Group Points/Point Groups/Common Point Groups Table.md",
+    "Chemistry/Inorganic Chemistry/Symmetry and Group Points/Point Groups",
+    "Chemistry/VSEPR Theory/VSEPR Theory.md",
+    "Chemistry/VSEPR Theory/test.md",
+    "Chemistry/VSEPR Theory/VSEPR Examples.md",
+    "Chemistry/VSEPR Theory/Periodic Table - Electronegativity.md",
+    "Software/Windows/Debugging.md",
+    "Chemistry/Inorganic Chemistry/Symmetry and Group Points/attachments/Symmetry Elements - Common Groups - D(infinity)h.png",
+    "Chemistry/Inorganic Chemistry/Symmetry and Group Points/attachments/Symmetry Elements - Common Groups - C(infinity)v.png",
+    "Chemistry/Inorganic Chemistry/Symmetry and Group Points/attachments/Symmetry Elements - Common Groups - Oh.png",
+    "Chemistry/Inorganic Chemistry/Symmetry and Group Points/attachments/Symmetry Elements - Common Groups - Td.png",
+    "Chemistry/Inorganic Chemistry/Symmetry and Group Points/attachments/Symmetry Elements - Common Groups - D4h.png",
+    "Chemistry/Inorganic Chemistry/Symmetry and Group Points/attachments/Symmetry Elements - Common Groups - D3h.png",
+    "Chemistry/Inorganic Chemistry/Symmetry and Group Points/attachments/Symmetry Elements - Common Groups - D2h.png",
+    "Chemistry/Inorganic Chemistry/Symmetry and Group Points/attachments/Symmetry Elements - Common Groups - C3v.png",
+    "Chemistry/Inorganic Chemistry/Symmetry and Group Points/attachments/Symmetry Elements - Common Groups - C2v.png",
+    "Chemistry/Inorganic Chemistry/Symmetry and Group Points/attachments/Symmetry Elements - Common Groups - Cs.png",
+    "Chemistry/Inorganic Chemistry/Symmetry and Group Points/attachments",
+    "Software/File-Transfer/Magic-Wormhole.md",
+    "Software/File-Transfer",
+    "Chemistry/VSEPR Theory/Orbital Shells.md",
+    "Chemistry/VSEPR Theory/Orbital Precedence.md",
+    "Chemistry/VSEPR.md",
+    "Chemistry/VSEPR Theory/Atomic Orbitals.md",
+    "Chemistry/VSEPR Theory/attachments",
+    "Untitled.md",
+    "Untitled 1.md",
+    "Chemistry/VSEPR Theory/[.md",
+    "Chemistry/Inorganic Chemistry/Symmetry and Group Points/dfff.md",
+    "Chemistry/Inorganic Chemistry/Symmetry and Group Points/Moo.md",
+    "Discrete Structures - CECS228/Laws.md",
+    "Discrete Structures - CECS228/1. Laws of propositional logic.md",
     "Software/SSH",
     "Software/Git",
     "Chemistry/VSEPR Theory/images",
-    "BH3 1.svg",
-    "BH3_DZV_vib.jpg",
-    "Discrete Structures - CECS228/4. Functions.md",
-    "Programming/Conway's Game of Life/The Art of Code - Dylan Beattie.md",
-    "Discrete Structures - CECS228/2. Proofs.md",
-    "Discrete Structures - CECS228/1. Laws of propositional logic.md",
-    "Discrete Structures - CECS228/Homework/HW 2.md",
     "Chemistry",
     "Chemistry/VSEPR Theory",
-    "Chemistry/Inorganic Chemistry/Symmetry and Group Points/Table of Chemicals.md",
-    "Chemistry/Inorganic Chemistry/Homework 1/images/Homework 1 - Drawings - Ozone.png",
-    "Chemistry/Inorganic Chemistry/Homework 1/images/Homework 1 - Drawings - Phosphorus tetrachloryl ion.png",
-    "Chemistry/Inorganic Chemistry/Homework 1/images/Homework 1 - Drawings - Sulfite ion.png",
-    "Programming/Esoteric Languages/Piet/Piet.md",
-    "Software/Windows/Obsidian.md",
-    "Software/Windows/PDF.md",
-    "Programming/Obsidian Development/Plugin Development FAQ.md",
-    "Programming/Esoteric Languages/Piet/Piet_Hello_World.gif",
-    "Programming/Esoteric Languages/Piet/Piet_Hello_World_Visualization.gif",
-    "Programming/Obsidian Development/Chem Lab.md",
-    "Programming/Projects",
-    "BH2m.bmp",
-    "Programming/Esoteric Languages",
-    "Programming/Esoteric Languages/Piet",
-    "Chemistry/Inorganic Chemistry/Class notes/Chapter 5 Acids and Bases.md",
-    "Chemistry/Inorganic Chemistry/Symmetry and Group Points",
-    "Chemistry/Inorganic Chemistry/Symmetry and Group Points/images",
-    "Private (do not peek)/Super Secret.md",
-    "Discrete Structures - CECS228/3. Sets and Subsets.md",
-    "Discrete Structures - CECS228/Laws.md",
-    "Untitled 1.md",
-    "Discrete Structures - CECS228/Proofs/Proofs - By Cases.md",
-    "Chemistry/Inorganic Chemistry/Homework 1/HW 1.md",
-    "Discrete Structures - CECS228/Proofs/Proofs - By Contradiction.md",
-    "Discrete Structures - CECS228/Proofs/Proofs - Contrapositive.md",
-    "Discrete Structures - CECS228/Proofs/Proofs - Direct.md"
+    "Programming/Projects"
   ]
 }

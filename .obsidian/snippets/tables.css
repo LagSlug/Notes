@@ -1,15 +1,27 @@
 
-table.lined {
+table.lined, table.lined thead th, table.lined td {
   border: 1px solid!important; /* Forgive me Father, for I have sinned. */
-
 }
-
-table.lined td  {
+table.lined tbody th {
   border: 1px solid!important; /* Forgive me Father, for I have sinned. */
 }
 
-table.grayscale, table.grayscale th {
-  background-color: gray!important; /* Forgive me Father, for I have sinned. */
+table.redscale th {
+  background-color: rgb(170, 60, 60)!important; /* Forgive me Father, for I have sinned. */
+  color: black!important; /* Forgive me Father, for I have sinned. */
+}
+table.redscale td  {
+  background-color: white!important; /* Forgive me Father, for I have sinned. */
+  color: black!important; /* Forgive me Father, for I have sinned. */
+}
+
+
+table.grayscale, table.grayscale thead th {
+  background-color: rgb(181, 178, 178)!important; /* Forgive me Father, for I have sinned. */
+  color: black!important; /* Forgive me Father, for I have sinned. */
+}
+table.grayscale tbody th {
+  background-color: rgb(215, 215, 215)!important; /* Forgive me Father, for I have sinned. */
   color: black!important; /* Forgive me Father, for I have sinned. */
 }
 
@@ -23,10 +35,6 @@ table.word-break {
   word-break: normal!important; /* Forgive me Father, for I have sinned. */
 }
 
-table.center-text {
-  text-align: center!important; /* Forgive me Father, for I have sinned. */
-}
-
-table.center-text td {
+table.center-text, table.center-text th, table.center-text td {
   text-align: center!important; /* Forgive me Father, for I have sinned. */
 }

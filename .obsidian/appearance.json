@@ -1,9 +1,10 @@
 {
   "accentColor": "",
-  "baseFontSize": 19,
+  "baseFontSize": 17,
   "enabledCssSnippets": [
     "mathjax",
     "tables",
-    "flex"
+    "flex",
+    "clean-embeds"
   ]
 }
