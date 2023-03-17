@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f7cb57a11da138b2",
+        "id": "63cdac37b66025fb",
         "type": "tabs",
         "children": [
           {
-            "id": "00122536accf8ec4",
+            "id": "6c0235af3199e5f2",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -65,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 523.5
+    "width": 343.5
   },
   "right": {
     "id": "0c28b1b800fb7e5b",
@@ -149,10 +149,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "00122536accf8ec4",
+  "active": "bcbbcb2fd2e27ec5",
   "lastOpenFiles": [
+    "Media/Television/Danger Mouse (1981).md",
+    "Media/Television",
+    "Media",
     "README.md",
-    "Untitled.md",
     "Untitled.canvas",
     "Discrete Structures - CECS228/3. Sets and Subsets.md",
     "Discrete Structures - CECS228/2. Proofs.md",
@@ -172,8 +174,6 @@
     "Art",
     "Chemistry/Inorganic Chemistry/Symmetry and Group Points/Dihedral Groups.md",
     "Persons of Interest/Mineralogy/Johann Friedrich Christian Hessel.md",
-    "Persons of Interest/Mineralogy",
-    "Persons of Interest",
     "Chemistry/Inorganic Chemistry/Symmetry and Group Points/Cubic Groups (High Symmetry).md",
     "Chemistry/Inorganic Chemistry/Symmetry and Group Points/Mirror Planes  (σ).md",
     "Chemistry/Inorganic Chemistry/Symmetry and Group Points/Symmetry Operations.md",
