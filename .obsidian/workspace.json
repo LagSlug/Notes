@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "63cdac37b66025fb",
+        "id": "2239b56b33aad204",
         "type": "tabs",
         "children": [
           {
-            "id": "6c0235af3199e5f2",
+            "id": "c2b1cc319ef14a73",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -149,12 +149,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bcbbcb2fd2e27ec5",
+  "active": "c2b1cc319ef14a73",
   "lastOpenFiles": [
+    "README.md",
     "Media/Television/Danger Mouse (1981).md",
     "Media/Television",
     "Media",
-    "README.md",
     "Untitled.canvas",
     "Discrete Structures - CECS228/3. Sets and Subsets.md",
     "Discrete Structures - CECS228/2. Proofs.md",
