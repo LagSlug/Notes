@@ -1,9 +1,5 @@
 Notes are here for my convenience, but I like to think they could help others, so they're public.
 
-### Copyright notice
-
-I do not know how copyright works.
-
 ### Usage
 
 #### Easy way
@@ -26,5 +22,7 @@ I do not know how copyright works.
 ### Issues
 
 Please submit issues so that these notes can be improved. Thank you for your diligence!
-   
 
+### Copyright notice
+
+I do not know how copyright works.
