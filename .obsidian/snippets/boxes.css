@@ -1,0 +1,5 @@
+div.white-box {
+  display: inline-block; 
+  background-color: white; 
+  border: 1px solid;
+}

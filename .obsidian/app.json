@@ -11,5 +11,11 @@
     "downscalePercent": 100
   },
   "tabSize": 2,
-  "attachmentFolderPath": "./attachments"
+  "attachmentFolderPath": "./attachments",
+  "readableLineLength": true,
+  "strictLineBreaks": false,
+  "foldIndent": false,
+  "showIndentGuide": true,
+  "spellcheck": false,
+  "showFrontmatter": true
 }

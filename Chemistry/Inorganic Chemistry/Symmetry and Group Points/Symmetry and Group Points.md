@@ -2,16 +2,39 @@
 	cssclass: clean-embeds
 ---
 
-- Common examples of symmetry exist in nature, art, and architecture.
-	- [[Chemistry/Inorganic Chemistry/Symmetry and Group Points/Symmetry in Flowers |Symmetry in Flowers]]
+- [[Persons of Interest/Mineralogy/Johann Friedrich Christian Hessel|Johann F. C. Hessel]] proved that there are only 32 kinds of crystal symmetry (point groups) in Euclidean space.
+- The 32 point groups can be further classified into seven crystal systems.
+- The seven crystal systems are: 
+	1. monoclinic
+	2. triclinic
+	3. trigonal
+	4. cubic
+	5. tetragonal
+	6. hexagonal
+	7. orthorhombic
+- Point groups are classified based on the symmetry of an object, molecule, or crystal.
+- The symmetry of a molecule affects its physical and chemical properties, such as its polarity and reactivity.
+  
+- Symmetry exists in nature, art, and architecture.
+	1. Nature
+		- [[Chemistry/Inorganic Chemistry/Symmetry and Group Points/Symmetry in Flowers|Flowers]]
+	2. Art
+		- [[Art/Ancient/Greek/Ancient Greek Art#^Symmetry|Ancient Greek Art]]
+	3. Architecture
+		- [[Architecture/Ancient/Greek/Ancient Greek Architecture#^Symmetry|Ancient Greek Architecture]] 
 
-- Molecules exhibit symmetry.
- 
+- Molecules can be grouped by symmetry.
+	 1. [[Chemistry/Inorganic Chemistry/Symmetry and Group Points/Dihedral Groups#^Dihedral-groups|Dihedral]]
+		 - [[Chemistry/Inorganic Chemistry/Symmetry and Group Points/Dihedral Groups#^Tris-ethylenediamine-cobalt-III|Tris(ethylenediamine) cobalt(III)]]
+		 - [[Chemistry/Inorganic Chemistry/Symmetry and Group Points/Dihedral Groups#^Cyclohexane-chair|Cyclohexane (chair conformation)]]
+		 - [[Chemistry/Inorganic Chemistry/Symmetry and Group Points/Dihedral Groups#^Iron-pentacarbonyl|Iron pentacarbonyl]]
+		 - [[Chemistry/Inorganic Chemistry/Symmetry and Group Points/Dihedral Groups#^Carbon-dioxide|Carbon dioxide]]
+	 
 ### Examples of Symmetrical and Non-Symmetrical Molecules
 
-![[Chemistry/Inorganic Chemistry/Symmetry and Group Points/images/Symmetry and Group Points.png]]
+![[Chemistry/Inorganic Chemistry/Symmetry and Group Points/attachments/Symmetry and Group Points.png|500]]
 
-![[Chemistry/Inorganic Chemistry/Symmetry and Group Points/images/Symmetry and Group Points 2.png]]
+![[Chemistry/Inorganic Chemistry/Symmetry and Group Points/attachments/Symmetry and Group Points 2.png|525]]
 
 ### Roadmap to Molecular Orbitals
 
@@ -63,7 +86,7 @@
 
 <div class="flex">
 	<div style="background-color:white; padding: 10px; display: inline-block;">
-		<img src="./images/Borane.png" width=300>
+		<img src="./attachments/Borane.png" width=300>
 	</div>
 	<div>
 		<h4 style="padding-left: 20px;">Borane:</h4>
@@ -79,7 +102,7 @@
 <div style="height: 20px;"></div>
 <div class="flex">
 	<div style="background-color:white; padding: 10px; display: inline-block;">
-		<img src="./images/Borane_with_rotation_axis.png" width=300>
+		<img src="./attachments/Borane_with_rotation_axis.png" width=300>
 	</div>
 	<div>	
 		<h4 style="padding-left: 20px;">Symmetry Diagram</h4>

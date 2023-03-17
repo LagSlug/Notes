@@ -1,0 +1,1 @@
+Centrosymmetric refers to an object or a molecule that possesses a center of inversion, meaning that it is identical when viewed from opposite directions.
