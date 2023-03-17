@@ -8,14 +8,35 @@
         "type": "tabs",
         "children": [
           {
+            "id": "f6203276e3696ae7",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Discrete Structures - CECS228/Operators.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
             "id": "db005af2eb504cc1",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Discrete Structures - CECS228/3. Sets and Subsets.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Discrete Structures - CECS228/3. Sets and Subsets.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -97,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Discrete Structures - CECS228/3. Sets and Subsets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Discrete Structures - CECS228/3. Sets and Subsets.md"
+              }
             }
           },
           {
@@ -149,29 +174,76 @@
       "templater-obsidian:Templater": false
     }
   },
+  "floating": {
+    "id": "a18e79776cd4da5b",
+    "type": "floating",
+    "children": [
+      {
+        "id": "9045f891741ce196",
+        "type": "window",
+        "children": [
+          {
+            "id": "72fb87713d911ad1",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "dd98dbe48be03c2b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Discrete Structures - CECS228/3. Sets and Subsets.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 2304,
+        "y": -139,
+        "width": 1024,
+        "height": 800,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "db005af2eb504cc1",
   "lastOpenFiles": [
+    "Discrete Structures - CECS228/Operators.md",
+    "Discrete Structures - CECS228/3. Sets and Subsets.md",
+    "Discrete Structures - CECS228/attachments/set tri-symmetric-difference-2.svg",
+    "Discrete Structures - CECS228/attachments/set tri-symmetric-difference-1.svg",
+    "Discrete Structures - CECS228/attachments/set tri-symmetric-difference.svg",
+    "Discrete Structures - CECS228/attachments/set tri-difference - Copy.svg",
+    "Templater/Templates/Overline.md",
+    "Discrete Structures - CECS228/attachments/set union.svg",
+    "Discrete Structures - CECS228/attachments/set tri-difference.svg",
+    "Discrete Structures - CECS228/attachments/set tri-intersect - Copy.svg",
+    "Discrete Structures - CECS228/attachments/set tri-intersect.svg",
+    "Discrete Structures - CECS228/attachments/set tri-union-intersect.svg",
+    "Discrete Structures - CECS228/attachments/set tri-intersects.svg",
+    "Discrete Structures - CECS228/attachments",
     "README.md",
     "Media/Television/Danger Mouse (1981).md",
     "Media/Television",
     "Media",
     "Untitled.canvas",
-    "Discrete Structures - CECS228/3. Sets and Subsets.md",
     "Discrete Structures - CECS228/2. Proofs.md",
     "Chemistry/Inorganic Chemistry/Symmetry and Group Points/Symmetry and Group Points.md",
     "Chemistry/Inorganic Chemistry/Symmetry and Group Points/Flowers.md",
     "Art/Ancient/Greek/Ancient Greek Art.md",
     "Architecture/Ancient/Greek/Ancient Greek Architecture.md",
-    "Architecture/Ancient/Greek/attachments/symmetry-in-ancient-greek-architecture.jpg",
     "Architecture/Ancient/Greek/attachments",
     "Architecture/Ancient/Greek",
     "Architecture/Ancient",
     "Architecture",
-    "Art/Ancient/Greek/attachments/symmetry-in-ancient-greek-art.jpg",
     "Art/Ancient/Greek/attachments",
     "Art/Ancient/Greek",
     "Art/Ancient",
-    "Art",
     "Chemistry/Inorganic Chemistry/Symmetry and Group Points/Dihedral Groups.md",
     "Persons of Interest/Mineralogy/Johann Friedrich Christian Hessel.md",
     "Chemistry/Inorganic Chemistry/Symmetry and Group Points/Cubic Groups (High Symmetry).md",
@@ -184,18 +256,8 @@
     "Chemistry/Inorganic Chemistry/Symmetry and Group Points/Credits.md",
     "Chemistry/Inorganic Chemistry/Symmetry and Group Points/Common Point Groups Table.md",
     "Chemistry/Inorganic Chemistry/Symmetry and Group Points/Centrosymmetric.md",
-    "Chemistry/Inorganic Chemistry/Symmetry and Group Points/attachments/BH3.svg",
-    "Chemistry/Inorganic Chemistry/Symmetry and Group Points/attachments/Sulfur hexafluoride.png",
-    "Chemistry/Inorganic Chemistry/Symmetry and Group Points/attachments/Methane (model).png",
-    "Chemistry/Inorganic Chemistry/Symmetry and Group Points/attachments/CO2.png",
-    "Chemistry/Inorganic Chemistry/Symmetry and Group Points/attachments/Iron pentacarbonyl.png",
     "Chemistry/Inorganic Chemistry/Symmetry and Group Points/c2ccccc2.md",
-    "Chemistry/Inorganic Chemistry/Symmetry and Group Points/attachments/Tris(ethylenediamine)cobalt(III).png",
-    "Chemistry/3D Structures/Triphenylaluminum.svg",
-    "Chemistry/Inorganic Chemistry/Symmetry and Group Points/attachments/Benzene.png",
     "Chemistry/Inorganic Chemistry/Weller (2018)/Chapter 5.md",
-    "Software/Windows/Browser Addons.md",
-    "Software/Graphics/Inkscape - Draw Freely.md",
-    "Software/Windows/Settings.md"
+    "Software/Windows/Browser Addons.md"
   ]
 }

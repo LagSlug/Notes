@@ -38,3 +38,12 @@ table.word-break {
 table.center-text, table.center-text th, table.center-text td {
   text-align: center!important; /* Forgive me Father, for I have sinned. */
 }
+
+
+table.td-padding td {
+  padding: 10px 10px 10px 10px;
+}
+
+table.no-wrap {
+  white-space: nowrap;
+}

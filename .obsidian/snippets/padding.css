@@ -2,3 +2,7 @@
 .padding {
   padding: 20px;
 }
+
+.no-padding {
+  padding: 0px;
+}

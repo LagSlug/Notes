@@ -8,8 +8,8 @@
     "clean-embeds",
     "boxes",
     "hr",
-    "h",
     "ul",
-    "padding"
+    "padding",
+    "h"
   ]
 }
