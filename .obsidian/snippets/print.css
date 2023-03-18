@@ -1,0 +1,22 @@
+@media print {
+
+  table.markdown-rendered thead {
+    background-color: lightgray;
+    color: black;
+  }
+
+  .markdown-rendered table > thead {
+    background-color: lightgray;
+    
+  }
+  
+  .markdown-rendered table th {
+    color: black;
+  }
+
+}
+
+
+
+
+

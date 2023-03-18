@@ -79,6 +79,7 @@ There are 2<sup>3</sup> possible solutions, because there are 3 variables and tw
 |  F  |  F  |  T  |    F    |     T     |          F          |
 |  F  |  F  |  F  |    F    |     T     |          F          |
 
+
 #### 1.2.8 - Finding truth values to make two logical expressions evaluate to different values
 
 Give truth values for the propositional variables that cause the two expressions to have different truth values.
@@ -88,17 +89,18 @@ For example, given p ∨ q and p ⊕ q, the correct answer would be p = q = T, b
 (a)
 	r ∧ (p ∨ q)
 	(r ∧ p) ∨ q
-	
-   | row # |  r  |  p  |  q  | r ∧ (p ∨ q) | (r ∧ p) ∨ q |   Δ   |
-   |:-----:|:---:|:---:|:---:|:-----------:|:-----------:|:-----:|
-   |   0   |  T  |  T  |  T  |      T      |      T      |   -   |
-   |   1   |  T  |  T  |  F  |      T      |      T      |   -   |
-   |   2   |  T  |  F  |  T  |      T      |      T      |   -   |
-   |   3   |  T  |  F  |  F  |      F      |      F      |   -   |
-   |   4   |  F  |  T  |  T  |      F      |      T      | **T** |
-   |   5   |  F  |  T  |  F  |      F      |      F      |   -   |
-   |   6   |  F  |  F  |  T  |      F      |      T      | **T** |
-   |   7   |  F  |  F  |  F  |      F      |      F      |   -   |
+
+
+| row # |  r  |  p  |  q  | r ∧ (p ∨ q) | (r ∧ p) ∨ q |   Δ   |
+|:-----:|:---:|:---:|:---:|:-----------:|:-----------:|:-----:|
+|   0   |  T  |  T  |  T  |      T      |      T      |   -   |
+|   1   |  T  |  T  |  F  |      T      |      T      |   -   |
+|   2   |  T  |  F  |  T  |      T      |      T      |   -   |
+|   3   |  T  |  F  |  F  |      F      |      F      |   -   |
+|   4   |  F  |  T  |  T  |      F      |      T      | **T** |
+|   5   |  F  |  T  |  F  |      F      |      F      |   -   |
+|   6   |  F  |  F  |  T  |      F      |      T      | **T** |
+|   7   |  F  |  F  |  F  |      F      |      F      |   -   |
 
    ```
 	Rows 4 and 6 show that both expressions have different outputs when:
@@ -118,13 +120,13 @@ For example, given p ∨ q and p ⊕ q, the correct answer would be p = q = T, b
 (b)
    ¬p ∧ q
    ¬(p ∧ q)
-   	
-   | row # |  p  |  q  | ¬p ∧ q | ¬(p ∧ q) | Δ   |
-   |:-----:|:---:|:---:|:------:|:--------:| --- |
-   |   0   |  T  |  T  |   F    |    F     | -   |
-   |   1   |  T  |  F  |   T    |    T     | T   |
-   |   2   |  F  |  T  |   T    |    T     | -   |
-   |   3   |  F  |  F  |   F    |    T     | T   |
+
+| row # |  p  |  q  | ¬p ∧ q | ¬(p ∧ q) | Δ   |
+|:-----:|:---:|:---:|:------:|:--------:| --- |
+|   0   |  T  |  T  |   F    |    F     | -   |
+|   1   |  T  |  F  |   T    |    T     | T   |
+|   2   |  F  |  T  |   T    |    T     | -   |
+|   3   |  F  |  F  |   F    |    T     | T   |
 
    ```
 	Rows 1 and 3 show that both expressions have different outputs when:
@@ -142,13 +144,13 @@ For example, given p ∨ q and p ⊕ q, the correct answer would be p = q = T, b
 	p ∨ q
 	(¬p ∧ q) ∨ (p ∧ ¬q)
 
-   | row # |  p  |  q  | p ∨ q | (¬p ∧ q) ∨ (p ∧ ¬q) | Δ   |
-   |:-----:|:---:|:---:|:-----:|:-------------------:| --- |
-   |   0   |  T  |  T  |   T   |    (F v F) -> F     | T   |
-   |   1   |  T  |  F  |   T   |    (F v T) -> T     | -   |
-   |   2   |  F  |  T  |   T   |    (T v F) -> T     | -   |
-   |   3   |  F  |  F  |   F   |    (F v F) -> F     | -   |
-	
+| row # |  p  |  q  | p ∨ q | (¬p ∧ q) ∨ (p ∧ ¬q) | Δ   |
+|:-----:|:---:|:---:|:-----:|:-------------------:| --- |
+|   0   |  T  |  T  |   T   |    (F v F) -> F     | T   |
+|   1   |  T  |  F  |   T   |    (F v T) -> T     | -   |
+|   2   |  F  |  T  |   T   |    (T v F) -> T     | -   |
+|   3   |  F  |  F  |   F   |    (F v F) -> F     | -   |
+
    ```
 	Row 1 shows that both expressions have different outputs when:
 	
@@ -204,46 +206,47 @@ Note:
 		¬(p⊕q) == (p↔q)
 
 Truth table for the biconditional operator:
+
 | p   | q   | p↔q |
 | --- | --- | --- |
-|  T   | T   |  T   |
-|  T   | F   |  F   |
-|  F   | T   |  F   |
-|  F   | F   |  T   |
+| T   | T   | T   |
+| T   | F   | F   |
+| F   | T   | F   |
+| F   | F   | T   |
 
 
 (c)           (p ∨ q) ↔ (q → ¬p)
 
-   | row # |  p  |  q  | (p ∨ q) | (q → ¬p) | (p ∨ q) ↔ (q → ¬p) |
-   |:-----:|:---:|:---:|:-------:|:--------:|:------------------:|
-   |   0   |  T  |  T  |    T    |    F     |        F            |
-   |   1   |  T  |  F  |    T    |    T     |        T            |
-   |   2   |  F  |  T  |    T    |    T     |        T            |
-   |   3   |  F  |  F  |    F    |    T     |        F            |
-   
+| row # |  p  |  q  | (p ∨ q) | (q → ¬p) | (p ∨ q) ↔ (q → ¬p) |
+|:-----:|:---:|:---:|:-------:|:--------:|:------------------:|
+|   0   |  T  |  T  |    T    |    F     |         F          |
+|   1   |  T  |  F  |    T    |    T     |         T          |
+|   2   |  F  |  T  |    T    |    T     |         T          |
+|   3   |  F  |  F  |    F    |    T     |         F          |
+
 
 (d)           (p ↔ q) ⊕ (p ↔ ¬q)
 
-   | row # |  p  |  q  | (p ↔ q) | (p ↔ ¬q) | (p ↔ q) ⊕ (p ↔ ¬q) |
-   |:-----:|:---:|:---:| ------- | -------- |:------------------:|
-   |   0   |  T  |  T  | T       | F        |         T           |
-   |   1   |  T  |  F  | F       | T        |         T           |
-   |   2   |  F  |  T  | F       | T        |         T           |
-   |   3   |  F  |  F  | T       | F        |         T           |
-   
+| row # |  p  |  q  | (p ↔ q) | (p ↔ ¬q) | (p ↔ q) ⊕ (p ↔ ¬q) |
+|:-----:|:---:|:---:| ------- | -------- |:------------------:|
+|   0   |  T  |  T  | T       | F        |         T          |
+|   1   |  T  |  F  | F       | T        |         T          |
+|   2   |  F  |  T  | F       | T        |         T          |
+|   3   |  F  |  F  | T       | F        |         T          |
+
 #### 1.3.6 - Expressing English sentences in if-then form.
 
 Give an English sentence in the form "If...then...." that is equivalent to each sentence.
 
-| Statement | Phrase |
-| --- | --- |
-| If p, then q. | If you mow Mr. Smith's lawn, then he will pay you. |
-| If p, q. | If you mow Mr. Smith's lawn, he will pay you. |
-| q if p | Mr. Smith will pay you if you mow his lawn. |
-| p implies q. | Mowing Mr. Smith's lawn implies that he will pay you. |
-| p only if q. | You will mow Mr. Smith's lawn only if he pays you. |
-| p is sufficient for q. | Mowing Mr. Smith's lawn is sufficient for him to pay you. |
-| q is necessary for p. | Mr. Smith's paying you is necessary for you to mow his lawn. |
+| Statement              | Phrase                                                       |
+| ---------------------- | ------------------------------------------------------------ |
+| If p, then q.          | If you mow Mr. Smith's lawn, then he will pay you.           |
+| If p, q.               | If you mow Mr. Smith's lawn, he will pay you.                |
+| q if p                 | Mr. Smith will pay you if you mow his lawn.                  |
+| p implies q.           | Mowing Mr. Smith's lawn implies that he will pay you.        |
+| p only if q.           | You will mow Mr. Smith's lawn only if he pays you.           |
+| p is sufficient for q. | Mowing Mr. Smith's lawn is sufficient for him to pay you.    |
+| q is necessary for p.  | Mr. Smith's paying you is necessary for you to mow his lawn. |
 
 (A) Maintaining a B average is <u>sufficient for</u> Joe to be eligible for the honors program.
 
@@ -394,6 +397,7 @@ If Sally updated her resume and did not get the job, then she was late for her i
 Below are several proofs showing that two logical expressions are logically equivalent. Label the steps in each proof with the law used to obtain each proposition from the previous proposition. The first line in the proof does not have a label.
 
 (A)
+
 | Expression         |          Law         |
 |--------------------|:--------------------:|
 | (p → q) ∧ (q ∨ p)  |                      |
@@ -474,13 +478,14 @@ This can also be demonstrated through a series of transformations.
 | ---------- | -------------------- |
 | p → q      | Implication Identity |
 | ¬p ∨ q     | Commutative          |
-| q ∨ ¬p     | Implication                 |
+| q ∨ ¬p     | Implication          |
 
 
 (d) The converse and inverse of a conditional statement are logically equivalent.
 q → p is logically equivalent to ¬p → ¬q
 
 This can be proven using a truth table:
+
 | Row # | p   | q   | ¬p → ¬q | q → p |
 | ----- | --- | --- | ------- | ----- |
 | 0     | T   | T   | T       | T     |
@@ -489,6 +494,7 @@ This can be proven using a truth table:
 | 3     | F   | F   | T       | T     |
 
 And through a series of transformations:
+
 | Expression | Rule        |
 | ---------- | ----------- |
 | q → p      |             | 

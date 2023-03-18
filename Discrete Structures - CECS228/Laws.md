@@ -26,28 +26,35 @@
 
 
 ### De Morgans Law
+
 - When a negation "passes" over a quantifier, it causes the quantifier to "flip".
 - Existential becomes Universal, and Universal becomes Existential
+
 $$
-	¬∃x∀y ( P(x) + Q(y) = 0 )   ≡   ∀x∃y¬( P(x) + Q(y) = 0 )
-	
+	¬∃x∀y ( P(x) + Q(y) = 0 ) ≡ ∀x∃y¬( P(x) + Q(y) = 0 )
 $$
+
 - Note: the negation can be applied to the expression, converting the "=" operator to "≠".
+
 $$
 	∀x∃y¬( P(x) + Q(y) = 0 ) ≡ ∀x∃y( P(x) + Q(y) ≠ 0 )
 $$
 
+
 ### Tautology and Contradiction
+
 - A compound proposition is a <u>tautology</u> if the proposition is always true.
 - A compound proposition is a <u>contradiction</u> if the proposition is always false
 
 ##### Tautology truth table:
+
 |  p  | ¬p  | p ∨ ¬p |
 |:---:|:---:|:------:|
 |  T  |  F  |   T    |
 |  F  |  T  |   T    |
 
 ##### Contradiction truth table:
+
 |  p  | ¬p  | p ∧ ¬p |
 |:---:|:---:|:------:|
 |  T  |  F  |   F    |

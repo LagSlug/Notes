@@ -4,39 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "21bbb2439e8f04cf",
+        "id": "7b5fba9f9d6d76a4",
         "type": "tabs",
         "children": [
           {
-            "id": "f6203276e3696ae7",
+            "id": "6c6a80e8d9e65653",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Discrete Structures - CECS228/Operators.md",
+                "file": "Discrete Structures - CECS228/Homework/HW 2.md",
                 "mode": "source",
                 "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "db005af2eb504cc1",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Discrete Structures - CECS228/3. Sets and Subsets.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Discrete Structures - CECS228/3. Sets and Subsets.md",
+                "file": "Discrete Structures - CECS228/Laws.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -119,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Discrete Structures - CECS228/3. Sets and Subsets.md",
+                "file": "Discrete Structures - CECS228/Laws.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Discrete Structures - CECS228/3. Sets and Subsets.md"
+                "file": "Discrete Structures - CECS228/Laws.md"
               }
             }
           },
@@ -159,8 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,31 +161,44 @@
     "type": "floating",
     "children": [
       {
-        "id": "9045f891741ce196",
+        "id": "28112a7167ac8ebf",
         "type": "window",
         "children": [
           {
-            "id": "72fb87713d911ad1",
+            "id": "444e79aebd2a5af7",
             "type": "tabs",
             "children": [
               {
-                "id": "dd98dbe48be03c2b",
+                "id": "eab403324bcc1bd1",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Discrete Structures - CECS228/3. Sets and Subsets.md",
+                    "file": "Discrete Structures - CECS228/2. Proofs.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "bc90ee962a58143a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Discrete Structures - CECS228/Laws.md",
                     "mode": "preview",
                     "source": false
                   }
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
-        "x": 2304,
-        "y": -139,
+        "x": 1857,
+        "y": -54,
         "width": 1024,
         "height": 800,
         "maximize": true,
@@ -211,53 +206,54 @@
       }
     ]
   },
-  "active": "db005af2eb504cc1",
+  "active": "bc90ee962a58143a",
   "lastOpenFiles": [
+    "Discrete Structures - CECS228/PDFs/Set Identities.pdf",
+    "Discrete Structures - CECS228/PDFs/Operators.pdf",
+    "Discrete Structures - CECS228/PDFs/Number Sets.pdf",
+    "Discrete Structures - CECS228/PDFs/Laws.pdf",
+    "Discrete Structures - CECS228/PDFs/HW 1.pdf",
+    "Discrete Structures - CECS228/PDFs/I.D.E. - Intersection Difference Equivalence.pdf",
+    "Discrete Structures - CECS228/PDFs/HW 2.pdf",
+    "Discrete Structures - CECS228/PDFs/Class Notes.pdf",
+    "Discrete Structures - CECS228/PDFs/4. Functions.pdf",
+    "Discrete Structures - CECS228/PDFs/3. Sets and Subsets.pdf",
+    "Discrete Structures - CECS228/PDFs/2. Proofs.pdf",
+    "Discrete Structures - CECS228/Homework/HW 2.md",
+    "Discrete Structures - CECS228/Homework/HW 1.md",
+    "Discrete Structures - CECS228/Laws.md",
+    "Discrete Structures - CECS228/Set Identities.md",
+    "Discrete Structures - CECS228/Untitled.md",
     "Discrete Structures - CECS228/Operators.md",
+    "Discrete Structures - CECS228/Number Sets.md",
+    "Discrete Structures - CECS228/2. Proofs.md",
+    "Discrete Structures - CECS228/I.D.E. - Intersection Difference Equivalence.md",
+    "Discrete Structures - CECS228/Class Notes.md",
+    "Discrete Structures - CECS228/4. Functions.md",
     "Discrete Structures - CECS228/3. Sets and Subsets.md",
+    "Discrete Structures - CECS228/1. Laws of propositional logic.md",
+    "Discrete Structures - CECS228/attachments/logarithm-function-graph.png",
+    "Philosophy/Emergent Phenomenon.md",
+    "Discrete Structures - CECS228/attachments/function-arrow-diagram.svg",
+    "Discrete Structures - CECS228/attachments/embedded_image_1_46e8b947-fefc-7f55-2e2f-807f684375f3_wENGy3bihz0r5xj1K0ez.png",
+    "Discrete Structures - CECS228/attachments/zybooks-relative-sizes-of-domain-and-target.svg",
+    "Software/Graphics/Inkscape - Draw Freely.md",
+    "Discrete Structures - CECS228/attachments/set partition.svg",
     "Discrete Structures - CECS228/attachments/set tri-symmetric-difference-2.svg",
     "Discrete Structures - CECS228/attachments/set tri-symmetric-difference-1.svg",
     "Discrete Structures - CECS228/attachments/set tri-symmetric-difference.svg",
     "Discrete Structures - CECS228/attachments/set tri-difference - Copy.svg",
     "Templater/Templates/Overline.md",
     "Discrete Structures - CECS228/attachments/set union.svg",
-    "Discrete Structures - CECS228/attachments/set tri-difference.svg",
-    "Discrete Structures - CECS228/attachments/set tri-intersect - Copy.svg",
-    "Discrete Structures - CECS228/attachments/set tri-intersect.svg",
-    "Discrete Structures - CECS228/attachments/set tri-union-intersect.svg",
-    "Discrete Structures - CECS228/attachments/set tri-intersects.svg",
-    "Discrete Structures - CECS228/attachments",
     "README.md",
     "Media/Television/Danger Mouse (1981).md",
-    "Media/Television",
-    "Media",
     "Untitled.canvas",
-    "Discrete Structures - CECS228/2. Proofs.md",
     "Chemistry/Inorganic Chemistry/Symmetry and Group Points/Symmetry and Group Points.md",
     "Chemistry/Inorganic Chemistry/Symmetry and Group Points/Flowers.md",
     "Art/Ancient/Greek/Ancient Greek Art.md",
     "Architecture/Ancient/Greek/Ancient Greek Architecture.md",
-    "Architecture/Ancient/Greek/attachments",
-    "Architecture/Ancient/Greek",
-    "Architecture/Ancient",
-    "Architecture",
-    "Art/Ancient/Greek/attachments",
-    "Art/Ancient/Greek",
-    "Art/Ancient",
     "Chemistry/Inorganic Chemistry/Symmetry and Group Points/Dihedral Groups.md",
     "Persons of Interest/Mineralogy/Johann Friedrich Christian Hessel.md",
-    "Chemistry/Inorganic Chemistry/Symmetry and Group Points/Cubic Groups (High Symmetry).md",
-    "Chemistry/Inorganic Chemistry/Symmetry and Group Points/Mirror Planes  (σ).md",
-    "Chemistry/Inorganic Chemistry/Symmetry and Group Points/Symmetry Operations.md",
-    "Chemistry/Inorganic Chemistry/Symmetry and Group Points/Table of Examples.md",
-    "Chemistry/Inorganic Chemistry/Symmetry and Group Points/Symmetry in Flowers.md",
-    "Chemistry/Inorganic Chemistry/Symmetry and Group Points/Symmetry Analysis Decision Tree.md",
-    "Chemistry/Inorganic Chemistry/Symmetry and Group Points/Examples of Symmetric Molecules.md",
-    "Chemistry/Inorganic Chemistry/Symmetry and Group Points/Credits.md",
-    "Chemistry/Inorganic Chemistry/Symmetry and Group Points/Common Point Groups Table.md",
-    "Chemistry/Inorganic Chemistry/Symmetry and Group Points/Centrosymmetric.md",
-    "Chemistry/Inorganic Chemistry/Symmetry and Group Points/c2ccccc2.md",
-    "Chemistry/Inorganic Chemistry/Weller (2018)/Chapter 5.md",
-    "Software/Windows/Browser Addons.md"
+    "Chemistry/Inorganic Chemistry/Symmetry and Group Points/Cubic Groups (High Symmetry).md"
   ]
 }
