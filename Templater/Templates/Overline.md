@@ -1,1 +1,1 @@
-<span style="text-decoration: overline;"><% tp.file.selection() %></span>
+<span style="display: inline-block; border-top: 2px solid; margin-top: 5px;line-height: 18px;"><% tp.file.selection() %></span>

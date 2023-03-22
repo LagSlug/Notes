@@ -1,5 +1,6 @@
-# Class Notes
-Proof of Onto and One-to-One
+# Class Notes - March 11th, 2023
+
+### Proof of Onto and One-to-One
 
 $$
 	\displaylines{

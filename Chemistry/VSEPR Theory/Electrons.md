@@ -34,6 +34,3 @@ We have two contradictory pictures of reality; separately neither of them fully 
 -  The <u>spin</u> of an electron refers to its angular momentum and magnetic moment, which are associated with the rotation of an electron around its own axis.
 -  The direction of electron spin is often represented by a quantum number, either +1/2 or -1//2.
 
-
-### Orbitals
-

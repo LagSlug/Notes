@@ -2,7 +2,7 @@
 #Dihedral-groups
  ^Dihedral-groups
  
-- The dihedral groups have n two-fold axes perpendicular to the principal n-fold axis. 
+- The dihedral groups have *n* two-fold axes perpendicular to the principal n-fold axis. 
 - These C2 axis are called dihedral axes. 
 - Dihedral groups groups include:
 
@@ -105,7 +105,7 @@
 
 1. D<sub>∞h</sub>
 	- Same as D<sub>nh</sub>, except the principal rotational axis is an infinite-fold C<sub>∞</sub>
-	- This is the point group for all linear [[Chemistry/Inorganic Chemistry/Symmetry and Group Points/Centrosymmetric|centrosymmetric]] linear molecules (e.g. H<sub>2</sub>, CO<sub>2</sub>)
+	- This is the point group for all linear [[Chemistry/Inorganic Chemistry/Symmetry and Group Points/Centrosymmetric|centrosymmetric]] linear molecules (e.g. H<sub>2</sub>, <span style="white-space: nowrap;">CO<sub>2</sub></span>)
 
 <div style="display: table; border: 1px solid; width: 100%;">
 	<div style="display: table-row;">

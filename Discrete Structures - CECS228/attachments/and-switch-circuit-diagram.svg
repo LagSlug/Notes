@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Circuit Diagram, cdlibrary.dll 4.0.0.0 -->
+
+<svg
+   version="1.1"
+   width="220"
+   height="140"
+   id="svg251"
+   sodipodi:docname="and-switch-circuit-diagram.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs255" />
+  <sodipodi:namedview
+     id="namedview253"
+     pagecolor="#ffffff"
+     bordercolor="#111111"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="2.9071429"
+     inkscape:cx="45.405405"
+     inkscape:cy="77.567566"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:lockguides="false" />
+  <rect
+     style="fill:#ffffff;stroke:#ffffff;stroke-width:3.27181;stroke-linecap:square;stroke-miterlimit:0;stroke-opacity:1"
+     id="rect778"
+     width="223.063"
+     height="142.57159"
+     x="-0.94181991"
+     y="-1.2858011"
+     inkscape:label="BG"
+     sodipodi:insensitive="true" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Diagram">
+    <line
+       x1="47.678074"
+       y1="73.600639"
+       x2="47.678074"
+       y2="103.60065"
+       style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+       id="line191" />
+    <line
+       x1="167.67805"
+       y1="33.600639"
+       x2="167.67805"
+       y2="48.600636"
+       style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+       id="line195" />
+    <line
+       x1="167.67805"
+       y1="88.600632"
+       x2="167.67805"
+       y2="103.60065"
+       style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+       id="line197" />
+    <path
+       d="m 167.67807,48.60064 v 2 l -7,3 14,6 -14,6 14,6 -14,6 14,6.000001 -7,3 v 2"
+       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2;stroke-linecap:square"
+       id="path199" />
+    <line
+       x1="127.67806"
+       y1="103.60065"
+       x2="167.67805"
+       y2="103.60065"
+       style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+       id="line203" />
+    <line
+       x1="127.67806"
+       y1="103.60065"
+       x2="87.67807"
+       y2="103.60065"
+       style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+       id="line205" />
+    <path
+       d="m 100.67807,103.60064 m 0,-7.999996 v 15.999996 m 0,-8 15,8 V 95.600644 l -15,7.999996"
+       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2;stroke-linecap:square"
+       id="path207" />
+    <path
+       d="m 102.67807,103.60064 m 2,-10.999999 -8.000003,-8 m -1,-1 4.000001,2 -2.000001,2 -2,-4 4.000001,2"
+       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2;stroke-linecap:square"
+       id="path209" />
+    <path
+       d="m 102.67807,103.60064 m -4.000002,-3.999996 -7.999999,-8.000003 m -1,-1 4,2 -2,2.000003 -2,-4.000003 4,2"
+       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2;stroke-linecap:square"
+       id="path211" />
+    <line
+       x1="47.678074"
+       y1="33.600639"
+       x2="58.678074"
+       y2="33.600639"
+       style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+       id="line213" />
+    <line
+       x1="86.67807"
+       y1="33.600639"
+       x2="97.678062"
+       y2="33.600639"
+       style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+       id="line215" />
+    <circle
+       cx="61.678074"
+       cy="33.600639"
+       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2"
+       id="ellipse217"
+       r="3" />
+    <circle
+       cx="83.67807"
+       cy="33.600639"
+       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2"
+       id="ellipse219"
+       r="3" />
+    <line
+       x1="64.67807"
+       y1="31.600637"
+       x2="81.67807"
+       y2="25.600639"
+       style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+       id="line221" />
+    <line
+       x1="98.960815"
+       y1="33.600639"
+       x2="119.17826"
+       y2="33.600639"
+       style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+       id="line223" />
+    <line
+       x1="150.60974"
+       y1="33.539829"
+       x2="167.69322"
+       y2="33.539829"
+       style="stroke:#000000;stroke-width:2.00001;stroke-linecap:square"
+       id="line225"
+       inkscape:transform-center-x="0.18242313"
+       inkscape:transform-center-y="-0.091211563" />
+    <circle
+       cx="124.06907"
+       cy="33.479023"
+       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2"
+       id="ellipse227"
+       r="3" />
+    <circle
+       cx="146.06906"
+       cy="33.479023"
+       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2"
+       id="ellipse229"
+       r="3" />
+    <line
+       x1="127.06907"
+       y1="31.479021"
+       x2="144.06906"
+       y2="25.479023"
+       style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+       id="line231" />
+    <line
+       x1="47.678074"
+       y1="43.600639"
+       x2="47.678074"
+       y2="53.600636"
+       style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+       id="line233" />
+    <line
+       x1="47.678074"
+       y1="103.60065"
+       x2="87.67807"
+       y2="103.60065"
+       style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+       id="line235" />
+    <line
+       x1="47.678074"
+       y1="74.600639"
+       x2="47.678074"
+       y2="84.600632"
+       style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+       id="line237" />
+    <line
+       x1="37.67807"
+       y1="66.600639"
+       x2="57.678074"
+       y2="66.600639"
+       style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+       id="line241" />
+    <line
+       x1="42.67807"
+       y1="72.600639"
+       x2="52.67807"
+       y2="72.600639"
+       style="stroke:#000000;stroke-width:3;stroke-linecap:square"
+       id="line243" />
+    <line
+       x1="47.678074"
+       y1="72.600639"
+       x2="47.678074"
+       y2="74.600639"
+       style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+       id="line245" />
+    <line
+       x1="47.936058"
+       y1="34.266354"
+       x2="47.936058"
+       y2="65.144508"
+       style="stroke:#000000;stroke-width:2.48509;stroke-linecap:square"
+       id="line249" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer2"
+       inkscape:label="Labels"
+       style="display:inline">
+      <text
+         x="33.67807"
+         y="69.600639"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;dominant-baseline:middle;text-anchor:end"
+         dominant-baseline="middle"
+         id="text247"
+         inkscape:label="+5V">+5V</text>
+      <text
+         x="214.2186"
+         y="70.320541"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;dominant-baseline:middle;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1"
+         dominant-baseline="middle"
+         id="text201"
+         inkscape:label="90 Ohms">90 Ω</text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:square;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+         x="91.842758"
+         y="130.71252"
+         id="text1731"
+         inkscape:label="LED"><tspan
+           sodipodi:role="line"
+           id="tspan1729"
+           x="91.842758"
+           y="130.71252">LED</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:square;stroke-miterlimit:0"
+       x="29.582312"
+       y="19.950857"
+       id="text319"
+       transform="translate(45.749385)"><tspan
+         sodipodi:role="line"
+         id="tspan1445"
+         x="29.582312"
+         y="19.950857">Switches</tspan></text>
+  </g>
+</svg>
