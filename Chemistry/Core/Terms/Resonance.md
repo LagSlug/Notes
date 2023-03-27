@@ -1,5 +1,3 @@
-
-
 # Resonance
 
 - Resonance, also known as mesomerism, is a way of describing bonding in certain molecules or polyatomic ions by combining several contributing structures into a resonance hybrid.

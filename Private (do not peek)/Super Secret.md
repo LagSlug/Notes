@@ -18,4 +18,3 @@ Moonless starry nights,
 The talk of the trees.. but wait.. 
 they speak Japanese?
 
-

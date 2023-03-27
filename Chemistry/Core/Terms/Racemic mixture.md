@@ -1,4 +1,3 @@
-
 # Racemic mixture
 
 ### Definition

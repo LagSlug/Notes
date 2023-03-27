@@ -4,35 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "2087c02c9a559657",
+        "id": "f022c939755677c0",
         "type": "tabs",
         "children": [
           {
-            "id": "537a45826272eb0c",
+            "id": "84bdee57dacfe1ad",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chemistry/Inorganic Chemistry/Symmetry and Group Points/Dihedral Groups.md",
+                "file": "Discrete Structures - CECS228/5. Boolean Algebra.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "ef63d231ee4d6ea0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chemistry/Inorganic Chemistry/Homework 2/Homework 2.md",
-                "mode": "source",
-                "source": false
-              }
+              },
+              "pinned": true
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chemistry/Inorganic Chemistry/Homework 2/Homework 2.md",
+                "file": "Discrete Structures - CECS228/5. Boolean Algebra.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chemistry/Inorganic Chemistry/Homework 2/Homework 2.md",
+                "file": "Discrete Structures - CECS228/5. Boolean Algebra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chemistry/Inorganic Chemistry/Homework 2/Homework 2.md"
+                "file": "Discrete Structures - CECS228/5. Boolean Algebra.md"
               }
             }
           },
@@ -169,54 +158,104 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ef63d231ee4d6ea0",
+  "floating": {
+    "id": "5f2d7bc67e8de3e2",
+    "type": "floating",
+    "children": [
+      {
+        "id": "da176a73af174abd",
+        "type": "window",
+        "children": [
+          {
+            "id": "2cebb313ccfe084d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "54b4f4609cb637d9",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Discrete Structures - CECS228/Untitled.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "bd994b001a8975f5",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Discrete Structures - CECS228/5. Boolean Algebra.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "vertical",
+        "x": 1620,
+        "y": 58,
+        "width": 1024,
+        "height": 800,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "84bdee57dacfe1ad",
   "lastOpenFiles": [
-    "Chemistry/Inorganic Chemistry/Symmetry and Group Points/Dihedral Groups.md",
-    "Chemistry/Inorganic Chemistry/Homework 2/Homework 2.md",
+    "Discrete Structures - CECS228/attachments/zybooks - 5.6.5 -  Constructing a circuit from a Boolean expression.png",
+    "Discrete Structures - CECS228/attachments/zybooks - 5.6.4 - combinatorial function.png",
+    "Discrete Structures - CECS228/attachments/zybook 5.6.3 - 1-bit storage - 1.png",
+    "Discrete Structures - CECS228/5. Boolean Algebra.md",
+    "Discrete Structures - CECS228/attachments/zybook 5.6.3 - 1-bit storage - 2.png",
+    "Discrete Structures - CECS228/attachments/zybook - 5.6.1 - circuit of gates.png",
+    "Discrete Structures - CECS228/attachments/and-or-not-gates.svg",
+    "Discrete Structures - CECS228/attachments/zybook-5.5.8-boolean-expression.png",
+    "Discrete Structures - CECS228/3. Sets and Subsets.md",
+    "Discrete Structures - CECS228/Overview - Propositions.md",
+    "Discrete Structures - CECS228/Laws.md",
+    "Private (do not peek)/Super Secret.md",
+    "Private (do not peek)/Banks.md",
+    "Discrete Structures - CECS228/Untitled.md",
+    "Programming/Conway's Game of Life/The Art of Code - Dylan Beattie.md",
+    "Software/Graphics/Inkscape - Draw Freely.md",
+    "Constructive Writing/System.md",
+    "Templater/Templates/Wrap Numbers With Sub.md",
+    "Templater/Templates/Center Hack.md",
+    "Templater/Templates/Wrap With Div Table.md",
+    "Chemistry/Core/Terms/Crystalline Solids.md",
+    "Chemistry/Organic Chemistry/Practice Exams/Alkanes.md",
+    "Chemistry/Core/Terms/Valence Band.md",
+    "Chemistry/Organic Chemistry/Practice Exams",
+    "Chemistry/Core/Terms/Unit Cell.md",
+    "Chemistry/Core/Terms/Extended Solids.md",
+    "Chemistry/Core/Terms/Catalysis.md",
+    "Chemistry/Core/Terms/Surface Functionalization.md",
+    "Chemistry/Core/Terms/Ceramics.md",
+    "Chemistry/Core/Terms/Amorphous Solids.md",
+    "Chemistry/Core/Terms/Lattice.md",
+    "Chemistry/Core/Terms/Lattice Point.md",
+    "Chemistry/Core/Terms/London dispersion force.md",
     "Chemistry/Inorganic Chemistry/Homework 2",
-    "Chemistry/Core/Terms/Semiconductors.md",
-    "Chemistry/Core/Terms/Electronic Band Structure.md",
     "Chemistry/assets/Silicon Lattice.svg",
     "Chemistry/assets/Silicon valence shell.svg",
     "Chemistry/assets/Silicon valence shellpng.png",
     "Chemistry/assets/Energy bands in semiconductors.svg",
-    "Chemistry/Core/Alkenes and Alkynes.md",
-    "Chemistry/Core/Terms/London dispersion force.md",
-    "Chemistry/assets/London dispersion forces with many cats.svg",
-    "Chemistry/assets/London dispersion forces.svg",
-    "Chemistry/Core/Terms/Extended Solids (Crystalline Solids).md",
-    "Chemistry/Core/Terms/Van der Waals force.md",
-    "Chemistry/Core/Figures/Symmetry-Aadapted Molecular Orbitals - M3.md",
-    "Chemistry/Core/Figures/attachments/Symmetry-adapted-molecular-orbitals-containing-the-metallic-valence-electrons-for-linear.png",
     "Chemistry/Core/Figures/attachments",
     "Chemistry/Core/Figures",
-    "Advice/Communication Skills.md",
-    "Advice/Penguins.md",
-    "Advice/Memory Retention and Recall.md",
-    "Advice/Mental Health and Wellbeing.md",
-    "Constructive Writing/System.md",
-    "Advice/Stress and Anxiety Relief.md",
     "Advice",
-    "Chemistry/VSEPR Theory/Periodic Table - Electronegativity.md",
-    "Chemistry/VSEPR Theory/Orbital Shells.md",
-    "Chemistry/VSEPR Theory/Orbital Precedence.md",
-    "Chemistry/VSEPR Theory/Electrons.md",
-    "Chemistry/assets/Resonance of carbonate.svg",
-    "Chemistry/assets/Resonance of Nitrate.svg",
-    "Chemistry/Core/Terms/Resonance.md",
     "Chemistry/assets",
     "Chemistry/New folder",
-    "Chemistry/Core/Terms/Racemic mixture.md",
-    "Chemistry/ChemDraw/Addition Reactions/But-2-ene + EN.svg",
     "Chemistry/ChemDraw/Addition Reactions/CD_Temp.0",
-    "Chemistry/Core/Terms/Electrophile.md",
     "Chemistry/ChemDraw/Addition Reactions/But-2-ene + HCl.cdxml",
     "Chemistry/ChemDraw/Addition Reactions",
-    "Chemistry/ChemDraw/New folder",
-    "Chemistry/Inorganic Chemistry/Symmetry and Group Points/Examples of Symmetric Molecules.md",
-    "Software/Shibboleth.md",
-    "Chemistry/Organic Chemistry/1. Bonds and Structure.md",
-    "Chemistry/Organic Chemistry/1. New Start.md",
     "Untitled.canvas"
   ]
 }

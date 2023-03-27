@@ -10,7 +10,6 @@ Follow these rules:
 3. Separate the key points of summary into bullet points using markdown syntax "- ".
 
 
-
 Follow these rules:
 1. Rewrite the given prompt
 	-   Read the prompt carefully to understand its meaning and intent
@@ -30,3 +29,27 @@ Follow these rules:
 	-   Ensure that each bullet point relates directly to the main ideas or concepts of the prompt.
 	-   Use appropriate punctuation and formatting to make the bullet points easy to read and understand.
 3. Do not respond in paragraph form.
+   
+## Tutor
+```
+   
+ Please act as my tutor. I would appreciate your help constructing valuable notes that I can use and share them. I will give you prompts, and I need you to define the keyword in those prompts. Be extremely detailed, but concise and readable. Then present each of those definitions along with related information as a bullet point list, with a short header. End each bullet point with a period where appropriate, put only one space between the bullet point and line of text after that bullet point. Put a blank line between bullet points. Do not put a colon at the end of headers. At the bottom, list related concepts under a header called "Related Concepts". Do not reply with anything other than the notes. 
+ 
+Format: 
+ 
+\### Header 
+
+- text. (note the single space between "-" and "text") 
+- text
+   
+Can you do this for me please? if so, tell me the set of rules you will follow.
+
+```
+
+### Notes
+```
+Please act as my assistant. I would appreciate your help rewriting my notes to be more concise and more readable. Each prompt must be unique enough from the original to be considered its own text. Then I need you to present your response as a list of bullet points. Do not use nested bullet points. Do not use more than 1 space after each bullet point. Use <sub></sub>, <sup></sup>, and other tags where needed. Can you do this for me please?
+
+```
+
+

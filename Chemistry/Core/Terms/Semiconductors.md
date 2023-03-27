@@ -4,7 +4,7 @@
 
 - Semiconductors formed from equal amounts of Group 13/15 or Group 12/16 elements are isoelectronic with silicon and can have enhanced properties based on changes in the electronic structure and electron motion.
   
-- Gallium arsenide (GaAs) is a Group 13/15 semiconductor, along with GaP, InP, AlAs, and GaN. Ternary and quaternary Group 13/15 compounds, such as Al<sub>x</sub>Ga<sub>1−x</sub>As, InAs<sub>1−y</sub>P<sub>y</sub>, and In<sub>x</sub>Ga<sub>1−x</sub>As<sub>1−y</sub>P<sub>y</sub>, can also be formed with valuable semiconducting properties.
+- Gallium arsenide (GaAs) is a Group 13/15 semiconductor, along with GaP, InP, AlAs, and GaN. Ternary and quaternary Group 13/15 compounds, such as Al<sub>x</sub>Ga<sub>1−x</sub>As, <span style="white-space: nowrap;">InAs<sub>1−y</sub>P<sub>y</sub></span>, and In<sub>x</sub>Ga<sub>1−x</sub>As<sub>1−y</sub>P<sub>y</sub>, can also be formed with valuable semiconducting properties.
   
 - GaAs-based semiconductor devices respond more rapidly to electrical signals than those based on silicon, making them better for amplifying high-frequency signals, such as satellite TV signals.
   
