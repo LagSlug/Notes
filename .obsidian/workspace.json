@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f022c939755677c0",
+        "id": "d60609d4ae98d937",
         "type": "tabs",
         "children": [
           {
-            "id": "84bdee57dacfe1ad",
+            "id": "2580039f6b81d01c",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Discrete Structures - CECS228/5. Boolean Algebra.md",
+                "file": "Discrete Structures - CECS228/6. Binary Relationships.md",
                 "mode": "source",
                 "source": false
               },
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Discrete Structures - CECS228/5. Boolean Algebra.md",
+                "file": "Discrete Structures - CECS228/6. Binary Relationships.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Discrete Structures - CECS228/5. Boolean Algebra.md",
+                "file": "Discrete Structures - CECS228/6. Binary Relationships.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Discrete Structures - CECS228/5. Boolean Algebra.md"
+                "file": "Discrete Structures - CECS228/6. Binary Relationships.md"
               }
             }
           },
@@ -183,43 +183,71 @@
                 }
               },
               {
-                "id": "bd994b001a8975f5",
+                "id": "1237bb2ae84cdb55",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Discrete Structures - CECS228/5. Boolean Algebra.md",
+                    "file": "Discrete Structures - CECS228/Overview - Propositions.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "a78b56a59ae6eaf0",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Discrete Structures - CECS228/6. Binary Relationships.md",
                     "mode": "source",
                     "source": false
                   }
                 }
               }
             ],
-            "currentTab": 1
+            "currentTab": 2
           }
         ],
         "direction": "vertical",
-        "x": 1620,
-        "y": 58,
-        "width": 1024,
-        "height": 800,
+        "x": 322,
+        "y": 20,
+        "width": 1030,
+        "height": 806,
         "maximize": true,
         "zoom": 0
       }
     ]
   },
-  "active": "84bdee57dacfe1ad",
+  "active": "a78b56a59ae6eaf0",
   "lastOpenFiles": [
-    "Discrete Structures - CECS228/attachments/zybooks - 5.6.5 -  Constructing a circuit from a Boolean expression.png",
-    "Discrete Structures - CECS228/attachments/zybooks - 5.6.4 - combinatorial function.png",
-    "Discrete Structures - CECS228/attachments/zybook 5.6.3 - 1-bit storage - 1.png",
-    "Discrete Structures - CECS228/5. Boolean Algebra.md",
-    "Discrete Structures - CECS228/attachments/zybook 5.6.3 - 1-bit storage - 2.png",
-    "Discrete Structures - CECS228/attachments/zybook - 5.6.1 - circuit of gates.png",
-    "Discrete Structures - CECS228/attachments/and-or-not-gates.svg",
-    "Discrete Structures - CECS228/attachments/zybook-5.5.8-boolean-expression.png",
-    "Discrete Structures - CECS228/3. Sets and Subsets.md",
+    "Discrete Structures - CECS228/attachments/digraph-predators-prey.svg",
+    "Discrete Structures - CECS228/attachments/relationship-matrix-pollinators.svg",
+    "Discrete Structures - CECS228/attachments/arrow-diagram-pollenators.svg",
     "Discrete Structures - CECS228/Overview - Propositions.md",
+    "Discrete Structures - CECS228/6. Binary Relationships.md",
+    "Discrete Structures - CECS228/5. Boolean Algebra.md",
+    "Discrete Structures - CECS228/PDFs/5. Boolean Algebra.pdf",
+    "Discrete Structures - CECS228/attachments/2-bit-adding-circuit-optimized.svg",
+    "Discrete Structures - CECS228/attachments/2-bit-adding-circuit-optimized (2).svg",
+    "Discrete Structures - CECS228/attachments/2-bit adding circuit optimized.svg",
+    "Discrete Structures - CECS228/Homework/HW 2.md",
+    "Discrete Structures - CECS228/Homework/HW 1.md",
+    "Discrete Structures - CECS228/Proofs/Proofs - Direct.md",
+    "Discrete Structures - CECS228/Proofs/Proofs - Contrapositive.md",
+    "Discrete Structures - CECS228/Proofs/Proofs - By Contradiction.md",
+    "Discrete Structures - CECS228/Proofs/Proofs - By Cases.md",
+    "Discrete Structures - CECS228/Proofs/Proofs - Algebraic.md",
+    "Discrete Structures - CECS228/4. Functions.md",
+    "Discrete Structures - CECS228/3. Sets and Subsets.md",
+    "Discrete Structures - CECS228/2. Proofs.md",
+    "Discrete Structures - CECS228/1. Laws of propositional logic.md",
+    "Discrete Structures - CECS228/attachments/2-bit-adding-circuit-with-highlighted-section.svg",
+    "Discrete Structures - CECS228/attachments/2-bit-adding-circuit.svg",
+    "Discrete Structures - CECS228/attachments/gates.svg",
+    "Discrete Structures - CECS228/attachments/not-gate.svg",
+    "Discrete Structures - CECS228/attachments/or-gate.svg",
     "Discrete Structures - CECS228/Laws.md",
     "Private (do not peek)/Super Secret.md",
     "Private (do not peek)/Banks.md",
@@ -231,23 +259,8 @@
     "Templater/Templates/Center Hack.md",
     "Templater/Templates/Wrap With Div Table.md",
     "Chemistry/Core/Terms/Crystalline Solids.md",
-    "Chemistry/Organic Chemistry/Practice Exams/Alkanes.md",
-    "Chemistry/Core/Terms/Valence Band.md",
     "Chemistry/Organic Chemistry/Practice Exams",
-    "Chemistry/Core/Terms/Unit Cell.md",
-    "Chemistry/Core/Terms/Extended Solids.md",
-    "Chemistry/Core/Terms/Catalysis.md",
-    "Chemistry/Core/Terms/Surface Functionalization.md",
-    "Chemistry/Core/Terms/Ceramics.md",
-    "Chemistry/Core/Terms/Amorphous Solids.md",
-    "Chemistry/Core/Terms/Lattice.md",
-    "Chemistry/Core/Terms/Lattice Point.md",
-    "Chemistry/Core/Terms/London dispersion force.md",
     "Chemistry/Inorganic Chemistry/Homework 2",
-    "Chemistry/assets/Silicon Lattice.svg",
-    "Chemistry/assets/Silicon valence shell.svg",
-    "Chemistry/assets/Silicon valence shellpng.png",
-    "Chemistry/assets/Energy bands in semiconductors.svg",
     "Chemistry/Core/Figures/attachments",
     "Chemistry/Core/Figures",
     "Advice",
@@ -255,7 +268,6 @@
     "Chemistry/New folder",
     "Chemistry/ChemDraw/Addition Reactions/CD_Temp.0",
     "Chemistry/ChemDraw/Addition Reactions/But-2-ene + HCl.cdxml",
-    "Chemistry/ChemDraw/Addition Reactions",
     "Untitled.canvas"
   ]
 }

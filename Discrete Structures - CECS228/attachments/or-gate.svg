@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="50mm"
+   height="25mm"
+   viewBox="0 0 50 25"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="or-gate.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#111111"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="4.1020923"
+     inkscape:cx="49.365052"
+     inkscape:cy="59.116174"
+     inkscape:window-width="2400"
+     inkscape:window-height="1271"
+     inkscape:window-x="2391"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-45.55329,-115.56757)">
+    <rect
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.44484;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       id="rect1681"
+       width="185.51508"
+       height="79.959198"
+       x="-0.9751125"
+       y="-1.7064462"
+       transform="matrix(0.26951987,0,0,0.31265946,45.816102,116.10111)"
+       inkscape:label="Background" />
+    <path
+       style="fill:#030303;stroke:none;stroke-width:29.8487;stroke-opacity:1"
+       d="m 449.99154,56.003881 45.28711,102.003969 19.71285,49.99166 H 231.99334 v 19.00331 h 210.99535 56.00732 c 5.566,0 16.81825,-2.13554 21.57925,1.03346 3.61398,2.405 4.03102,9.13223 5.12102,12.97223 3.454,12.16988 5.86148,24.49813 7.71238,37.00401 7.69398,51.9704 8.29867,105.95658 0.86379,157.99586 -2.024,14.16488 -4.3451,28.22076 -8.2831,42.00164 -1.153,4.03388 -1.63211,11.45893 -5.41409,13.97483 -4.761,3.16898 -16.01325,1.01804 -21.57925,1.01804 H 442.98869 230.99073 V 512.0062 H 514.9915 l -19.71285,50.00709 -45.28711,101.98854 h 215.00579 c 75.33514,0 151.95761,-0.46555 226.00365,-16.21143 66.86826,-14.21876 130.81802,-40.67491 189.98682,-74.64043 54.82,-31.46964 106.0973,-72.51161 146.5661,-121.14611 15.65,-18.80278 29.335,-39.13096 43.575,-58.99972 4.45,-6.20688 10.5783,-19.55476 17.9081,-22.39676 9.3,-3.60398 24.9926,-0.60156 34.9526,-0.60156 h 80.0082 273.0029 v -19.00331 h -272.0003 -80.0082 c -10.04,0 -25.5734,2.95443 -34.9834,-0.60157 -8.15,-3.082 -14.8383,-17.52867 -19.7283,-24.38655 -14.45,-20.27276 -28.4721,-40.97458 -44.5621,-60.00234 -42.99,-50.8294 -96.967,-91.87828 -154.7258,-124.58582 -60,-33.97464 -126.16914,-59.093836 -193.9973,-71.802282 C 805.70614,56.267006 732.25885,56.003881 659.99971,56.003881 Z M 509.99387,95.01311 H 676.9978 c 64.74016,0 130.1271,0.635212 193.99726,12.60203 86.27204,16.16388 171.75034,53.92503 241.99914,106.52343 40.89,30.62064 76.8163,65.22425 106.5851,106.86277 l 19.281,27.00876 c 2.3,3.205 7.0808,7.83747 7.1108,12.00047 0.03,4.20688 -4.682,8.77856 -6.972,12.00046 l -19.2964,26.99334 c -29.4798,41.37152 -65.1359,75.94454 -105.7059,106.36918 -66.7888,50.0844 -147.28601,87.0248 -228.99605,104.42566 -53.0904,11.30688 -107.08639,12.87876 -161.00369,15.23966 -71.09114,3.11298 -142.79003,0.97176 -214.00319,0.97176 3.236,-18.79478 16.09449,-38.45546 23.58447,-56.00732 15.40378,-36.10154 29.42817,-73.18669 36.17107,-111.99921 13.29086,-76.50014 13.06495,-161.17586 -9.47081,-235.9989 -8.87088,-29.45264 -20.48706,-57.79933 -32.71592,-85.99307 -5.816,-13.40778 -13.70981,-26.88814 -17.56881,-40.99902 z"
+       transform="matrix(0.03350225,0,0,0.03350225,38.592286,116.00666)"
+       id="path997"
+       inkscape:label="OrGate" />
+  </g>
+</svg>

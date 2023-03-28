@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Circuit Diagram, cdlibrary.dll 4.0.0.0 -->
+
+<svg
+   version="1.1"
+   width="408.20789"
+   height="108.23296"
+   id="svg9774"
+   sodipodi:docname="circuit.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs9778" />
+  <sodipodi:namedview
+     id="namedview9776"
+     pagecolor="#ffffff"
+     bordercolor="#111111"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="1.6409091"
+     inkscape:cx="208.42105"
+     inkscape:cy="52.105263"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg9774" />
+  <rect
+     style="font-variation-settings:normal;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2.02764;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+     id="rect9897"
+     width="408.91968"
+     height="108.47646"
+     x="-9.1412745"
+     y="-7.9224377"
+     rx="2.082407"
+     ry="2.1119313"
+     inkscape:label="Background"
+     transform="matrix(0.99333388,0,0,0.97944735,10.087402,8.7525962)" />
+  <line
+     x1="340"
+     y1="90"
+     x2="380"
+     y2="90"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line9694"
+     transform="translate(-23.838759,-21.09063)" />
+  <line
+     x1="190"
+     y1="100"
+     x2="270"
+     y2="100"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line9696"
+     transform="translate(-23.838759,-21.09063)" />
+  <line
+     x1="270"
+     y1="80"
+     x2="285"
+     y2="80"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line9698"
+     transform="translate(-23.838759,-21.09063)" />
+  <line
+     x1="270"
+     y1="100"
+     x2="285"
+     y2="100"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line9700"
+     transform="translate(-23.838759,-21.09063)" />
+  <path
+     d="m 285,80 m 0,-10 v 40 h 24 M 285,70 h 24 m 0,40 a 20,20 90 0 0 0,-40"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="path9702"
+     transform="translate(-23.838759,-21.09063)" />
+  <line
+     x1="331"
+     y1="90"
+     x2="340"
+     y2="90"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line9704"
+     transform="translate(-23.838759,-21.09063)" />
+  <line
+     x1="200"
+     y1="50"
+     x2="200"
+     y2="80"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line9706"
+     transform="translate(-23.838759,-21.09063)" />
+  <line
+     x1="80"
+     y1="110"
+     x2="120"
+     y2="110"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line9708"
+     transform="translate(-23.838759,-21.09063)" />
+  <line
+     x1="80"
+     y1="60"
+     x2="80"
+     y2="110"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line9710"
+     transform="translate(-23.838759,-21.09063)" />
+  <line
+     x1="100"
+     y1="90"
+     x2="120"
+     y2="90"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line9712"
+     transform="translate(-23.838759,-21.09063)" />
+  <line
+     x1="120"
+     y1="90"
+     x2="135"
+     y2="90"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line9714"
+     transform="translate(-23.838759,-21.09063)" />
+  <line
+     x1="120"
+     y1="110"
+     x2="135"
+     y2="110"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line9716"
+     transform="translate(-23.838759,-21.09063)" />
+  <path
+     d="m 129,90 m 0,-10 q 20,20 0,40 m -1,0 q 35,-5 50,-20 -15,-15 -50,-20"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="path9718"
+     transform="translate(-23.838759,-21.09063)" />
+  <line
+     x1="180"
+     y1="100"
+     x2="190"
+     y2="100"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line9720"
+     transform="translate(-23.838759,-21.09063)" />
+  <line
+     x1="200"
+     y1="80"
+     x2="207"
+     y2="80"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line9722"
+     transform="translate(-23.838759,-21.09063)" />
+  <path
+     d="m 209,70 m 0,10 V 98 L 237,80 209,62 v 18 m 28,0 a 3,3 -5 1 1 6,0 3,3 -5 1 1 -6,0"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="path9724"
+     transform="translate(-23.838759,-21.09063)" />
+  <line
+     x1="245"
+     y1="80"
+     x2="270"
+     y2="80"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line9726"
+     transform="translate(-23.838759,-21.09063)" />
+  <text
+     x="408"
+     y="90"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:start"
+     dominant-baseline="middle"
+     id="text9728"
+     transform="translate(-23.838759,-21.09063)">m</text>
+  <line
+     x1="380"
+     y1="90"
+     x2="397"
+     y2="90"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line9730"
+     transform="translate(-23.838759,-21.09063)" />
+  <circle
+     cx="400"
+     cy="90"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2"
+     id="ellipse9732"
+     r="3"
+     transform="translate(-23.838759,-21.09063)" />
+  <text
+     x="408"
+     y="50"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:start"
+     dominant-baseline="middle"
+     id="text9734"
+     transform="translate(-23.838759,-21.09063)">m</text>
+  <line
+     x1="290"
+     y1="50"
+     x2="397"
+     y2="50"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line9736"
+     transform="translate(-23.838759,-21.09063)" />
+  <circle
+     cx="400"
+     cy="50"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2"
+     id="ellipse9738"
+     r="3"
+     transform="translate(-23.838759,-21.09063)" />
+  <line
+     x1="190"
+     y1="50"
+     x2="290"
+     y2="50"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line9740"
+     transform="translate(-23.838759,-21.09063)" />
+  <text
+     x="42"
+     y="60"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:end"
+     dominant-baseline="middle"
+     id="text9742"
+     transform="translate(-23.838759,-21.09063)">y</text>
+  <line
+     x1="53"
+     y1="60"
+     x2="60"
+     y2="60"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line9744"
+     transform="translate(-23.838759,-21.09063)" />
+  <circle
+     cx="50"
+     cy="60"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2"
+     id="ellipse9746"
+     r="3"
+     transform="translate(-23.838759,-21.09063)" />
+  <text
+     x="42"
+     y="40"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:end"
+     dominant-baseline="middle"
+     id="text9748"
+     transform="translate(-23.838759,-21.09063)">x</text>
+  <line
+     x1="53"
+     y1="40"
+     x2="60"
+     y2="40"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line9750"
+     transform="translate(-23.838759,-21.09063)" />
+  <circle
+     cx="50"
+     cy="40"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2"
+     id="ellipse9752"
+     r="3"
+     transform="translate(-23.838759,-21.09063)" />
+  <line
+     x1="100"
+     y1="40"
+     x2="100"
+     y2="90"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line9754"
+     transform="translate(-23.838759,-21.09063)" />
+  <line
+     x1="60"
+     y1="60"
+     x2="120"
+     y2="60"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line9756"
+     transform="translate(-23.838759,-21.09063)" />
+  <line
+     x1="60"
+     y1="40"
+     x2="120"
+     y2="40"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line9758"
+     transform="translate(-23.838759,-21.09063)" />
+  <line
+     x1="120"
+     y1="40"
+     x2="135"
+     y2="40"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line9760"
+     transform="translate(-23.838759,-21.09063)" />
+  <line
+     x1="120"
+     y1="60"
+     x2="135"
+     y2="60"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line9762"
+     transform="translate(-23.838759,-21.09063)" />
+  <path
+     d="m 135,40 m 0,-10 v 40 h 24 M 135,30 h 24 m 0,40 a 20,20 90 0 0 0,-40"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="path9764"
+     transform="translate(-23.838759,-21.09063)" />
+  <line
+     x1="181"
+     y1="50"
+     x2="190"
+     y2="50"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line9766"
+     transform="translate(-23.838759,-21.09063)" />
+  <circle
+     cx="200"
+     cy="50"
+     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2"
+     id="ellipse9768"
+     r="2"
+     transform="translate(-23.838759,-21.09063)" />
+  <circle
+     cx="80"
+     cy="60"
+     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2"
+     id="ellipse9770"
+     r="2"
+     transform="translate(-23.838759,-21.09063)" />
+  <circle
+     cx="100"
+     cy="40"
+     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2"
+     id="ellipse9772"
+     r="2"
+     transform="translate(-23.838759,-21.09063)" />
+</svg>

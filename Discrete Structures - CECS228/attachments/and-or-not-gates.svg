@@ -25,8 +25,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="1.4503086"
-     inkscape:cx="114.4584"
-     inkscape:cy="218.91892"
+     inkscape:cx="102.04725"
+     inkscape:cy="218.91893"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
      inkscape:window-x="-9"
@@ -51,7 +51,8 @@
        x="-31.717386"
        y="-23.443285"
        transform="matrix(0.36557132,0,0,0.25784354,51.907243,35.857515)"
-       inkscape:label="Background" /><g
+       inkscape:label="Background"
+       sodipodi:insensitive="true" /><g
        id="g3633"
        inkscape:label="Or Gate"
        transform="translate(45.205845,11.801342)"><path
@@ -181,7 +182,7 @@
          sodipodi:role="line"
          id="tspan3817"
          x="-71.708878"
-         y="90.3256"></tspan></text><text
+         y="90.3256" /></text><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#030303;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.51339;stroke-linecap:square;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
        x="-116.52692"
