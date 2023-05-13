@@ -1,0 +1,13 @@
+{
+  "inputMode": "FORMULA",
+  "container": {
+    "padding": 10
+  },
+  "svg": {
+    "autoCrop": false,
+    "height": 100,
+    "width": 100
+  },
+  "showOptions": false,
+  "showPreview": false
+}

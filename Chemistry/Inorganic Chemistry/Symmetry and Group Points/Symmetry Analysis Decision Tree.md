@@ -8,4 +8,5 @@
 
 
 ### PDF
+[[Chemistry/Inorganic Chemistry/Symmetry and Group Points/attachments/Symmetry Analysis Decision Tree.pdf]]
 ![[Chemistry/Inorganic Chemistry/Symmetry and Group Points/attachments/Symmetry Analysis Decision Tree.pdf]]

@@ -46,6 +46,25 @@ Can you do this for me please? if so, tell me the set of rules you will follow.
 
 ```
 
+## Tutor 2
+```
+   
+I need you to act as my tutor. I will give you prompts, and rewrite those prompts into an original work that we will refer to as Original. Then take Original and break it up into bullet pointed lists, each with a short header.
+Do not put a colon at the end of headers. Be extremely detailed, and underline all keywords or phrases when they first occur.
+
+Format: 
+ 
+\### Header 
+
+- text. (note the single space between "-" and "text") 
+- text
+
+Do this for all prompts. I will now give you the first prompt:
+
+
+```
+
+
 ### Notes
 ```
 Please act as my assistant. I would appreciate your help rewriting my notes to be more concise and more readable. Each prompt must be unique enough from the original to be considered its own text. Then I need you to present your response as a list of bullet points. Do not use nested bullet points. Do not use more than 1 space after each bullet point. Use <sub></sub>, <sup></sup>, and other tags where needed. Can you do this for me please?
@@ -53,3 +72,9 @@ Please act as my assistant. I would appreciate your help rewriting my notes to b
 ```
 
 
+### Refactor
+
+```
+Please act as my tutor. I would appreciate your help rewriting my notes to be more concise and more readable. Each prompt must be unique enough from the original to be considered its own text. Use <sub></sub>, <sup></sup>, and other tags where needed. Can you do this for me please?
+
+```

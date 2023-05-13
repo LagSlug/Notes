@@ -4,18 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "d60609d4ae98d937",
+        "id": "af1fe575cf38e4e9",
         "type": "tabs",
         "children": [
           {
-            "id": "2580039f6b81d01c",
+            "id": "001d50c392b27776",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Discrete Structures - CECS228/6. Binary Relationships.md",
+                "file": "Discrete Structures - CECS228/8. Induction and Recursion.md",
                 "mode": "source",
+                "backlinks": false,
                 "source": false
               },
               "pinned": true
@@ -66,12 +67,20 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "27d9d8ee7d84883c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 343.5
+    "width": 244.5
   },
   "right": {
     "id": "0c28b1b800fb7e5b",
@@ -82,29 +91,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b4ef48a0e3c66b20",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Discrete Structures - CECS228/6. Binary Relationships.md",
-                "collapseAll": true,
-                "extraContext": true,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "007ae2e00a28ca1d",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Discrete Structures - CECS228/6. Binary Relationships.md",
+                "file": "Discrete Structures - CECS228/8. Induction and Recursion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Discrete Structures - CECS228/6. Binary Relationships.md"
+                "file": "Discrete Structures - CECS228/8. Induction and Recursion.md"
               }
             }
           },
@@ -138,13 +130,31 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "7df8b472d11c1bc2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Discrete Structures - CECS228/8. Induction and Recursion.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,116 +168,54 @@
       "templater-obsidian:Templater": false
     }
   },
-  "floating": {
-    "id": "5f2d7bc67e8de3e2",
-    "type": "floating",
-    "children": [
-      {
-        "id": "da176a73af174abd",
-        "type": "window",
-        "children": [
-          {
-            "id": "2cebb313ccfe084d",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "54b4f4609cb637d9",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Discrete Structures - CECS228/Untitled.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "1237bb2ae84cdb55",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Discrete Structures - CECS228/Overview - Propositions.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "a78b56a59ae6eaf0",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Discrete Structures - CECS228/6. Binary Relationships.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ],
-            "currentTab": 2
-          }
-        ],
-        "direction": "vertical",
-        "x": 322,
-        "y": 20,
-        "width": 1030,
-        "height": 806,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "a78b56a59ae6eaf0",
+  "active": "bcbbcb2fd2e27ec5",
   "lastOpenFiles": [
-    "Discrete Structures - CECS228/attachments/digraph-predators-prey.svg",
-    "Discrete Structures - CECS228/attachments/relationship-matrix-pollinators.svg",
-    "Discrete Structures - CECS228/attachments/arrow-diagram-pollenators.svg",
-    "Discrete Structures - CECS228/Overview - Propositions.md",
+    "Discrete Structures - CECS228/PDFs/8. Induction and Recursion.pdf",
+    "Discrete Structures - CECS228/PDFs/6. Binary Relationships.pdf",
     "Discrete Structures - CECS228/6. Binary Relationships.md",
-    "Discrete Structures - CECS228/5. Boolean Algebra.md",
-    "Discrete Structures - CECS228/PDFs/5. Boolean Algebra.pdf",
-    "Discrete Structures - CECS228/attachments/2-bit-adding-circuit-optimized.svg",
-    "Discrete Structures - CECS228/attachments/2-bit-adding-circuit-optimized (2).svg",
-    "Discrete Structures - CECS228/attachments/2-bit adding circuit optimized.svg",
-    "Discrete Structures - CECS228/Homework/HW 2.md",
-    "Discrete Structures - CECS228/Homework/HW 1.md",
-    "Discrete Structures - CECS228/Proofs/Proofs - Direct.md",
-    "Discrete Structures - CECS228/Proofs/Proofs - Contrapositive.md",
-    "Discrete Structures - CECS228/Proofs/Proofs - By Contradiction.md",
-    "Discrete Structures - CECS228/Proofs/Proofs - By Cases.md",
-    "Discrete Structures - CECS228/Proofs/Proofs - Algebraic.md",
-    "Discrete Structures - CECS228/4. Functions.md",
-    "Discrete Structures - CECS228/3. Sets and Subsets.md",
-    "Discrete Structures - CECS228/2. Proofs.md",
-    "Discrete Structures - CECS228/1. Laws of propositional logic.md",
-    "Discrete Structures - CECS228/attachments/2-bit-adding-circuit-with-highlighted-section.svg",
-    "Discrete Structures - CECS228/attachments/2-bit-adding-circuit.svg",
-    "Discrete Structures - CECS228/attachments/gates.svg",
-    "Discrete Structures - CECS228/attachments/not-gate.svg",
-    "Discrete Structures - CECS228/attachments/or-gate.svg",
-    "Discrete Structures - CECS228/Laws.md",
-    "Private (do not peek)/Super Secret.md",
-    "Private (do not peek)/Banks.md",
-    "Discrete Structures - CECS228/Untitled.md",
-    "Programming/Conway's Game of Life/The Art of Code - Dylan Beattie.md",
-    "Software/Graphics/Inkscape - Draw Freely.md",
+    "Discrete Structures - CECS228/8. Induction and Recursion.md",
+    "Templater/Templates/LaTeX - Boxed.md",
     "Constructive Writing/System.md",
-    "Templater/Templates/Wrap Numbers With Sub.md",
-    "Templater/Templates/Center Hack.md",
-    "Templater/Templates/Wrap With Div Table.md",
-    "Chemistry/Core/Terms/Crystalline Solids.md",
-    "Chemistry/Organic Chemistry/Practice Exams",
-    "Chemistry/Inorganic Chemistry/Homework 2",
-    "Chemistry/Core/Figures/attachments",
-    "Chemistry/Core/Figures",
-    "Advice",
-    "Chemistry/assets",
-    "Chemistry/New folder",
-    "Chemistry/ChemDraw/Addition Reactions/CD_Temp.0",
-    "Chemistry/ChemDraw/Addition Reactions/But-2-ene + HCl.cdxml",
+    "Constructive Writing/Snippets.md",
+    "Chemistry/Inorganic Review.md",
+    "Chemistry/Inorganic Chemistry/Assignment Set 1/Assignment Set 1.md",
+    "Chemistry/Inorganic Chemistry/Final Study Guide.md",
+    "Chemistry/Inorganic Chemistry/attachments/d7-lowspin.png",
+    "Chemistry/Inorganic Chemistry/attachments/d7-highspin.png",
+    "Chemistry/Inorganic Chemistry/attachments/tetrahedral splitting - with electrons.png",
+    "Chemistry/Inorganic Chemistry/attachments/tetrahedral splitting - Copy.png",
+    "Chemistry/Inorganic Chemistry/attachments/VXd7i.png",
+    "Chemistry/Inorganic Chemistry/attachments/tetrahedral splitting.png",
+    "Chemistry/Inorganic Chemistry/attachments/sdZA2.jpg",
+    "Chemistry/Inorganic Chemistry/attachments/sdZA2.png",
+    "Chemistry/Inorganic Chemistry/attachments/sdZA2.jpeg.md",
+    "Chemistry/Inorganic Chemistry/attachments/Five-d-orbitals-in-a-cubic-crystal-field-which-split-into-two-e-g-orbitals-and.png",
+    "Chemistry/Inorganic Chemistry/attachments/clipboard_e3082d8adaae5b7b28873cc2fbb88a183.png",
+    "Chemistry/Inorganic Chemistry/Exam 2/Exam 2 - Study Guide.md",
+    "Chemistry/Inorganic Chemistry/Class notes/Chapter 5 Acids and Bases.md",
+    "Chemistry/Inorganic Chemistry/Assignment Set 2/Assignment Set 2.md",
+    "Chemistry/Inorganic Chemistry/Resources.md",
+    "Chemistry/Inorganic Chemistry/Symmetry and Group Points/Common Point Groups Table.md",
+    "Chemistry/Inorganic Chemistry/attachments",
+    "Chemistry/Electrons are not spinning.md",
+    "Chemistry/Core/Terms/Reducible Representations.md",
+    "Chemistry/Reference/Character Tables - LaTeX.md",
+    "Chemistry/Reference/Character Tables.md",
+    "Quotes.md",
+    "Chemistry/Reference/Character Sheets.md",
+    "Chemistry/Core/Terms/Amorphous Solids.md",
+    "Chemistry/Core/Terms/Irreducible Representations.md",
+    "Mathematics/Matrices/Matrix Multiplication.md",
+    "Mathematics/Matrices/Matrix Trace (Diagonal Sum).md",
+    "Mathematics/Matrices/Matrix Multiplication.pdf",
+    "Mathematics/Matrices",
+    "Mathematics/Permutations and Counting.md",
+    "Chemistry/Inorganic Chemistry/Symmetry and Group Points/attachments/Symmetry Analysis Decision Tree.pdf",
+    "Chemistry/Core/attachments",
+    "Chemistry/Core/New folder",
+    "Mathematics/attachments",
+    "Chemistry/Reference",
+    "Programming/Windows Subsystem",
     "Untitled.canvas"
   ]
 }

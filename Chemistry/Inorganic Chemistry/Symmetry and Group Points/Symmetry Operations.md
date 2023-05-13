@@ -1,5 +1,6 @@
 
 # List
+
 1. Identity, *E*
 2. Rotation, C<sub>n</sub>
 3. Reflection, σ

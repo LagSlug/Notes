@@ -115,4 +115,10 @@
 </div>
 
 
+### Consequences of Symmetry
 
+- Only molecules in the C<sub>n</sub>, C<sub>nv</sub>, and C<sub>s</sub> groups can have a permanent dipole moment.
+- A molecule must lack an axis of improper rotation S<sub>n</sub> to be chiral.
+- Symmetry operations can be used to predict which IR transitions are allowed.
+- Symmetry can predict and explain orbital overlap.
+  

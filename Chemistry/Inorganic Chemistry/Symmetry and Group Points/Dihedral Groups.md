@@ -1,6 +1,11 @@
+
 # Dihedral Groups
 #Dihedral-groups
  ^Dihedral-groups
+
+- The word "dihedral" comes from the Greek words "di-" meaning "two" and "hedra" meaning "seat" or "base."
+  
+- In geometry, a dihedral angle is the angle formed between two intersecting planes, and the word "dihedral" refers to the two faces (or bases) of the angle.
  
 - The dihedral groups have *n* two-fold axes perpendicular to the principal n-fold axis. 
 - These C2 axis are called dihedral axes. 

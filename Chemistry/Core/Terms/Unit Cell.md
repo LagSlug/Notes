@@ -1,5 +1,7 @@
 # Unit Cell
 
+### Introduction
+
 - A <u>unit cell</u> is the smallest repeating unit of a crystal lattice in a solid material.
 
 - It is defined by its lattice parameters, which describe the size and shape of the unit cell.
@@ -27,3 +29,26 @@
 - A <u>non-primitive unit cell</u> is a larger repeating unit that contains more than one lattice point.
 
 - In a non-primitive unit cell, the lattice points can be located at the corners, faces, or in the center of the unit cell.
+
+### Seven Types of Unit Cells
+
+1.  Simple Cubic Unit Cell (SC)
+	- 1 atom per unit cell
+     
+1.  Body-Centered Cubic Unit Cell (BCC)
+	- 2 per unit cell
+
+1.  Face-Centered Cubic Unit Cell (FCC)    
+	- 4 atoms per unit cell
+
+1.  Simple Tetragonal Unit Cell (ST)
+	- 1 atom per unit cell
+	  
+1.  Body-Centered Tetragonal Unit Cell (BCT)
+	- 2 atoms per unit cell
+
+1.  Base-Centered Orthorhombic Unit Cell (BCO)
+	- 4 atoms per unit cell
+      
+7.  Face-Centered Orthorhombic Unit Cell (FCO)
+	- 8 atoms per unit cell
