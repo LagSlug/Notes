@@ -59,7 +59,7 @@ ffmpeg -f lavfi \
 - Select the source material, `one-second-black.mov`.
 - Click `Bink It!` to open encoding options.
 
-![Test](../attachments/RAD%20Video%20Tools%20-%20Select%20Clip.png)
+![Test](Gaming/attachments/RAD%20Video%20Tools%20-%20Select%20Clip.png)
 
 ![[Gaming/attachments/RAD Video Tools - Select Clip.png]]
 
