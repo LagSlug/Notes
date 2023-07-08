@@ -1,3 +1,4 @@
+
 ### Definition
 
 - The trace of a matrix is the sum of elements diagonally, from top-left to bottom-right.

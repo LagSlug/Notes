@@ -4,22 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "af1fe575cf38e4e9",
+        "id": "608cefb6ecff357c",
         "type": "tabs",
         "children": [
           {
-            "id": "001d50c392b27776",
+            "id": "f04795c69d95788c",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Discrete Structures - CECS228/8. Induction and Recursion.md",
+                "file": "Gaming/Skip Intro Credits.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              },
-              "pinned": true
+              }
             }
           }
         ]
@@ -80,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.5
+    "width": 285.5
   },
   "right": {
     "id": "0c28b1b800fb7e5b",
@@ -96,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Discrete Structures - CECS228/8. Induction and Recursion.md",
+                "file": "Gaming/Skip Intro Credits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Discrete Structures - CECS228/8. Induction and Recursion.md"
+                "file": "Gaming/Skip Intro Credits.md"
               }
             }
           },
@@ -137,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Discrete Structures - CECS228/8. Induction and Recursion.md",
+                "file": "Gaming/Skip Intro Credits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,54 +166,54 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bcbbcb2fd2e27ec5",
+  "active": "f04795c69d95788c",
   "lastOpenFiles": [
-    "Discrete Structures - CECS228/PDFs/8. Induction and Recursion.pdf",
-    "Discrete Structures - CECS228/PDFs/6. Binary Relationships.pdf",
-    "Discrete Structures - CECS228/6. Binary Relationships.md",
-    "Discrete Structures - CECS228/8. Induction and Recursion.md",
-    "Templater/Templates/LaTeX - Boxed.md",
+    "Gaming/attachments/RAD Video Tools - BIK Encoded Successfully.png",
+    "Gaming/attachments/RAD Video Tools - Encode BIK Format.png",
+    "Gaming/attachments/RAD Video Tools - Encode Bink File.png",
+    "Gaming/attachments/RAD Video Tools - Select Clip.png",
+    "Gaming/attachments/RAD Video Tools - Home Page.png",
+    "Gaming/Skip Intro Credits.md",
+    "Gaming/attachments",
+    "Gaming",
+    "Food/Recipes/Banana Bread.md",
+    "Constructive Writing/Guides.md",
+    "Vehicles/Models.md",
     "Constructive Writing/System.md",
-    "Constructive Writing/Snippets.md",
-    "Chemistry/Inorganic Review.md",
-    "Chemistry/Inorganic Chemistry/Assignment Set 1/Assignment Set 1.md",
-    "Chemistry/Inorganic Chemistry/Final Study Guide.md",
-    "Chemistry/Inorganic Chemistry/attachments/d7-lowspin.png",
-    "Chemistry/Inorganic Chemistry/attachments/d7-highspin.png",
-    "Chemistry/Inorganic Chemistry/attachments/tetrahedral splitting - with electrons.png",
-    "Chemistry/Inorganic Chemistry/attachments/tetrahedral splitting - Copy.png",
-    "Chemistry/Inorganic Chemistry/attachments/VXd7i.png",
-    "Chemistry/Inorganic Chemistry/attachments/tetrahedral splitting.png",
-    "Chemistry/Inorganic Chemistry/attachments/sdZA2.jpg",
-    "Chemistry/Inorganic Chemistry/attachments/sdZA2.png",
-    "Chemistry/Inorganic Chemistry/attachments/sdZA2.jpeg.md",
-    "Chemistry/Inorganic Chemistry/attachments/Five-d-orbitals-in-a-cubic-crystal-field-which-split-into-two-e-g-orbitals-and.png",
-    "Chemistry/Inorganic Chemistry/attachments/clipboard_e3082d8adaae5b7b28873cc2fbb88a183.png",
-    "Chemistry/Inorganic Chemistry/Exam 2/Exam 2 - Study Guide.md",
-    "Chemistry/Inorganic Chemistry/Class notes/Chapter 5 Acids and Bases.md",
-    "Chemistry/Inorganic Chemistry/Assignment Set 2/Assignment Set 2.md",
-    "Chemistry/Inorganic Chemistry/Resources.md",
-    "Chemistry/Inorganic Chemistry/Symmetry and Group Points/Common Point Groups Table.md",
-    "Chemistry/Inorganic Chemistry/attachments",
-    "Chemistry/Electrons are not spinning.md",
-    "Chemistry/Core/Terms/Reducible Representations.md",
-    "Chemistry/Reference/Character Tables - LaTeX.md",
-    "Chemistry/Reference/Character Tables.md",
+    "Constructive Writing/Formatting.md",
+    "Vehicles",
+    "Programming/Electron/Electron Guide.md",
+    "Programming/Building/Makefile.md",
+    "Signals Processing/Pulse-Code Modulation (PCM).md",
+    "Programming/Building",
+    "Signals Processing",
+    "Dreams/Recurring.md",
+    "Dreams",
+    "Media/Scripts/Portal (I).md",
+    "Media/Scripts",
+    "Fitness/Eating Guide.md",
+    "Fitness",
+    "Programming/Electron",
+    "Programming/Reference Guides/JavaScript (Reference Guide)/3. Classes.md",
+    "Programming/Reference Guides/JavaScript (Reference Guide)/attachments/moo-cow-small.svg",
+    "Programming/Reference Guides/JavaScript (Reference Guide)/attachments/moo-cow.svg",
+    "Programming/Reference Guides/JavaScript (Reference Guide)/attachments/moo-cow-very-small.svg",
+    "Programming/Reference Guides/JavaScript (Reference Guide)/attachments",
+    "Programming/Web Extensions/Manifest V3/Guide.md",
+    "Programming/Web Extensions/Manifest V3/manifest.json.md",
+    "Programming/Web Extensions/Manifest V3/Content Scripts.md",
     "Quotes.md",
-    "Chemistry/Reference/Character Sheets.md",
-    "Chemistry/Core/Terms/Amorphous Solids.md",
-    "Chemistry/Core/Terms/Irreducible Representations.md",
-    "Mathematics/Matrices/Matrix Multiplication.md",
-    "Mathematics/Matrices/Matrix Trace (Diagonal Sum).md",
-    "Mathematics/Matrices/Matrix Multiplication.pdf",
-    "Mathematics/Matrices",
-    "Mathematics/Permutations and Counting.md",
-    "Chemistry/Inorganic Chemistry/Symmetry and Group Points/attachments/Symmetry Analysis Decision Tree.pdf",
-    "Chemistry/Core/attachments",
-    "Chemistry/Core/New folder",
-    "Mathematics/attachments",
-    "Chemistry/Reference",
-    "Programming/Windows Subsystem",
+    "Banking/United States of America/Federal Reserve System.md",
+    "Mathematics/Multivariable-Calculus/Vectors.md",
+    "Software/Mathematics/GeoGebra - Math Apps.md",
+    "Programming/Audio/Allpass Filters.md",
+    "Mathematics/Multivariable-Calculus/Scalars.md",
+    "Programming/Reference Guides/JavaScript (Reference Guide)/AudioContext.md",
+    "Mathematics/Multivariable-Calculus/Matrices/Matrix Trace (Diagonal Sum).md",
+    "Mathematics/Multivariable-Calculus/Matrices/Matrix Multiplication.md",
+    "Mathematics/attachments/graph - absolute value function.svg",
+    "Software/Windows/annoyances/attachments/Zone.Identifier Files.png",
+    "Chemistry/Inorganic Chemistry/attachments/d7-lowspin.png",
     "Untitled.canvas"
   ]
 }
