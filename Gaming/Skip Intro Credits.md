@@ -61,14 +61,12 @@ ffmpeg -f lavfi \
 
 ![Test](attachments/RAD%20Video%20Tools%20-%20Select%20Clip.png)
 
-![[Gaming/attachments/RAD Video Tools - Select Clip.png]]
-
 - `Output file info` gives the name of the output file.
 - `Browse` will show in which directory the output file will be saved.
 - `Bink` begins the encoding process, click it if everything looks fine.
 - `Bink 1` is the `.bik` file format, which is the only format available without a license.
   
-![[Gaming/attachments/RAD Video Tools - Encode BIK Format.png]]
+![[attachments/RAD Video Tools - Encode BIK Format.png]]
 
 - Success will look like this:
   
