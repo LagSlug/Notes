@@ -1,8 +1,8 @@
 Exam 2 - Study Guide
 
 ## Unit Cell
-![[Chemistry/Inorganic Chemistry/Assignment Set 2/attachments/Unit Cell.svg]]
-![[Chemistry/Inorganic Chemistry/Exam 2/attachments/simple-unit-cells.png]]
+![](Chemistry/Inorganic%20Chemistry/Assignment%20Set%202/attachments/Unit%20Cell.svg)
+![](Chemistry/Inorganic%20Chemistry/Exam%202/attachments/simple-unit-cells.png)
 1. SC - Simple Cubic
 	- 1 atom per unit cell
 1. BCC - Body-Centered Cubic
@@ -25,7 +25,7 @@ Exam 2 - Study Guide
 - If the question askes "if the third axis is perpendicular, what crystal system is drawn?", then the answer must be: cubic, tetragonal, orthorhombic, or hexagonal.
 - Otherwise, the answer must be rhombohedral, monoclinic, or triclinic.
 
-![[Chemistry/Inorganic Chemistry/Symmetry and Group Points/attachments/crystal systems.svg]]
+![](Chemistry/Inorganic%20Chemistry/Symmetry%20and%20Group%20Points/attachments/crystal%20systems.svg)
 
 
 <div style="page-break-after:always;"></div>
@@ -39,7 +39,7 @@ Exam 2 - Study Guide
 - The radius of a BCC is found by using the body-diagonal of the cube.
 - The radius of the CCP is found by using the face-diagonal of the cube.
 
-![[Chemistry/Inorganic Chemistry/Exam 2/attachments/simple-unit-cells-with-diagonals.png]]
+![](Chemistry/Inorganic%20Chemistry/Exam%202/attachments/simple-unit-cells-with-diagonals.png)
 
 <u>Example</u>
 
@@ -111,7 +111,7 @@ $$
 
 ## Point Groups
 
-![[Chemistry/Inorganic Chemistry/Symmetry and Group Points/attachments/Symmetry Analysis Decision Tree.svg|Symmetry Analysis Decision Tree SVG]]
+![](Chemistry/Inorganic%20Chemistry/Symmetry%20and%20Group%20Points/attachments/Symmetry%20Analysis%20Decision%20Tree.svg)
 
 <div style="page-break-after:always;"></div>
 
@@ -155,7 +155,7 @@ $$
 
 #### BH<sub>3</sub>
 
-![[Chemistry/Inorganic Chemistry/Exam 2/attachments/MO Diagram BH3.png]]
+![](Chemistry/Inorganic%20Chemistry/Exam%202/attachments/MO%20Diagram%20BH3.png)
 
 BH<sub>3</sub> is an acid because it's LUMO is an unfilled bonding orbital with 1a''<sub>2</sub> symmetry.
 
@@ -163,6 +163,6 @@ BH<sub>3</sub> is an acid because it's LUMO is an unfilled bonding orbital with 
 
 #### NH<sub>3</sub>
 
-![[Chemistry/Inorganic Chemistry/Exam 2/attachments/MO Diagram NH3.png]]
+![](Chemistry/Inorganic%20Chemistry/Exam%202/attachments/MO%20Diagram%20NH3.png)
 
 NH<sub>3</sub> is a base because its HOMO is a filled bonding orbital with 2a<sub>1</sub> symmetry, so it's more willing to donate electrons than it is to accept them.

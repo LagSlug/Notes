@@ -11,7 +11,7 @@
 		<div style="display: table-cell;">
 			<!-- first column-->
 			<img src="./Piet_Hello_World.gif" /><br />
-			![[Programming/Esoteric Languages/Piet/Piet_Hello_World.gif]]
+			![](Programming/Esoteric%20Languages/Piet/Piet_Hello_World.gif)
 		</div>
 		<div style="display: table-cell;">
 			<!-- second column-->
@@ -21,4 +21,4 @@
 
 ![[Programming/Esoteric Languages/Piet/Piet_Hello_World.gif]]
 
-![[Programming/Esoteric Languages/Piet/Piet_Hello_World_Visualization.gif]]
+![](Programming/Esoteric%20Languages/Piet/Piet_Hello_World_Visualization.gif)

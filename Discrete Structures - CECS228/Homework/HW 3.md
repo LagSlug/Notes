@@ -24,7 +24,7 @@ Draw an arrow diagram for each of the following functions. Give the range of the
 f: {0, 1}<sup>2</sup> → {0, 1}<sup>3</sup>. 
 For each x ∈ {0, 1}<sup>2</sup>, f(x) = x0.
 
-![[Discrete Structures - CECS228/Homework/attachments/HW 3 - 4.1.2 - b - arrow diagram.svg]]
+![](Discrete%20Structures%20-%20CECS228/Homework/attachments/HW%203%20-%204.1.2%20-%20b%20-%20arrow%20diagram.svg)
 $S = \{ 000, 010, 100, 110 \}$, where $S$ is the range of $f$.
 
 #### 4.1.4 - Function of an ordered pair
@@ -54,7 +54,7 @@ Draw an arrow diagram for the function $f$.
 | (1, 0) |           (0, 1)          |
 | (1, 1) |           (0, 0)          |
 
-![[Discrete Structures - CECS228/Homework/attachments/HW 3 - 4.1.4 - b - arrow diagram.svg]]
+![](Discrete%20Structures%20-%20CECS228/Homework/attachments/HW%203%20-%204.1.4%20-%20b%20-%20arrow%20diagram.svg)
 
 
 ##### (c) 
@@ -581,7 +581,7 @@ Define the relation:
 | p |      1      |   0  |   1   |     0    |
 | c |      0      |   0  |   0   |     1    |
 
-![[Discrete Structures - CECS228/Homework/attachments/HW3 - 6.1.3 - arrow-diagram-letters-to-words.svg]]
+![](Discrete%20Structures%20-%20CECS228/Homework/attachments/HW3%20-%206.1.3%20-%20arrow-diagram-letters-to-words.svg)
 
 #### 6.1.4 - Arrow diagrams for relations on small finite sets
 Draw the arrow diagram for each relation.
@@ -602,7 +602,7 @@ Draw the arrow diagram for each relation.
 | 110 |  0  |  0  |  1  |  0  |  1  |  0  |  0  |  1  |
 | 111 |  0  |  0  |  0  |  1  |  0  |  1  |  1  |  0  |
 
-![[Discrete Structures - CECS228/Homework/attachments/HW3 - 6.1.4 - arrow-diagram-binary-1-bit-difference.svg]]
+![](Discrete%20Structures%20-%20CECS228/Homework/attachments/HW3%20-%206.1.4%20-%20arrow-diagram-binary-1-bit-difference.svg)
 
 ##### (e) 
 The domain for the relation $P$ is the set $\{2, 4, 8, 10, 16, 64\}$. 
@@ -617,7 +617,7 @@ For x, y in the domain, $xPy$ if there is a positive integer $n$ such that $x^n 
 | 16 | 0 | 0 | 0 |  0 |  1 |  0 |
 | 64 | 0 | 0 | 0 |  0 |  0 |  1 |
 
-![[Discrete Structures - CECS228/Homework/attachments/HW3 - 6.1.4 - arrow-diagram-powers-svg.svg]]
+![](Discrete%20Structures%20-%20CECS228/Homework/attachments/HW3%20-%206.1.4%20-%20arrow-diagram-powers-svg.svg)
 
 #### 6.2.1 - Identifying properties of relations
 For each relation, indicate whether the relation is:
@@ -716,7 +716,7 @@ For each relation, indicate if the relation is:
 
 #### 6.3.2 - Directed graph definitions
 The diagram below shoes a directed graph.
-![[Discrete Structures - CECS228/Homework/attachments/HW 3 - directed graph.png]]
+![](Discrete%20Structures%20-%20CECS228/Homework/attachments/HW%203%20-%20directed%20graph.png)
 
 ##### (a) Is $\langle d, b, c, g, c, f, e, c, d \rangle$ a circuit in the graph? Is it a cycle?
 
@@ -797,7 +797,7 @@ R<sub>3</sub>?
 Below is the arrow diagram for relation $S$ with the domain $\{a, b, c, d\}$. 
 Define relation $T$ to be $S \circ S$.
 
-![[Discrete Structures - CECS228/Homework/attachments/HW 3 - 6.4.4.png]]
+![](Discrete%20Structures%20-%20CECS228/Homework/attachments/HW%203%20-%206.4.4.png)
 
 (a) Express relation $T$ as a set of related pairs.
 
@@ -805,19 +805,19 @@ $T = \{ (a, c), (b, d), (c, a), (d, b) \}$
 
 (b) Draw the arrow diagram for $S \circ T$.
 
-![[Discrete Structures - CECS228/Homework/attachments/HW3 - 6.4.4 - digraph composition.svg]]
+![](Discrete%20Structures%20-%20CECS228/Homework/attachments/HW3%20-%206.4.4%20-%20digraph%20composition.svg)
 
 
 #### 6.5.2 - Drawing graph powers
 
 This is a graph of $G$
 
-![[Discrete Structures - CECS228/Homework/attachments/HW 3 - 6.5.2.png]]
+![](Discrete%20Structures%20-%20CECS228/Homework/attachments/HW%203%20-%206.5.2.png)
 
 ##### a) Draw G<sup>2</sup>, G<sup>3</sup>, and G<sup>4</sup>
 Then take the union of all of the graphs (including G) to get G<sup>+</sup>
 
-![[Discrete Structures - CECS228/Homework/attachments/HW3 - 6.5.2 - graph of G+.svg]]
+![](Discrete%20Structures%20-%20CECS228/Homework/attachments/HW3%20-%206.5.2%20-%20graph%20of%20G+.svg)
 
 #### 6.9.4 - Equivalence relations on strings
 $D =\{0, 1\}^{6}$

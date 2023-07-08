@@ -30,14 +30,14 @@ $$
 	5. There is a horizontal plane of symmetry ($σ_h$), which takes precedence. ( $σ_h > σ_d > σ_v$ ).
 	6. Conclusion: $D_{∞h}$
 
-![[Chemistry/Core/attachments/CO2 with labeled point groups.svg]]
+![](Chemistry/Core/attachments/CO2%20with%20labeled%20point%20groups.svg)
 
 - Substitute $D_{∞h}$ with $D_{2h}$
   ($C_{∞h}$ would be substituted with $C_{2h}$)
 
 - Assign x, y , and z axes to molecule - aligning the pricipal axis with the z-axis
 
-![[Chemistry/Core/attachments/CO2 with labeled axes.svg]]
+![](Chemistry/Core/attachments/CO2%20with%20labeled%20axes.svg)
 
 - Find the character table for $D_{2h}$
 $$

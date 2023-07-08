@@ -9,5 +9,5 @@
   
 - Enable "Do not preserve zone information in file attachments"
 
-![[Software/Windows/annoyances/attachments/Zone.Identifier Files.png]]
+![](Software/Windows/annoyances/attachments/Zone.Identifier%20Files.png)
 

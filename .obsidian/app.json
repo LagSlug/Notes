@@ -1,7 +1,7 @@
 {
-  "alwaysUpdateLinks": true,
+  "alwaysUpdateLinks": false,
   "newFileLocation": "current",
-  "newLinkFormat": "absolute",
+  "newLinkFormat": "relative",
   "promptDelete": false,
   "pdfExportSettings": {
     "includeName": true,

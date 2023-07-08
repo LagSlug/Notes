@@ -7,14 +7,14 @@
 
 - Electrons repel other negatively charged particles, such as other non-bonded or bonded electrons.
 - In a molecule, the repulsion between electrons can affect the molecule's shape and stability.
-- This is the basis for [[Chemistry/VSEPR Theory/VSEPR Theory | Valence Shell Electron Pair Repulsion theory]].
+- This is the basis for [Valence Shell Electron Pair Repulsion theory](Chemistry/VSEPR%20Theory/VSEPR%20Theory.md).
 
 ###### Attractive Forces
   
 - <u>Electronegativity</u> is a measure of an atom's attraction for electrons.
 - <u>Electropositivity</u> is the opposite of electronegativity, and characterizes an atom's tendency to donate valence electrons.
 
-![[Chemistry/VSEPR Theory/Periodic Table - Electronegativity]]
+![](Chemistry/VSEPR%20Theory/Periodic%20Table%20-%20Electronegativity)
 
 -  Electronegativity increases from left to right across a period
 -  Electronegativity decreases from top to bottom down a group

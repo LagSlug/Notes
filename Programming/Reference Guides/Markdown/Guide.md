@@ -1,32 +1,32 @@
 # Table of Contents
 
-1. [[#Introduction|Introduction]]
-2. [[#Getting Started|Getting Started]]
-3. [[#Basic Syntax|Basic Syntax]]
-    1. [[#Headers|Headers]]
-    2. [[#Emphasis|Emphasis]]
-    3. [[#Blockquotes|Blockquotes]]
-    4. [[#Lists|Lists]]
-        1. [[#Ordered Lists|Ordered Lists]]
-        2. [[#Unordered Lists|Unordered Lists]]
-    5. [[#Code|Code]]
-        1. [[#Inline Code|Inline Code]]
-        2. [[#Code Blocks|Code Blocks]]
-    6. [[#Horizontal Rules|Horizontal Rules]]
-4. [[#Links and Images|Links and Images]]
-    1. [[#Links|Links]]
-    2. [[#Images|Images]]
-5. [[#Tables|Tables]]
-6. [[#Task Lists|Task Lists]]
-7. [[#Footnotes|Footnotes]]
-8. [[#Abbreviations|Abbreviations]]
-9. [[#Definition Lists|Definition Lists]]
-10. [[#Emoji|Emoji]]
-11. [[#Custom Containers|Custom Containers]]
-12. [[#Advanced Formatting|Advanced Formatting]]
-    1. [[#Strikethrough|Strikethrough]]
-    2. [[#Automatic URL Linking|Automatic URL Linking]]
-    3. [[#Backslash Escapes|Backslash Escapes]]
-    4. [[#Fenced Code Blocks|Fenced Code Blocks]]
-13. [[#Conclusion|Conclusion]]
-14. [[#Resources|Resources]]
+1. [Introduction](#Introduction)
+2. [Getting Started](#Getting%20Started)
+3. [Basic Syntax](#Basic%20Syntax)
+    1. [Headers](#Headers)
+    2. [Emphasis](#Emphasis)
+    3. [Blockquotes](#Blockquotes)
+    4. [Lists](#Lists)
+        1. [Ordered Lists](#Ordered%20Lists)
+        2. [Unordered Lists](#Unordered%20Lists)
+    5. [Code](#Code)
+        1. [Inline Code](#Inline%20Code)
+        2. [Code Blocks](#Code%20Blocks)
+    6. [Horizontal Rules](#Horizontal%20Rules)
+4. [Links and Images](#Links%20and%20Images)
+    1. [Links](#Links)
+    2. [Images](#Images)
+5. [Tables](#Tables)
+6. [Task Lists](#Task%20Lists)
+7. [Footnotes](#Footnotes)
+8. [Abbreviations](#Abbreviations)
+9. [Definition Lists](#Definition%20Lists)
+10. [Emoji](#Emoji)
+11. [Custom Containers](#Custom%20Containers)
+12. [Advanced Formatting](#Advanced%20Formatting)
+    1. [Strikethrough](#Strikethrough)
+    2. [Automatic URL Linking](#Automatic%20URL%20Linking)
+    3. [Backslash Escapes](#Backslash%20Escapes)
+    4. [Fenced Code Blocks](#Fenced%20Code%20Blocks)
+13. [Conclusion](#Conclusion)
+14. [Resources](#Resources)

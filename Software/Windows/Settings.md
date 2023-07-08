@@ -7,10 +7,10 @@
 4.  Under "Touchpad," clear the **Leave touchpad on when a mouse is connected** option.
 
 Windows 10:
-![[Software/images/turn-off-touchpad.jpg]]
+![](Software/images/turn-off-touchpad.jpg)
 
 Windows 11:
-![[Software/images/turn-off-touchpad-win11.png]]
+![](Software/images/turn-off-touchpad-win11.png)
 
 ## Taskbar
 

@@ -5,7 +5,7 @@
 #### PCl<sub>3</sub>
 Phosphorus trichloride
 <u>Lewis structure</u>
-![[Chemistry/Lewis Structures/attachments/PCl3.svg]]
+![](Chemistry/Lewis%20Structures/attachments/PCl3.svg)
 
 <u>VSEPR Geometry</u>
 Trigonal pyramidal
@@ -22,7 +22,7 @@ C<sub>3v</sub>
 Phosphorus pentachloride
 
 <u>Lewis structure</u>
-![[Chemistry/Lewis Structures/attachments/PCl5.svg]]
+![](Chemistry/Lewis%20Structures/attachments/PCl5.svg)
 
 <u>VSEPR Geometry</u>
 Trigonal Bipyramidal
@@ -36,7 +36,7 @@ Hexafluorophosphate ion
 
 <u>Lewis structure</u>
 
-![[Chemistry/Lewis Structures/attachments/PCl6-anion.svg]]
+![](Chemistry/Lewis%20Structures/attachments/PCl6-anion.svg)
 
 <u>VSEPR Geometry</u>
 Octahedral
@@ -49,7 +49,7 @@ Phosphorus tetrachloryl ion
 
 <u>Lewis structure</u>
 
-![[Chemistry/Lewis Structures/attachments/PCl4-cation.svg]]
+![](Chemistry/Lewis%20Structures/attachments/PCl4-cation.svg)
 
 <u>VSEPR Geometry</u>
 Tetrahedral
@@ -60,7 +60,7 @@ T<sub>d</sub>
 #### PCl<sub>4</sub><sup>-</sup>
 
 <u>Lewis structure</u>
-![[Chemistry/Lewis Structures/attachments/PCl4-anion.svg]]
+![](Chemistry/Lewis%20Structures/attachments/PCl4-anion.svg)
 
 <u>VSEPR Geometry</u>
 Seesaw
@@ -72,48 +72,48 @@ C<sub>2v</sub>
 ### 2) ~~Employing MO diagram, predict which one of the following free-radical gas-phase reactions is more favored. Provide sufficient justification.~~
 ### 3) Determine the point groups of the following objects.
 #### a) An Erlenmeyer flask (no label)
- ![[Chemistry/Inorganic Chemistry/Assignment Set 1/attachments/erlenmeyer-flask.svg]]
+ ![](Chemistry/Inorganic%20Chemistry/Assignment%20Set%201/attachments/erlenmeyer-flask.svg)
 Point Group: C<sub>∞v</sub>
  
 #### b) The number 96
-![[Chemistry/Inorganic Chemistry/Assignment Set 1/attachments/96.svg]]
+![](Chemistry/Inorganic%20Chemistry/Assignment%20Set%201/attachments/96.svg)
 Point Group: C<sub>2h</sub>
 
 #### c) The number 8
-![[Chemistry/Inorganic Chemistry/Assignment Set 1/attachments/8.svg]]
+![](Chemistry/Inorganic%20Chemistry/Assignment%20Set%201/attachments/8.svg)
 Point Group: D<sub>2h</sub>
 
 #### d) A fork, no decoration 
-![[Chemistry/Inorganic Chemistry/Assignment Set 1/attachments/fork.svg]]
+![](Chemistry/Inorganic%20Chemistry/Assignment%20Set%201/attachments/fork.svg)
 Point Group: C<sub>s</sub>
 
 #### e) The word Y
-![[Chemistry/Inorganic Chemistry/Assignment Set 1/attachments/Y.svg]]
+![](Chemistry/Inorganic%20Chemistry/Assignment%20Set%201/attachments/Y.svg)
 Point Group: C<sub>2v</sub>
 
 #### f) The word H 
-![[Chemistry/Inorganic Chemistry/Assignment Set 1/attachments/H.svg]]
+![](Chemistry/Inorganic%20Chemistry/Assignment%20Set%201/attachments/H.svg)
 Point Group: D<sub>2h</sub>
 
 #### g) A pen (with no writing)
-![[Chemistry/Inorganic Chemistry/Assignment Set 1/attachments/pen.svg]]
+![](Chemistry/Inorganic%20Chemistry/Assignment%20Set%201/attachments/pen.svg)
 Point Group: C<sub>∞v</sub>
 
 #### h) A pen with its cap on (with no writing)
-![[Chemistry/Inorganic Chemistry/Assignment Set 1/attachments/pen-with-cap.svg]]
+![](Chemistry/Inorganic%20Chemistry/Assignment%20Set%201/attachments/pen-with-cap.svg)
 Point Group: C<sub>s</sub>
 
 ### 4) MO Diagrams for BH<sub>3</sub> and NH<sub>3</sub>
 
 Using the provided LGOs and the proper character table from your textbook.
 
-![[Chemistry/Inorganic Chemistry/Assignment Set 1/attachments/Assignment Set 1.png]]
+![](Chemistry/Inorganic%20Chemistry/Assignment%20Set%201/attachments/Assignment%20Set%201.png)
 
 #### a) Construct the molecular orbital diagram for BH<sub>3</sub>.
 1. Draw Lewis Dot Structure
-![[Chemistry/Inorganic Chemistry/Assignment Set 1/attachments/BH3.svg]]
+![](Chemistry/Inorganic%20Chemistry/Assignment%20Set%201/attachments/BH3.svg)
 2. Build diagram of the ground state electron configuration for boron
-![[Chemistry/Inorganic Chemistry/Assignment Set 1/attachments/Boron Electron Configuration.svg]]
+![](Chemistry/Inorganic%20Chemistry/Assignment%20Set%201/attachments/Boron%20Electron%20Configuration.svg)
 3. Decide hybridization
    - There are 3 bonded atoms, and no lone pairs of electrons, therefore a total of 3 hybridized orbitals will be required.
    - Boron in BH<sub>3</sub> is sp<sup>2</sup> hybridized
@@ -130,7 +130,7 @@ Using the provided LGOs and the proper character table from your textbook.
    
 6. Draw diagram
 
-![[Chemistry/Inorganic Chemistry/Assignment Set 1/attachments/MO Diagram BH3.svg]]
+![](Chemistry/Inorganic%20Chemistry/Assignment%20Set%201/attachments/MO%20Diagram%20BH3.svg)
 
 
 

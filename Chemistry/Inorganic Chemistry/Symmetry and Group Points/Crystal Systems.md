@@ -14,4 +14,4 @@
 ^7dc6cc
 
 
-![[Chemistry/Inorganic Chemistry/Symmetry and Group Points/attachments/crystal systems.svg]] ^bc3f7f
+![](Chemistry/Inorganic%20Chemistry/Symmetry%20and%20Group%20Points/attachments/crystal%20systems.svg) ^bc3f7f

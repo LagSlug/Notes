@@ -3,4 +3,4 @@
 ## Symmetry
 ^Symmetry
 
-![[Architecture/Ancient/Greek/attachments/symmetry-in-ancient-greek-architecture.jpg]]
+![](Architecture/Ancient/Greek/attachments/symmetry-in-ancient-greek-architecture.jpg)

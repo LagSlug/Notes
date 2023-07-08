@@ -17,7 +17,7 @@ Assignment Set 2
 
 3) Determine the unit cell in the following patterns:
 
-![[Chemistry/Inorganic Chemistry/Assignment Set 2/attachments/Assignment Set 2 - q3.png]]
+![](Chemistry/Inorganic%20Chemistry/Assignment%20Set%202/attachments/Assignment%20Set%202%20-%20q3.png)
 
 - If the third axis is perpendicular to the ones you just drew, what crystal system do you have for each picture?
 

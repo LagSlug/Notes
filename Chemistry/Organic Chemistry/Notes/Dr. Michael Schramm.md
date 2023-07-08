@@ -2,7 +2,7 @@
 - Ionic bonds -electrostatic interactions, i.e. the attraction of charges. They are very strong due to the coulomb force (or electrostatic force) between two electrically charged particles.
 - Covalent bonds - shared electrons.
 - Lewis dot structure
-![[Chemistry/Organic Chemistry/images/lewis-dot-structure-CCl4.png]]
+![](Chemistry/Organic%20Chemistry/images/lewis-dot-structure-CCl4.png)
 
 - Nobel gas configuration: 8e<sup>-</sup>
 - Ionic bonds = Row I & II (except for H)
@@ -13,10 +13,10 @@
 - Valence shells are where the reactive e<sup>-</sup> comes from.
 
 - Lewis structure for an ionic compound: CaCl<sub>2</sub>
-![[Chemistry/Organic Chemistry/images/main-qimg-13cf8564979f7edb67d7c385d08ffac3 1.webp]]
+![](Chemistry/Organic%20Chemistry/images/main-qimg-13cf8564979f7edb67d7c385d08ffac3%201.webp)
 
 - Covalent bonding - NOCl
-![[Chemistry/Organic Chemistry/images/th.jpg]]
+![](Chemistry/Organic%20Chemistry/images/th.jpg)
 
 
 
@@ -34,23 +34,23 @@
 
 ##### Ammonia NH<sub>3</sub> is trigonal pyramidal in terms of bonded elements
 
-![[Chemistry/Organic Chemistry/images/orbital-overlap-NH3.jpg]]
+![](Chemistry/Organic%20Chemistry/images/orbital-overlap-NH3.jpg)
 
 ##### Energy diagram for H<sub>2</sub>
 
-![[Chemistry/Organic Chemistry/images/draw-the-molecular-orbital-diagram-of-h2o.png]]
+![](Chemistry/Organic%20Chemistry/images/draw-the-molecular-orbital-diagram-of-h2o.png)
 
 ##### Energy diagram of NO
 
-![[Chemistry/Organic Chemistry/images/molecular-orbital-NO.png]]
+![](Chemistry/Organic%20Chemistry/images/molecular-orbital-NO.png)
 
 ##### C<sub>2</sub>H<sub>4</sub> - sp<sup>2</sup> hybridization and π bond (double bond)
 
-![[Chemistry/Organic Chemistry/images/orbitals-C2H4.jpg]]
+![](Chemistry/Organic%20Chemistry/images/orbitals-C2H4.jpg)
 
 ##### C<sub>2</sub>H<sub>2</sub> - sp hybridization and π + π bond (triple bond)
 
-![[Chemistry/Organic Chemistry/images/orbitals - C2H2.png]]
+![](Chemistry/Organic%20Chemistry/images/orbitals%20-%20C2H2.png)
 
 ##### Shapes
 
@@ -96,9 +96,9 @@
 - a constitutional isomer has the same atoms but a different structure
 
 Butane
-![[Chemistry/Organic Chemistry/images/butane.png]]
+![](Chemistry/Organic%20Chemistry/images/butane.png)
 Isobutane
-![[Chemistry/Organic Chemistry/images/isobutane.png]]
+![](Chemistry/Organic%20Chemistry/images/isobutane.png)
 
 
 
@@ -116,7 +116,7 @@ Isobutane
 
 
 ##### Internuclear force
-![[Chemistry/Organic Chemistry/images/CNX_Chem_08_01_Morse.jpg]]
+![](Chemistry/Organic%20Chemistry/images/CNX_Chem_08_01_Morse.jpg)
 
 - The "bond" is a point where we are maximizing attraction and minimizing repulsion
 - Bond Dissociation Energy (B.D.E.) - the amount of energy released when a bond forms, or needed to break that bond.
@@ -125,11 +125,11 @@ Isobutane
 
 - combining two atomic orbitals will produce two molecular orbitals
 - 1s and another 1s combine to form σ<sub>1s</sub> and σ<sup>*</sup><sub>1s</sub> (bonding and antibonding) molecular orbitals
-![[Chemistry/Organic Chemistry/images/energy diagram - H2 anion.png]]
+![](Chemistry/Organic%20Chemistry/images/energy%20diagram%20-%20H2%20anion.png)
 
 #### Hybridization
 - Methane has a tetrahedral shape because of the sp<sup>3</sup> orbital, which has a bond angle of 109.5°
-![[Chemistry/Organic Chemistry/images/methane.png]]
+![](Chemistry/Organic%20Chemistry/images/methane.png)
 
 - Carbon can hybridize its orbitals by combining/mixing its 4 orbitals into 4 indentical orbitals:
 	2s + 2p<sub>x</sub> + 2p<sub>y</sub> + 2p<sub>z</sub> → sp<sup>3</sup> x 4
@@ -141,35 +141,35 @@ Isobutane
 #### Common Naming
 
 ##### Methyl Group
-![[Chemistry/Organic Chemistry/images/methyl group.jpg]]
+![](Chemistry/Organic%20Chemistry/images/methyl%20group.jpg)
 
 ###### Methyl chloride
-![[Chemistry/Organic Chemistry/images/methyl chloride.png]]
+![](Chemistry/Organic%20Chemistry/images/methyl%20chloride.png)
 
 ###### Methyl alcohol
-![[Chemistry/Organic Chemistry/images/methyl alcohol.png]]
+![](Chemistry/Organic%20Chemistry/images/methyl%20alcohol.png)
 
 
 ##### Ethyl group
-![[Chemistry/Organic Chemistry/images/ethyl group.jpg]]
+![](Chemistry/Organic%20Chemistry/images/ethyl%20group.jpg)
 
 ###### Ethyl fluoride
-![[Chemistry/Organic Chemistry/images/ethyl fluoride.png]]
+![](Chemistry/Organic%20Chemistry/images/ethyl%20fluoride.png)
 
 
 ##### Amine Group
-![[Chemistry/Organic Chemistry/images/methyl amines.jpg]]
+![](Chemistry/Organic%20Chemistry/images/methyl%20amines.jpg)
 - Amines are compounds and functional groups that contain a basic nitrogen atom with a lone pair
 
 ###### Ethyl amine
-![[Chemistry/Organic Chemistry/images/ethyl amine.png]]
+![](Chemistry/Organic%20Chemistry/images/ethyl%20amine.png)
 
 
 ##### Propyl Group
-![[Chemistry/Organic Chemistry/images/propyl group.png]]
+![](Chemistry/Organic%20Chemistry/images/propyl%20group.png)
 
 ##### Butyl Group
-![[Chemistry/Organic Chemistry/images/butyl group.png]]
+![](Chemistry/Organic%20Chemistry/images/butyl%20group.png)
 
 
 

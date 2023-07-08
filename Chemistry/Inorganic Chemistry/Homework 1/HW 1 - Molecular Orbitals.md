@@ -10,9 +10,9 @@ Molecular Orbital Diagram for Molecular Oxygen (O<sub>2</sub>):
 -   Note: in the diagram below, the red horizontal lines represent atomic orbitals (AO) and the blue horizontal lines represent molecular orbitals (MO).
 -   Molecular orbitals can be either bonding or anti-bonding oribitals.
 
-![[Chemistry/Organic Chemistry/images/Homework 1 - Molecular Orbitals - O2.png]]
+![](Chemistry/Organic%20Chemistry/images/Homework%201%20-%20Molecular%20Orbitals%20-%20O2.png)
 
 - The lewis structure of O<sub>2</sub> is misleading in that it would appear to be diamagnetic, but according to molecular orbital theory it is paramagnetic.
   
-![[Chemistry/Organic Chemistry/images/HW 1 - Lewis Structure - O2.png]]
+![](Chemistry/Organic%20Chemistry/images/HW%201%20-%20Lewis%20Structure%20-%20O2.png)
 

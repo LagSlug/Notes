@@ -79,7 +79,7 @@ $$ 1eV = 96.685~ \frac {kJ}{mol} $$
 - A positive value indicates that energy is released when an electron is added (exothermic).
 - A negative value indicates that energy must be supplied to add an electron (endothermic).
 
-![[Chemistry/Inorganic Chemistry/attachments/Electron Affinity Table.png]]
+![](Chemistry/Inorganic%20Chemistry/attachments/Electron%20Affinity%20Table.png)
 
 
 - $ΔH$ is the heat 
@@ -101,7 +101,7 @@ $$
 
 - Electronegativity <u>can be used to assign oxidation states</u> of elements in a compound.
 
-![[Chemistry/Inorganic Chemistry/attachments/f-d 5f4bf7508b07cbc8a8b995c5c6d2be749b19829f2abc12d32be37dc9+IMAGE+IMAGE.jpg]]
+![](Chemistry/Inorganic%20Chemistry/attachments/f-d%205f4bf7508b07cbc8a8b995c5c6d2be749b19829f2abc12d32be37dc9+IMAGE+IMAGE.jpg)
 
 - Noble gases have low electronegativity values since they have a stable electron configuration.
 - Transition metals have variable electronegativity values due to their multiple oxidation states.
@@ -124,13 +124,13 @@ $$
 - Increases from left to right
 - Decreases from from top to bottom.
 
-![[Chemistry/Inorganic Chemistry/attachments/Effective Nuclear Charge.png]]
+![](Chemistry/Inorganic%20Chemistry/attachments/Effective%20Nuclear%20Charge.png)
 
 ### Atomic Radii
 
 - As nuclear charge increases within the nucleus, the outermost electrons are more strongly attracted, causing the atomic radius to shrink.
 
-![[Chemistry/Inorganic Chemistry/attachments/imageedit_14_2424312021.jpg]]
+![](Chemistry/Inorganic%20Chemistry/attachments/imageedit_14_2424312021.jpg)
 
 - Atomic radii decrease from:
   1. left to right, across a row
@@ -156,7 +156,7 @@ $$
 }
 $$
 
-![[Chemistry/Inorganic Chemistry/attachments/Ionization Energy.png]]
+![](Chemistry/Inorganic%20Chemistry/attachments/Ionization%20Energy.png)
 
 ## Electronic Properties
 
@@ -225,7 +225,7 @@ $$
 - Electron configurations refer to the arrangement of electrons within orbitals of an atom.
 - Orbitals within subshells are filled given a pattern related to electronegativities.
 
-![[Chemistry/Inorganic Chemistry/attachments/subshell-trend.svg]]
+![](Chemistry/Inorganic%20Chemistry/attachments/subshell-trend.svg)
 
 <u>To obtain an electron configuration</u>:
 1. Find number of electrons in a neutral atom, which is equal to its atomic number $(Z)$.
@@ -477,11 +477,11 @@ $$
 
 - A Lewis dot structure for $O^2$ makes it seem like all electrons are paired, <u>but this is not the case</u>.
 
-![[Chemistry/Inorganic Chemistry/attachments/O2-dot_diagram.jpg]]
+![](Chemistry/Inorganic%20Chemistry/attachments/O2-dot_diagram.jpg)
 
 - The molecular orbital diagram shows that <u>there are 2 unpaired electrons</u> in the $π^*$ (anti-bonding) orbital, so $O^2$ is paramagnetic.
 
-![[Chemistry/Inorganic Chemistry/attachments/O2-molecular-orbital-diagram-theory.jpg]]
+![](Chemistry/Inorganic%20Chemistry/attachments/O2-molecular-orbital-diagram-theory.jpg)
 
 #### Isoelectronic
 
@@ -539,7 +539,7 @@ $$
 	   - Hard acids prefer hard bases
 	   - Soft acids prefer soft bases
 
-![[Chemistry/Inorganic Chemistry/attachments/Hardsoftacids.png]]
+![](Chemistry/Inorganic%20Chemistry/attachments/Hardsoftacids.png)
 
 #### Acids - Metals
 | Soft Acids<br />(High Polarizability) | Borderline<br />(Moderate Polarizability) | Hard Acids<br />(Low Polarizability) |
@@ -747,7 +747,7 @@ $$
 \begin{array}{l|l} \hline \textbf{Mulliken Labels} & \textbf{meaning}\\ \hline A & \text{singly degenerate (1x1), symmetric to principle axis} \\ B & \text{singly degenerate (1x1), antisymmetric to principle axis} \\ E & \text{doubly degenerate (2x2)} \\ T & \text{triply degenerate (3x3)} \\ \hline \textbf{Subscripts and superscripts} & \textbf{meaning} \\ \hline 1 & \text{symmetric to } \sigma_v \text{or perpendicular to } C_2 \\ 2 & \text{anti-symmetric to } \sigma_v \text{or perpendicular to } C_2 \\ g & \text{symmetric to inversion center} \\ u & \text{anti-symmetric to inversion center} \\ ' & \text{symmetric to } \sigma_h \\ " & \text{anti-symmetric to } \sigma_h \\ \hline \end{array}
 $$
 
-![[Chemistry/Inorganic Chemistry/attachments/Screen Shot 2020-07-07 at 10.29.36 PM.png]]
+![](Chemistry/Inorganic%20Chemistry/attachments/Screen%20Shot%202020-07-07%20at%2010.29.36%20PM.png)
 
 ### Reducible Representations
 
@@ -778,7 +778,7 @@ where:
 
 ### Potential Energies of Orbitals
 
-![[Chemistry/Inorganic Chemistry/attachments/orbital potential energy vs atomic number.png]]
+![](Chemistry/Inorganic%20Chemistry/attachments/orbital%20potential%20energy%20vs%20atomic%20number.png)
 
 - Orbitals with a $Δ_{eV}\approx 14.4eV$ or greater are not close enough in energy to form bonds.
 - When two orbitals are very far apart in energy, one of them will always "win" in the 
@@ -816,13 +816,13 @@ where:
 
 - Can be done directly, by inspection.
 
-![[Chemistry/Inorganic Chemistry/attachments/molecularorbitaldiagramofcoandno-220108041534-thumbnail.webp]]
+![](Chemistry/Inorganic%20Chemistry/attachments/molecularorbitaldiagramofcoandno-220108041534-thumbnail.webp)
 
 #### Example: $\text{H}_2\text{O}$ - Water
 
 <u>Character Table</u>
 
-![[Chemistry/Inorganic Chemistry/attachments/Water - Character Table - C2v.png]]
+![](Chemistry/Inorganic%20Chemistry/attachments/Water%20-%20Character%20Table%20-%20C2v.png)
 
 <u>Reducible Representations</u>
 
@@ -853,21 +853,21 @@ $$
 
 - A1 and B1 symmetries are available.
 
-![[Chemistry/Inorganic Chemistry/attachments/H2O - MO Diagram.png]]
+![](Chemistry/Inorganic%20Chemistry/attachments/H2O%20-%20MO%20Diagram.png)
 
 #### Example: $\text{NH}_3$ - Ammonia
 
-![[Chemistry/Inorganic Chemistry/Exam 2/attachments/MO Diagram NH3.png]]
+![](Chemistry/Inorganic%20Chemistry/Exam%202/attachments/MO%20Diagram%20NH3.png)
 
 #### Example: $\text{BH}_3$ - Borane
 
-![[Chemistry/Inorganic Chemistry/Exam 2/attachments/MO Diagram BH3.png]]
+![](Chemistry/Inorganic%20Chemistry/Exam%202/attachments/MO%20Diagram%20BH3.png)
 
 - The $1e'$ molecular orbitals are degenerate, because both orbitals have the same energy.
 
 #### Example: $\text{BF}_3$ - Boron trifluoride
 
-![[Chemistry/Inorganic Chemistry/attachments/Boron trifluride mo diagram.png]]
+![](Chemistry/Inorganic%20Chemistry/attachments/Boron%20trifluride%20mo%20diagram.png)
 
 - $A'_2$ and $E''$ are non-bonding orbitals due to incompatible symmetries.
 - The $2s$ orbitals from the flurine atoms are too different in energy to interact with boron.
@@ -880,7 +880,7 @@ $$
 	- $3d_{z^2}~\text{and}~3d_{x^2-y^2}$ are doubly degenerate (2 orbitals of equal energy).
 	- $3d_{xy},~3d_{xz},~\text{and}~3d_{yz}$ are triply degenerate (3 orbitals of equal energy).
 
-![[Chemistry/Inorganic Chemistry/attachments/Five-d-orbitals-in-a-cubic-crystal-field-which-split-into-two-e-g-orbitals-and.png]]
+![](Chemistry/Inorganic%20Chemistry/attachments/Five-d-orbitals-in-a-cubic-crystal-field-which-split-into-two-e-g-orbitals-and.png)
 
 - $E_g$ orbitals are:
 	- $(E)$ Doubly dengenerate
@@ -906,7 +906,7 @@ $$
 - $Δ_t$ - Tetrahedral CFSE.
 
 
-![[Chemistry/Inorganic Chemistry/attachments/clipboard_e3082d8adaae5b7b28873cc2fbb88a183.png]]
+![](Chemistry/Inorganic%20Chemistry/attachments/clipboard_e3082d8adaae5b7b28873cc2fbb88a183.png)
 
 
 ### Ligand Strength
@@ -1003,11 +1003,11 @@ $$
 
 1. Look up Nickel Carbonyl and find out what geometry it has.
 
-![[Chemistry/Inorganic Chemistry/attachments/sdZA2.jpg]]
+![](Chemistry/Inorganic%20Chemistry/attachments/sdZA2.jpg)
 
 2. Find the appropriate crystal field splitting diagram for tetrahedral geometry.
    
-![[Chemistry/Inorganic Chemistry/attachments/tetrahedral splitting.png]]
+![](Chemistry/Inorganic%20Chemistry/attachments/tetrahedral%20splitting.png)
 
 3. In coordination compounds the $s$ electrons move to the $d$ sub-shell in bonding.
 $$
@@ -1016,7 +1016,7 @@ $$
 
 4. Place electrons on diagram.
   
-  ![[Chemistry/Inorganic Chemistry/attachments/tetrahedral splitting - with electrons.png]]
+  ![](Chemistry/Inorganic%20Chemistry/attachments/tetrahedral%20splitting%20-%20with%20electrons.png)
 
 5. Determine $Δ_t$.
 
@@ -1031,7 +1031,7 @@ $$
 
 - What is the Crystal Field Stabilization Energy for a high spin $d^7$ octahedral complex?
 
-![[Chemistry/Inorganic Chemistry/attachments/d7-highspin.png]]
+![](Chemistry/Inorganic%20Chemistry/attachments/d7-highspin.png)
 
 $$
 \begin{aligned}
@@ -1051,7 +1051,7 @@ $$
 
 - What is the Crystal Field Stabilization Energy for a low spin $d^7$ octahedral complex?
 
-![[Chemistry/Inorganic Chemistry/attachments/d7-lowspin.png]]
+![](Chemistry/Inorganic%20Chemistry/attachments/d7-lowspin.png)
 
 $$
 \begin{aligned}

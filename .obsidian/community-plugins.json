@@ -11,5 +11,6 @@
   "templater-obsidian",
   "obsidian-regex-replace",
   "obsidian-html-local-image-plugin",
-  "obsidian-chemlab-plugin"
+  "obsidian-chemlab-plugin",
+  "consistent-attachments-and-links"
 ]

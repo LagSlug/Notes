@@ -66,11 +66,11 @@ ffmpeg -f lavfi \
 - `Bink` begins the encoding process, click it if everything looks fine.
 - `Bink 1` is the `.bik` file format, which is the only format available without a license.
   
-![[attachments/RAD Video Tools - Encode BIK Format.png]]
+![](attachments/RAD%20Video%20Tools%20-%20Encode%20BIK%20Format.png)
 
 - Success will look like this:
   
-  ![[Gaming/attachments/RAD Video Tools - BIK Encoded Successfully.png]]
+  ![](Gaming/attachments/RAD%20Video%20Tools%20-%20BIK%20Encoded%20Successfully.png)
 
 - Renaming the file to `one-second-black.bk2` will be sufficient if the `.bk2` format is required by an application.
 

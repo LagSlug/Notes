@@ -10,7 +10,7 @@ By Samuel Taylor Coleridge
 
 ### Key Terms
 
-- [[Chemistry/Core/Terms/Electrophile|Electrophiles]] - species that attract electrons.
+- [Electrophiles](Chemistry/Core/Terms/Electrophile.md) - species that attract electrons.
 - Nucleophiles - species that attract protons.
 - Resonance - the delocalization of charge influences cation stability.
 - Resonance forms - ways of describing the resonance states.
@@ -60,9 +60,9 @@ By Samuel Taylor Coleridge
 
 ### Electrophilic Addition in Alkenes
 
-- The reaction of 2-butene with hydrocholoric acid produces a [[Chemistry/Core/Terms/Racemic mixture|Racemic mixture]] of 2-chlorobutane.
+- The reaction of 2-butene with hydrocholoric acid produces a [Racemic mixture](Chemistry/Core/Terms/Racemic%20mixture.md) of 2-chlorobutane.
   
-![[Chemistry/ChemDraw/Addition Reactions/But-2-ene + HCl.svg]]
+![](Chemistry/ChemDraw/Addition%20Reactions/But-2-ene%20+%20HCl.svg)
 
 - Hydrogen is an electrophile, and attracts the electrons from the π bond in 2-butene.
 - Chloride ion are nucleophiles, and is attracted to the elecrophilic center of the intermediate butane cation.

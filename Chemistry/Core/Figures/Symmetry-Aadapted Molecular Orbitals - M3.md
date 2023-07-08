@@ -1,5 +1,5 @@
 
-![[Chemistry/Core/Figures/attachments/Symmetry-adapted-molecular-orbitals-containing-the-metallic-valence-electrons-for-linear.png]]
+![](Chemistry/Core/Figures/attachments/Symmetry-adapted-molecular-orbitals-containing-the-metallic-valence-electrons-for-linear.png)
 
 #### BibTex
 

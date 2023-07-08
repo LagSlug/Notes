@@ -3,4 +3,4 @@
 
 ^Symmetry
 
-![[Art/Ancient/Greek/attachments/symmetry-in-ancient-greek-art.jpg]]
+![](Art/Ancient/Greek/attachments/symmetry-in-ancient-greek-art.jpg)

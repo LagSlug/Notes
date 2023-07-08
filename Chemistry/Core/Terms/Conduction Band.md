@@ -6,7 +6,7 @@
   
 - Electrons in the conduction band are free to move throughout the material and can carry an electric current.
   
-- The energy difference between the valence band and the conduction band is called the [[Chemistry/Core/Terms/Band Gap|band gap]].
+- The energy difference between the valence band and the conduction band is called the [band gap](Chemistry/Core/Terms/Band%20Gap.md).
   
 - The width of the conduction band determines the electrical conductivity of a material, with wider bands corresponding to materials that conduct electricity more readily.
   

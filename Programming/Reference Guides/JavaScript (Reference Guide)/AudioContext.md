@@ -1,11 +1,11 @@
 
 ## Table of Contents
 
-- [[#1. Introduction]]
-- [[#2. Creating an AudioContext]]
-- [[#3. AudioContext Methods]]
-- [[#4. Example Usage]]
-- [[#5. Full Demo]]
+- [1. Introduction](#1.%20Introduction)
+- [2. Creating an AudioContext](#2.%20Creating%20an%20AudioContext)
+- [3. AudioContext Methods](#3.%20AudioContext%20Methods)
+- [4. Example Usage](#4.%20Example%20Usage)
+- [5. Full Demo](#5.%20Full%20Demo)
 
 ---
 

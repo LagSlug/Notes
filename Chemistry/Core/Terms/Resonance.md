@@ -8,9 +8,9 @@
 
 ### Resonance in Carbonate
 
-![[Chemistry/assets/Resonance of carbonate.svg]]
+![](Chemistry/assets/Resonance%20of%20carbonate.svg)
 
 ### Resonance in Nitrate
 
-![[Chemistry/assets/Resonance of Nitrate.svg]]
+![](Chemistry/assets/Resonance%20of%20Nitrate.svg)
 

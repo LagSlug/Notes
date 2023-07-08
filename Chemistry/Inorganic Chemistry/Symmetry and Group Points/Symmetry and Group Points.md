@@ -2,7 +2,7 @@
 	cssclass: clean-embeds
 ---
 
-- [[Persons of Interest/Mineralogy/Johann Friedrich Christian Hessel|Johann F. C. Hessel]] proved that there are only 32 kinds of crystal symmetry (point groups) in Euclidean space.
+- [Johann F. C. Hessel](Persons%20of%20Interest/Mineralogy/Johann%20Friedrich%20Christian%20Hessel.md) proved that there are only 32 kinds of crystal symmetry (point groups) in Euclidean space.
 - The 32 point groups can be further classified into seven crystal systems.
 - The seven crystal systems are: 
 	1. monoclinic
@@ -17,24 +17,24 @@
   
 - Symmetry exists in nature, art, and architecture.
 	1. Nature
-		- [[Chemistry/Inorganic Chemistry/Symmetry and Group Points/Symmetry in Flowers|Flowers]]
+		- [Flowers](Chemistry/Inorganic%20Chemistry/Symmetry%20and%20Group%20Points/Symmetry%20in%20Flowers.md)
 	2. Art
-		- [[Art/Ancient/Greek/Ancient Greek Art#^Symmetry|Ancient Greek Art]]
+		- [Ancient Greek Art](Art/Ancient/Greek/Ancient%20Greek%20Art#^Symmetry)
 	3. Architecture
-		- [[Architecture/Ancient/Greek/Ancient Greek Architecture#^Symmetry|Ancient Greek Architecture]] 
+		- [Ancient Greek Architecture](Architecture/Ancient/Greek/Ancient%20Greek%20Architecture#^Symmetry) 
 
 - Molecules can be grouped by symmetry.
-	 1. [[Chemistry/Inorganic Chemistry/Symmetry and Group Points/Dihedral Groups#^Dihedral-groups|Dihedral]]
-		 - [[Chemistry/Inorganic Chemistry/Symmetry and Group Points/Dihedral Groups#^Tris-ethylenediamine-cobalt-III|Tris(ethylenediamine) cobalt(III)]]
-		 - [[Chemistry/Inorganic Chemistry/Symmetry and Group Points/Dihedral Groups#^Cyclohexane-chair|Cyclohexane (chair conformation)]]
-		 - [[Chemistry/Inorganic Chemistry/Symmetry and Group Points/Dihedral Groups#^Iron-pentacarbonyl|Iron pentacarbonyl]]
-		 - [[Chemistry/Inorganic Chemistry/Symmetry and Group Points/Dihedral Groups#^Carbon-dioxide|Carbon dioxide]]
+	 1. [Dihedral](Chemistry/Inorganic%20Chemistry/Symmetry%20and%20Group%20Points/Dihedral%20Groups#^Dihedral-groups)
+		 - [Tris(ethylenediamine) cobalt(III)](Chemistry/Inorganic%20Chemistry/Symmetry%20and%20Group%20Points/Dihedral%20Groups#^Tris-ethylenediamine-cobalt-III)
+		 - [Cyclohexane (chair conformation)](Chemistry/Inorganic%20Chemistry/Symmetry%20and%20Group%20Points/Dihedral%20Groups#^Cyclohexane-chair)
+		 - [Iron pentacarbonyl](Chemistry/Inorganic%20Chemistry/Symmetry%20and%20Group%20Points/Dihedral%20Groups#^Iron-pentacarbonyl)
+		 - [Carbon dioxide](Chemistry/Inorganic%20Chemistry/Symmetry%20and%20Group%20Points/Dihedral%20Groups#^Carbon-dioxide)
 	 
 ### Examples of Symmetrical and Non-Symmetrical Molecules
 
-![[Chemistry/Inorganic Chemistry/Symmetry and Group Points/attachments/Symmetry and Group Points.png|500]]
+![](Chemistry/Inorganic%20Chemistry/Symmetry%20and%20Group%20Points/attachments/Symmetry%20and%20Group%20Points.png)
 
-![[Chemistry/Inorganic Chemistry/Symmetry and Group Points/attachments/Symmetry and Group Points 2.png|525]]
+![](Chemistry/Inorganic%20Chemistry/Symmetry%20and%20Group%20Points/attachments/Symmetry%20and%20Group%20Points%202.png)
 
 ### Roadmap to Molecular Orbitals
 
@@ -58,16 +58,16 @@
 
 -  Orbitals are found in <u>orbital shells</u>, which come in four flavors: s, p, d, and f.
 
-![[Chemistry/VSEPR Theory/Orbital Shells]]
+![](Chemistry/VSEPR%20Theory/Orbital%20Shells)
 
 - Electrons enter orbitals according to a set of rules, where the lowest energy oribitals are consumed first.
 
-![[Chemistry/VSEPR Theory/Orbital Precedence]]
+![](Chemistry/VSEPR%20Theory/Orbital%20Precedence)
 
 -  Non-bonded electrons have more energy than bonded electrons, and will experience an "axial/equatorial effect".
 -  The <u>axial/equatorial effect</u> occurs when non-bonded electrons move to equitorial positions to obtain the most space.
     
-![[Chemistry/VSEPR Theory/VSEPR Theory]]
+![](Chemistry/VSEPR%20Theory/VSEPR%20Theory)
 
 #### 3. Symmetry Analysis
 

@@ -19,5 +19,5 @@ $$
 
 $$
 <u>Graph</u>
-![[Mathematics/attachments/graph - absolute value function.svg]]
+![](Mathematics/attachments/graph%20-%20absolute%20value%20function.svg)
 

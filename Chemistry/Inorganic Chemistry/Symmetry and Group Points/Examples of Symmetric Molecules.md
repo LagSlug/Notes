@@ -102,7 +102,7 @@
 </div>
 
 #### Mirror Planes (σ) of H<sub>2</sub>O
-![[Chemistry/Inorganic Chemistry/Symmetry and Group Points/attachments/Mirror Planes of H2O.png]]
+![](Chemistry/Inorganic%20Chemistry/Symmetry%20and%20Group%20Points/attachments/Mirror%20Planes%20of%20H2O.png)
 
 
 

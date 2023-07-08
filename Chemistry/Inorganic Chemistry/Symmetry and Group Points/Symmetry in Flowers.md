@@ -3,7 +3,7 @@
 	<img src="attachments/Symmetry-in-diverse-flower-shapes-A-Asymmetrical-flowers-have-no-plane-of-symmetry.jpg"/>
 </div>
 
-[[Chemistry/Inorganic Chemistry/Symmetry and Group Points/Credits#^003a51|Credit: Re“CYC”ling Molecular Regulators In The Evolution And Development Of Flower Symmetry]]
+[Credit: Re“CYC”ling Molecular Regulators In The Evolution And Development Of Flower Symmetry](Chemistry/Inorganic%20Chemistry/Symmetry%20and%20Group%20Points/Credits#^003a51)
 
 A. Types of flower symmetry
 -   Asymmetrical flowers have no plane of symmetry.

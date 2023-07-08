@@ -71,14 +71,14 @@
 #Cyclohexane--chair
  ^Cyclohexane-chair
  
-[[Chemistry/Inorganic Chemistry/Symmetry and Group Points/attachments/Axis Labeled - Cyclohexane.png|Cyclohexane with axes labeled]]
+[Cyclohexane with axes labeled](Chemistry/Inorganic%20Chemistry/Symmetry%20and%20Group%20Points/attachments/Axis%20Labeled%20-%20Cyclohexane.png)
 
 3. D<sub>nh</sub>
 	- Contains the same symmetry elements as D<sub>n</sub> with the addition of a horizontal mirror plane.
 	- C<sub>3</sub> ⊥ C<sub>2</sub> ∧ σ<sub>h</sub>
 	- There are n-fold vertical mirror places (σv).
 	- Includes n-fold improper axis when n > 2.
-	- They are [[Chemistry/Inorganic Chemistry/Symmetry and Group Points/Centrosymmetric|centrosymmetric]] when n is even.
+	- They are [centrosymmetric](Chemistry/Inorganic%20Chemistry/Symmetry%20and%20Group%20Points/Centrosymmetric.md) when n is even.
 
 
 <div style="display: table; border: 1px solid; width: 100%;">
@@ -110,7 +110,7 @@
 
 1. D<sub>∞h</sub>
 	- Same as D<sub>nh</sub>, except the principal rotational axis is an infinite-fold C<sub>∞</sub>
-	- This is the point group for all linear [[Chemistry/Inorganic Chemistry/Symmetry and Group Points/Centrosymmetric|centrosymmetric]] linear molecules (e.g. H<sub>2</sub>, <span style="white-space: nowrap;">CO<sub>2</sub></span>)
+	- This is the point group for all linear [centrosymmetric](Chemistry/Inorganic%20Chemistry/Symmetry%20and%20Group%20Points/Centrosymmetric.md) linear molecules (e.g. H<sub>2</sub>, <span style="white-space: nowrap;">CO<sub>2</sub></span>)
 
 <div style="display: table; border: 1px solid; width: 100%;">
 	<div style="display: table-row;">

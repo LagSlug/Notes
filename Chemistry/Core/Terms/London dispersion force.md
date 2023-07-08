@@ -12,7 +12,7 @@
 
 ### Figure 1
 
-![[Chemistry/assets/London dispersion forces.svg]]
+![](Chemistry/assets/London%20dispersion%20forces.svg)
 
 1. Two molecules drift near to one another.
 2. The electron distribution fluctuates in one molecule.
@@ -22,7 +22,7 @@
 
 - The same as figure 1, but with more cats.
   
-![[Chemistry/assets/London dispersion forces with many cats.svg]]  
+![](Chemistry/assets/London%20dispersion%20forces%20with%20many%20cats.svg)  
   
 1. Two molecules drift near to one another.
 2. The electron distribution fluctuates in one molecule.
