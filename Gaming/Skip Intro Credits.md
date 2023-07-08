@@ -70,7 +70,7 @@ ffmpeg -f lavfi \
 
 - Success will look like this:
   
-  ![](Gaming/attachments/RAD%20Video%20Tools%20-%20BIK%20Encoded%20Successfully.png)
+  ![](attachments/RAD%20Video%20Tools%20-%20BIK%20Encoded%20Successfully.png)
 
 - Renaming the file to `one-second-black.bk2` will be sufficient if the `.bk2` format is required by an application.
 
