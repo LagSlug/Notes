@@ -1,3 +1,5 @@
+# Skip Intro Credits
+
 - Most games have a series of clips that display the name of development companies which own or produced the title.
 
 ### Solutions
@@ -35,7 +37,7 @@ ffmpeg -f lavfi \
 ```
 
 ##### Download
-- https://mega.nz/file/vNYU0IpT#6WKzEqy---eWrykLx8YiJgM278rjZTwE_ojjik1maMQ
+- [one-second-black.mov](https://mega.nz/file/vNYU0IpT#6WKzEqy---eWrykLx8YiJgM278rjZTwE_ojjik1maMQ)
 
 #### RAD Video - .bik / .bk2
 - Video formats: `.bik` and `.bk2` can be encoded using the `RAD Video Tools` application.
